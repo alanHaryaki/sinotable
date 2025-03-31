@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://bscgtxhuqda8m"]
+
+[ext_resource type="Script" uid="uid://cns2ugj6qy6au" path="res://scenes/components/tone_button.gd" id="1_8jgqf"]
+
+[node name="ToneButton" type="Button"]
+custom_minimum_size = Vector2(64, 40)
+offset_right = 8.0
+offset_bottom = 8.0
+focus_mode = 0
+theme_type_variation = &"ToneButton"
+toggle_mode = true
+script = ExtResource("1_8jgqf")

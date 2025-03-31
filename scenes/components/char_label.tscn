@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://ctaev7r2lnpyg"]
+
+[ext_resource type="Theme" uid="uid://cksc3np537d7b" path="res://resources/theme.tres" id="1_h70uh"]
+[ext_resource type="Script" uid="uid://v28dp066bk0p" path="res://scenes/components/char_label.gd" id="1_nrdal"]
+
+[node name="CharLabel" type="RichTextLabel"]
+custom_minimum_size = Vector2(320, 45)
+offset_right = 40.0
+offset_bottom = 40.0
+size_flags_horizontal = 4
+size_flags_vertical = 0
+theme = ExtResource("1_h70uh")
+theme_type_variation = &"CharLabel"
+bbcode_enabled = true
+fit_content = true
+script = ExtResource("1_nrdal")

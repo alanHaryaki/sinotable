@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://x8mklerofjdh"]
+
+[ext_resource type="Script" uid="uid://cp2r2splhndpc" path="res://scenes/components/header_label.gd" id="1_le7i4"]
+
+[node name="HeaderLabel" type="Label"]
+custom_minimum_size = Vector2(64, 40)
+anchors_preset = -1
+anchor_right = 0.033
+anchor_bottom = 0.037
+offset_right = -23.36
+offset_bottom = -16.96
+theme_type_variation = &"HeaderLabel"
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("1_le7i4")

@@ -1,0 +1,101 @@
+[gd_resource type="Theme" load_steps=17 format=3 uid="uid://cksc3np537d7b"]
+
+[ext_resource type="FontFile" uid="uid://co7svwndxep88" path="res://assets/fonts/calibrib.ttf" id="1_cjfk0"]
+[ext_resource type="FontFile" uid="uid://c38ujopc5thqd" path="res://assets/fonts/calibri.ttf" id="1_e1x85"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_110ce"]
+bg_color = Color(0.972549, 0.796078, 0.678431, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_05tig"]
+bg_color = Color(0.988235, 0.894118, 0.839216, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_1rmny"]
+bg_color = Color(0.956863, 0.690196, 0.517647, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_cjfk0"]
+bg_color = Color(0, 0, 0, 0)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_vj6dk"]
+bg_color = Color(0.776471, 0.878431, 0.705882, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0xm2m"]
+bg_color = Color(0.886275, 0.937255, 0.854902, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_e1x85"]
+bg_color = Color(0.662745, 0.815686, 0.556863, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_mihib"]
+bg_color = Color(0.705882, 0.776471, 0.905882, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_yin2u"]
+bg_color = Color(0.85098, 0.882353, 0.94902, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ttqs8"]
+bg_color = Color(0.541176, 0.643137, 0.835294, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_7ct1h"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_886mr"]
+bg_color = Color(1, 0.901961, 0.6, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_b751m"]
+bg_color = Color(1, 0.85098, 0.4, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_owntx"]
+bg_color = Color(0.94902, 0.94902, 0.94902, 1)
+corner_radius_top_left = 1
+corner_radius_top_right = 1
+corner_radius_bottom_right = 1
+corner_radius_bottom_left = 1
+expand_margin_left = 4.0
+expand_margin_top = 2.0
+expand_margin_right = 4.0
+expand_margin_bottom = 2.0
+
+[resource]
+default_font = ExtResource("1_e1x85")
+CharLabel/base_type = &"RichTextLabel"
+CharLabel/colors/default_color = Color(0, 0, 0, 1)
+CharLabel/font_sizes/bold_font_size = 36
+CharLabel/font_sizes/normal_font_size = 18
+CharLabel/fonts/bold_font = ExtResource("1_cjfk0")
+GridContainer/constants/h_separation = 0
+GridContainer/constants/v_separation = 0
+HBoxContainer/constants/separation = 0
+HeaderLabel/base_type = &"Label"
+HeaderLabel/colors/font_color = Color(0, 0, 0, 1)
+HeaderLabel/font_sizes/font_size = 28
+HeaderLabel/fonts/font = ExtResource("1_cjfk0")
+OnsetButton/base_type = &"Button"
+OnsetButton/colors/font_color = Color(0, 0, 0, 1)
+OnsetButton/colors/font_hover_color = Color(0, 0, 0, 1)
+OnsetButton/colors/font_pressed_color = Color(0, 0, 0, 1)
+OnsetButton/font_sizes/font_size = 24
+OnsetButton/fonts/font = ExtResource("1_e1x85")
+OnsetButton/styles/hover = SubResource("StyleBoxFlat_110ce")
+OnsetButton/styles/normal = SubResource("StyleBoxFlat_05tig")
+OnsetButton/styles/pressed = SubResource("StyleBoxFlat_1rmny")
+SyllableButton/base_type = &"Button"
+SyllableButton/colors/font_color = Color(0, 0, 0, 1)
+SyllableButton/colors/font_disabled_color = Color(0.642793, 0.630633, 0.63064, 1)
+SyllableButton/colors/font_hover_color = Color(0, 0, 0, 1)
+SyllableButton/colors/font_pressed_color = Color(0, 0, 0, 1)
+SyllableButton/font_sizes/font_size = 24
+SyllableButton/styles/disabled = SubResource("StyleBoxFlat_cjfk0")
+SyllableButton/styles/hover = SubResource("StyleBoxFlat_vj6dk")
+SyllableButton/styles/normal = SubResource("StyleBoxFlat_0xm2m")
+SyllableButton/styles/pressed = SubResource("StyleBoxFlat_e1x85")
+ToneButton/base_type = &"Button"
+ToneButton/colors/font_color = Color(0, 0, 0, 1)
+ToneButton/colors/font_hover_color = Color(0, 0, 0, 1)
+ToneButton/colors/font_pressed_color = Color(0, 0, 0, 1)
+ToneButton/font_sizes/font_size = 20
+ToneButton/fonts/font = ExtResource("1_e1x85")
+ToneButton/styles/hover = SubResource("StyleBoxFlat_mihib")
+ToneButton/styles/normal = SubResource("StyleBoxFlat_yin2u")
+ToneButton/styles/pressed = SubResource("StyleBoxFlat_ttqs8")
+VBoxContainer/constants/separation = 0
+VScrollBar/styles/grabber = SubResource("StyleBoxFlat_7ct1h")
+VScrollBar/styles/grabber_highlight = SubResource("StyleBoxFlat_886mr")
+VScrollBar/styles/grabber_pressed = SubResource("StyleBoxFlat_b751m")
+VScrollBar/styles/scroll = SubResource("StyleBoxFlat_owntx")

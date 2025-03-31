@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://bjb62vx27ngbg"]
+
+[ext_resource type="FontFile" uid="uid://c38ujopc5thqd" path="res://assets/fonts/calibri.ttf" id="1_0sdv0"]
+[ext_resource type="Theme" uid="uid://cksc3np537d7b" path="res://resources/theme.tres" id="1_e64rt"]
+[ext_resource type="Script" uid="uid://cvsqi0ofyr7u1" path="res://scenes/components/syllable_button.gd" id="2_gj4sd"]
+
+[node name="SyllableButton" type="Button"]
+show_behind_parent = true
+clip_contents = true
+custom_minimum_size = Vector2(64, 40)
+anchors_preset = -1
+anchor_right = 0.033
+anchor_bottom = 0.037
+offset_right = 0.639999
+offset_bottom = 0.0400009
+focus_mode = 0
+theme = ExtResource("1_e64rt")
+theme_type_variation = &"SyllableButton"
+theme_override_fonts/font = ExtResource("1_0sdv0")
+theme_override_font_sizes/font_size = 24
+text = "niêng"
+script = ExtResource("2_gj4sd")
+
+[connection signal="pressed" from="." to="." method="on_pressed"]

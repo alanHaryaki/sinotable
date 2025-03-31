@@ -1,0 +1,108 @@
+[gd_scene load_steps=10 format=3 uid="uid://gka2cm3or6bu"]
+
+[ext_resource type="Theme" uid="uid://cksc3np537d7b" path="res://resources/theme.tres" id="1_0xm2m"]
+[ext_resource type="Script" uid="uid://doiqbbdc7bjvy" path="res://scenes/syllables_container.gd" id="1_ig7tw"]
+[ext_resource type="Script" uid="uid://dh3juitp2gvy4" path="res://scenes/main.gd" id="2_1bvp3"]
+[ext_resource type="Script" uid="uid://wh3s4skkartj" path="res://scenes/onsets_container.gd" id="3_h2yge"]
+[ext_resource type="Script" uid="uid://beondkls8rca5" path="res://scenes/tones_container.gd" id="5_lquwl"]
+[ext_resource type="Script" uid="uid://dml6mfkihixm1" path="res://scenes/display_container.gd" id="6_o6xl0"]
+[ext_resource type="Script" uid="uid://by7qrve0c4h17" path="res://scenes/charlist.gd" id="6_tefeu"]
+[ext_resource type="FontFile" uid="uid://co7svwndxep88" path="res://assets/fonts/calibrib.ttf" id="7_tipki"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_tbgi4"]
+font = ExtResource("7_tipki")
+font_size = 100
+font_color = Color(0, 0, 0, 1)
+
+[node name="Main" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 88.0
+offset_top = 40.0
+offset_right = -88.0
+offset_bottom = -40.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("1_0xm2m")
+script = ExtResource("2_1bvp3")
+
+[node name="SyllablesContainer" type="GridContainer" parent="."]
+unique_name_in_owner = true
+offset_left = 640.0
+offset_right = 1024.0
+offset_bottom = 720.0
+columns = 6
+script = ExtResource("1_ig7tw")
+
+[node name="OnsetsContainer" type="VBoxContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_right = 512.0
+offset_bottom = 160.0
+script = ExtResource("3_h2yge")
+
+[node name="Row1" type="HBoxContainer" parent="OnsetsContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 8
+
+[node name="Row2" type="HBoxContainer" parent="OnsetsContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 8
+
+[node name="Row3" type="HBoxContainer" parent="OnsetsContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 8
+
+[node name="Row4" type="HBoxContainer" parent="OnsetsContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 8
+
+[node name="TonesContainer" type="HBoxContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 128.0
+offset_top = 200.0
+offset_right = 512.0
+offset_bottom = 240.0
+script = ExtResource("5_lquwl")
+
+[node name="DisplayContainer" type="VBoxContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 128.0
+offset_top = 280.0
+offset_right = 512.0
+offset_bottom = 680.0
+script = ExtResource("6_o6xl0")
+
+[node name="PinyinLabel" type="Label" parent="DisplayContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 120)
+layout_mode = 2
+label_settings = SubResource("LabelSettings_tbgi4")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="DisplayContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+horizontal_scroll_mode = 0
+
+[node name="Charlist" type="VBoxContainer" parent="DisplayContainer/ScrollContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource("6_tefeu")
