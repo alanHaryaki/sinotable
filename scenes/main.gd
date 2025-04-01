@@ -51,3 +51,4 @@ func on_tone_button_pressed(tone: String) -> void:
 func on_syllable_pressed(syllable: String) -> void:
 	if current_onset and current_tone:
 		%DisplayContainer.display(syllable)
+		%SyllableAudioPlayer.play_syllable_audio(syllable)

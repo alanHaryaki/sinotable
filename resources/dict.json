@@ -2,23 +2,37 @@
 	"a": {
 		"﻿啊": {
 			"simplified": "啊",
-			"meaning": "exclamation (surprise), ah"
+			"meaning": "(exclamation - surprise) ah"
 		}
 	},
 	"ā": {
 		"阿": {
 			"simplified": "阿",
-			"meaning": "prefix to names of people to form terms of endearment"
+			"meaning": "(prefix to names of people to form terms of endearment)"
+		}
+	},
+	"ái": {
+		"挨": {
+			"simplified": "挨",
+			"meaning": "to endure"
+		},
+		"捱": {
+			"simplified": "捱",
+			"meaning": "to endure"
 		}
 	},
 	"ài": {
 		"艾": {
 			"simplified": "艾",
-			"meaning": "mugwort, stop"
+			"meaning": "mugwort (a type of plant); stop"
 		},
 		"愛": {
 			"simplified": "爱",
-			"meaning": "love"
+			"meaning": "to love; love"
+		},
+		"唉": {
+			"simplified": "唉",
+			"meaning": "(exclamation - regret) sigh, alas"
 		}
 	},
 	"ǎi": {
@@ -34,23 +48,11 @@
 		},
 		"哎": {
 			"simplified": "哎",
-			"meaning": "exclamation (surprise)"
-		},
-		"唉": {
-			"simplified": "唉",
-			"meaning": "sigh, alas"
+			"meaning": "(exclamation - surprise)"
 		},
 		"埃": {
 			"simplified": "埃",
 			"meaning": "dust"
-		},
-		"挨": {
-			"simplified": "挨",
-			"meaning": "endure"
-		},
-		"捱": {
-			"simplified": "捱",
-			"meaning": "to endure"
 		}
 	},
 	"àn": {
@@ -64,11 +66,11 @@
 		},
 		"按": {
 			"simplified": "按",
-			"meaning": "press"
+			"meaning": "to press"
 		},
 		"案": {
 			"simplified": "案",
-			"meaning": "case"
+			"meaning": "wooden tray, desk; case; record; plan"
 		}
 	},
 	"ǎn": {
@@ -88,25 +90,25 @@
 		},
 		"庵": {
 			"simplified": "庵",
-			"meaning": "hermitage"
+			"meaning": "hut; hermitage, nunnery"
 		}
 	},
 	"áng": {
 		"昂": {
 			"simplified": "昂",
-			"meaning": "lift, raise"
+			"meaning": "to lift, to raise"
 		}
 	},
 	"àng": {
 		"盎": {
 			"simplified": "盎",
-			"meaning": "bowl"
+			"meaning": "(a type of ancient earthenware) bowl; brimming; abundant"
 		}
 	},
 	"áo": {
 		"敖": {
 			"simplified": "敖",
-			"meaning": "roam"
+			"meaning": "(a surname)"
 		}
 	},
 	"ào": {
@@ -124,35 +126,35 @@
 	"ba": {
 		"吧": {
 			"simplified": "吧",
-			"meaning": "exclamation (question/uncertainty)"
+			"meaning": "(exclamation - question/uncertainty)"
 		}
 	},
 	"bá": {
 		"拔": {
 			"simplified": "拔",
-			"meaning": "pull out"
+			"meaning": "to pull out"
 		}
 	},
 	"bà": {
 		"爸": {
 			"simplified": "爸",
-			"meaning": "dad"
+			"meaning": "father, dad"
 		},
 		"耙": {
 			"simplified": "耙",
-			"meaning": "rake"
+			"meaning": "to rake"
 		}
 	},
 	"bǎ": {
 		"把": {
 			"simplified": "把",
-			"meaning": "grasp, handle"
+			"meaning": "to grasp; handle"
 		}
 	},
 	"bā": {
 		"巴": {
 			"simplified": "巴",
-			"meaning": "cling, hope"
+			"meaning": "to cling, to hope"
 		},
 		"八": {
 			"simplified": "八",
@@ -160,7 +162,7 @@
 		},
 		"叭": {
 			"simplified": "叭",
-			"meaning": "an onomatopoeic for trumpet sound"
+			"meaning": "(onomatopoeic) sound of trumpet"
 		},
 		"疤": {
 			"simplified": "疤",
@@ -180,11 +182,11 @@
 	"bài": {
 		"敗": {
 			"simplified": "败",
-			"meaning": "lose, defeat"
+			"meaning": "to fail, to ruin; to defeat; rotten"
 		},
 		"拜": {
 			"simplified": "拜",
-			"meaning": "worship"
+			"meaning": "to worship"
 		}
 	},
 	"bǎi": {
@@ -198,13 +200,13 @@
 		},
 		"柏": {
 			"simplified": "柏",
-			"meaning": "cypress"
+			"meaning": "cypress (a type of tree)"
 		}
 	},
 	"bàn": {
 		"拌": {
 			"simplified": "拌",
-			"meaning": "mix, stir"
+			"meaning": "to mix, to stir"
 		},
 		"半": {
 			"simplified": "半",
@@ -212,15 +214,15 @@
 		},
 		"伴": {
 			"simplified": "伴",
-			"meaning": "companion"
+			"meaning": "companion; to accompany"
 		},
 		"扮": {
 			"simplified": "扮",
-			"meaning": "dress up as"
+			"meaning": "to dress up as"
 		},
 		"絆": {
 			"simplified": "绊",
-			"meaning": "trip over"
+			"meaning": "to trip over"
 		}
 	},
 	"bǎn": {
@@ -236,7 +238,7 @@
 	"bān": {
 		"扳": {
 			"simplified": "扳",
-			"meaning": "topull, turn"
+			"meaning": "to pull, to turn"
 		},
 		"班": {
 			"simplified": "班",
@@ -260,7 +262,7 @@
 		},
 		"幫": {
 			"simplified": "帮",
-			"meaning": "help"
+			"meaning": "to help"
 		},
 		"梆": {
 			"simplified": "梆",
@@ -270,11 +272,11 @@
 	"bào": {
 		"報": {
 			"simplified": "报",
-			"meaning": "report, newspaper"
+			"meaning": "to report; newspaper"
 		},
 		"抱": {
 			"simplified": "抱",
-			"meaning": "embrace, hug"
+			"meaning": "to embrace, to hug"
 		},
 		"豹": {
 			"simplified": "豹",
@@ -284,13 +286,13 @@
 	"bǎo": {
 		"保": {
 			"simplified": "保",
-			"meaning": "protect"
+			"meaning": "to protect"
 		}
 	},
 	"bāo": {
 		"包": {
 			"simplified": "包",
-			"meaning": "bag, wrap"
+			"meaning": "bag; to wrap"
 		},
 		"胞": {
 			"simplified": "胞",
@@ -304,15 +306,15 @@
 	"bèi": {
 		"狽": {
 			"simplified": "狈",
-			"meaning": "a legendary animal name"
+			"meaning": "(name of a mythical animal)"
 		},
 		"貝": {
 			"simplified": "贝",
-			"meaning": "shell, money"
+			"meaning": "shell; money"
 		},
 		"背": {
 			"simplified": "背",
-			"meaning": "back"
+			"meaning": "back (of body/object)"
 		},
 		"倍": {
 			"simplified": "倍",
@@ -330,6 +332,10 @@
 		}
 	},
 	"bēi": {
+		"背": {
+			"simplified": "背",
+			"meaning": "to carry on back, to bear"
+		},
 		"卑": {
 			"simplified": "卑",
 			"meaning": "low, humble"
@@ -362,7 +368,7 @@
 	"bēn": {
 		"奔": {
 			"simplified": "奔",
-			"meaning": "run, flee"
+			"meaning": "to run, to flee"
 		}
 	},
 	"béng": {
@@ -374,7 +380,7 @@
 	"bēng": {
 		"崩": {
 			"simplified": "崩",
-			"meaning": "collapse"
+			"meaning": "(mountain) to collapse"
 		}
 	},
 	"bí": {
@@ -384,17 +390,17 @@
 		},
 		"荸": {
 			"simplified": "荸",
-			"meaning": "water chestnut"
+			"meaning": "water chestnut (a type of fruit)"
 		}
 	},
 	"bì": {
 		"庇": {
 			"simplified": "庇",
-			"meaning": "shelter, cover"
+			"meaning": "to shelter, to cover"
 		},
 		"閉": {
 			"simplified": "闭",
-			"meaning": "close"
+			"meaning": "to close; to shut"
 		},
 		"必": {
 			"simplified": "必",
@@ -402,7 +408,7 @@
 		},
 		"俾": {
 			"simplified": "俾",
-			"meaning": "give"
+			"meaning": "to give"
 		},
 		"陛": {
 			"simplified": "陛",
@@ -418,7 +424,7 @@
 		},
 		"畢": {
 			"simplified": "毕",
-			"meaning": "finish"
+			"meaning": "to finish"
 		}
 	},
 	"bǐ": {
@@ -428,11 +434,11 @@
 		},
 		"彼": {
 			"simplified": "彼",
-			"meaning": "that, he"
+			"meaning": "that; he"
 		},
 		"比": {
 			"simplified": "比",
-			"meaning": "compare; ratio"
+			"meaning": "to compare; ratio"
 		},
 		"筆": {
 			"simplified": "笔",
@@ -446,11 +452,11 @@
 	"biàn": {
 		"弁": {
 			"simplified": "弁",
-			"meaning": "cap, distinguish"
+			"meaning": "(archaic)(a type of man's cap)"
 		},
 		"變": {
 			"simplified": "变",
-			"meaning": "change"
+			"meaning": "change; to change"
 		},
 		"便": {
 			"simplified": "便",
@@ -474,31 +480,31 @@
 	"biān": {
 		"砭": {
 			"simplified": "砭",
-			"meaning": "grind"
+			"meaning": "to grind"
 		}
 	},
 	"biǎo": {
 		"婊": {
 			"simplified": "婊",
-			"meaning": "prostitute (derogatory)"
+			"meaning": "prostitute"
 		}
 	},
 	"bié": {
 		"別": {
 			"simplified": "别",
-			"meaning": "other, separate"
+			"meaning": "other; to separate"
 		}
 	},
 	"bīn": {
 		"彬": {
 			"simplified": "彬",
-			"meaning": "refined"
+			"meaning": "(person) refined, be of literal talent and simple style"
 		}
 	},
 	"bìng": {
 		"併": {
 			"simplified": "并",
-			"meaning": "combine, merge"
+			"meaning": "to combine, to merge"
 		},
 		"並": {
 			"simplified": "并",
@@ -540,7 +546,7 @@
 	"bó": {
 		"伯": {
 			"simplified": "伯",
-			"meaning": "elder brother, uncle"
+			"meaning": "elder brother; uncle"
 		},
 		"帛": {
 			"simplified": "帛",
@@ -566,7 +572,7 @@
 		},
 		"剝": {
 			"simplified": "剝",
-			"meaning": "peel"
+			"meaning": "to peel"
 		},
 		"缽": {
 			"simplified": "缽",
@@ -574,7 +580,7 @@
 		},
 		"菠": {
 			"simplified": "菠",
-			"meaning": "spinach"
+			"meaning": "spinach (a type of vegetable)"
 		}
 	},
 	"bù": {
@@ -584,11 +590,11 @@
 		},
 		"布": {
 			"simplified": "布",
-			"meaning": "cloth, spread"
+			"meaning": "cloth; to spread"
 		},
 		"步": {
 			"simplified": "步",
-			"meaning": "step, walk"
+			"meaning": "step; to walk"
 		},
 		"不": {
 			"simplified": "不",
@@ -596,7 +602,7 @@
 		},
 		"部": {
 			"simplified": "部",
-			"meaning": "part"
+			"meaning": "part; department"
 		},
 		"埠": {
 			"simplified": "埠",
@@ -606,15 +612,15 @@
 	"bǔ": {
 		"卜": {
 			"simplified": "卜",
-			"meaning": "divine, predict"
+			"meaning": "to divine, to predict"
 		},
 		"哺": {
 			"simplified": "哺",
-			"meaning": "feed"
+			"meaning": "to feed"
 		},
 		"捕": {
 			"simplified": "捕",
-			"meaning": "capture"
+			"meaning": "to capture"
 		}
 	},
 	"cái": {
@@ -628,7 +634,7 @@
 		},
 		"材": {
 			"simplified": "材",
-			"meaning": "material"
+			"meaning": "timber; material"
 		}
 	},
 	"cài": {
@@ -644,13 +650,13 @@
 		},
 		"採": {
 			"simplified": "采",
-			"meaning": "pick"
+			"meaning": "to pick"
 		}
 	},
 	"cāi": {
 		"猜": {
 			"simplified": "猜",
-			"meaning": "guess"
+			"meaning": "to guess"
 		}
 	},
 	"cān": {
@@ -660,19 +666,25 @@
 		},
 		"參": {
 			"simplified": "参",
-			"meaning": "participate"
+			"meaning": "to participate"
+		}
+	},
+	"cán": {
+		"殘": {
+			"simplified": "残",
+			"meaning": "to spoil, to ruin; cruel; incomplete, disabled"
 		}
 	},
 	"cāng": {
 		"倉": {
-			"simplified": "倉",
+			"simplified": "仓",
 			"meaning": "warehouse"
 		}
 	},
 	"cáo": {
 		"曹": {
 			"simplified": "曹",
-			"meaning": "manage"
+			"meaning": "to manage"
 		}
 	},
 	"cǎo": {
@@ -700,7 +712,7 @@
 	"chá": {
 		"查": {
 			"simplified": "查",
-			"meaning": "check"
+			"meaning": "to check"
 		},
 		"茶": {
 			"simplified": "茶",
@@ -711,6 +723,10 @@
 		"岔": {
 			"simplified": "岔",
 			"meaning": "fork, diverge"
+		},
+		"差": {
+			"simplified": "差",
+			"meaning": "wrong; inferior"
 		}
 	},
 	"chā": {
@@ -720,7 +736,7 @@
 		},
 		"差": {
 			"simplified": "差",
-			"meaning": "difference"
+			"meaning": "different; difference; mistake"
 		}
 	},
 	"chái": {
@@ -734,15 +750,19 @@
 		}
 	},
 	"chāi": {
+		"差": {
+			"simplified": "差",
+			"meaning": "to dispatch; errand"
+		},
 		"拆": {
 			"simplified": "拆",
-			"meaning": "take apart"
+			"meaning": "to take apart"
 		}
 	},
 	"chǎn": {
 		"產": {
 			"simplified": "产",
-			"meaning": "produce"
+			"meaning": "to produce"
 		}
 	},
 	"cháng": {
@@ -758,14 +778,14 @@
 	"chàng": {
 		"唱": {
 			"simplified": "唱",
-			"meaning": "sing"
+			"meaning": "to sing"
 		},
 		"倡": {
 			"simplified": "倡",
-			"meaning": "advocate"
+			"meaning": "to advocate"
 		},
 		"悵": {
-			"simplified": "悵",
+			"simplified": "怅",
 			"meaning": "regretful"
 		}
 	},
@@ -782,7 +802,7 @@
 		},
 		"倀": {
 			"simplified": "伥",
-			"meaning": "a ghost name"
+			"meaning": "(name of a ghost)"
 		},
 		"娼": {
 			"simplified": "娼",
@@ -790,7 +810,7 @@
 		},
 		"猖": {
 			"simplified": "猖",
-			"meaning": "wild"
+			"meaning": "rampant"
 		},
 		"菖": {
 			"simplified": "菖",
@@ -806,25 +826,25 @@
 	"chǎo": {
 		"吵": {
 			"simplified": "吵",
-			"meaning": "quarrel"
+			"meaning": "to quarrel"
 		}
 	},
 	"chāo": {
 		"抄": {
 			"simplified": "抄",
-			"meaning": "copy, plagiarize"
+			"meaning": "to copy, to plagiarize"
 		}
 	},
 	"chè": {
 		"坼": {
 			"simplified": "坼",
-			"meaning": "crack, split"
+			"meaning": "to crack, to split"
 		}
 	},
 	"chě": {
 		"扯": {
 			"simplified": "扯",
-			"meaning": "topull, tear"
+			"meaning": "to pull, to tear"
 		}
 	},
 	"chē": {
@@ -834,9 +854,13 @@
 		}
 	},
 	"chén": {
+		"塵": {
+			"simplified": "尘",
+			"meaning": "dust, dirt"
+		},
 		"辰": {
 			"simplified": "辰",
-			"meaning": "time, celestialbody"
+			"meaning": "time; celestial body"
 		},
 		"臣": {
 			"simplified": "臣",
@@ -848,11 +872,11 @@
 		},
 		"沈": {
 			"simplified": "沉",
-			"meaning": "sink"
+			"meaning": "to sink"
 		},
 		"宸": {
 			"simplified": "宸",
-			"meaning": "imperial"
+			"meaning": "great mansion; palace; emperor"
 		},
 		"晨": {
 			"simplified": "晨",
@@ -862,11 +886,11 @@
 	"chéng": {
 		"承": {
 			"simplified": "承",
-			"meaning": "bear, inherit"
+			"meaning": "to bear; to inherit"
 		},
 		"成": {
 			"simplified": "成",
-			"meaning": "achieve, become"
+			"meaning": "to achieve, to become"
 		},
 		"程": {
 			"simplified": "程",
@@ -878,27 +902,27 @@
 		},
 		"丞": {
 			"simplified": "丞",
-			"meaning": "assist"
+			"meaning": "to assist"
 		},
 		"呈": {
 			"simplified": "呈",
-			"meaning": "present"
+			"meaning": "to present"
 		},
 		"乘": {
 			"simplified": "乘",
-			"meaning": "ride"
+			"meaning": "to ride"
 		}
 	},
 	"chèng": {
 		"秤": {
 			"simplified": "秤",
-			"meaning": "balance, scales, "
+			"meaning": "balance, scales"
 		}
 	},
 	"chí": {
 		"弛": {
 			"simplified": "弛",
-			"meaning": "relax, loosen"
+			"meaning": "to relax, to loosen"
 		},
 		"池": {
 			"simplified": "池",
@@ -906,7 +930,7 @@
 		},
 		"持": {
 			"simplified": "持",
-			"meaning": "hold"
+			"meaning": "to hold"
 		},
 		"匙": {
 			"simplified": "匙",
@@ -916,15 +940,15 @@
 	"chì": {
 		"赤": {
 			"simplified": "赤",
-			"meaning": "red, bare"
+			"meaning": "red; bare"
 		},
 		"斥": {
 			"simplified": "斥",
-			"meaning": "toscold, expel"
+			"meaning": "to scold; to expel"
 		},
 		"叱": {
 			"simplified": "叱",
-			"meaning": "scold"
+			"meaning": "to scold"
 		},
 		"翅": {
 			"simplified": "翅",
@@ -934,7 +958,7 @@
 	"chǐ": {
 		"尺": {
 			"simplified": "尺",
-			"meaning": "ruler; foot (unit)"
+			"meaning": "ruler; foot (unit of length)"
 		},
 		"侈": {
 			"simplified": "侈",
@@ -948,35 +972,35 @@
 	"chī": {
 		"吃": {
 			"simplified": "吃",
-			"meaning": "eat"
+			"meaning": "to eat"
 		},
 		"蚩": {
 			"simplified": "蚩",
-			"meaning": "a type of insect"
+			"meaning": "(archaic) stupid, arrogant"
 		},
 		"笞": {
 			"simplified": "笞",
-			"meaning": "flog"
+			"meaning": "to flog"
 		}
 	},
 	"chóng": {
 		"重": {
 			"simplified": "重",
-			"meaning": "repeat, overlap, again"
+			"meaning": "to repeat, to overlap; again"
 		},
 		"崇": {
 			"simplified": "崇",
-			"meaning": "revere"
+			"meaning": "to revere"
 		}
 	},
 	"chōng": {
 		"沖": {
 			"simplified": "冲",
-			"meaning": "rush, rinse"
+			"meaning": "to rush, to rinse"
 		},
 		"充": {
 			"simplified": "充",
-			"meaning": "fill, serveas"
+			"meaning": "to fill, to serve as"
 		},
 		"舂": {
 			"simplified": "舂",
@@ -986,7 +1010,7 @@
 	"chóu": {
 		"仇": {
 			"simplified": "仇",
-			"meaning": "enemy, hatred"
+			"meaning": "enemy; hatred"
 		},
 		"惆": {
 			"simplified": "惆",
@@ -1012,7 +1036,7 @@
 	"chōu": {
 		"抽": {
 			"simplified": "抽",
-			"meaning": "pull, draw out"
+			"meaning": "to pull, to draw out"
 		}
 	},
 	"chú": {
@@ -1026,7 +1050,7 @@
 		},
 		"除": {
 			"simplified": "除",
-			"meaning": "remove"
+			"meaning": "to remove"
 		}
 	},
 	"chù": {
@@ -1052,7 +1076,7 @@
 	"chū": {
 		"出": {
 			"simplified": "出",
-			"meaning": "exit, go out"
+			"meaning": "to exit, to go out"
 		}
 	},
 	"chuán": {
@@ -1064,7 +1088,7 @@
 	"chuàn": {
 		"串": {
 			"simplified": "串",
-			"meaning": "string, skewer"
+			"meaning": "string, skewer; to skewer"
 		}
 	},
 	"chuǎn": {
@@ -1076,7 +1100,7 @@
 	"chuān": {
 		"穿": {
 			"simplified": "穿",
-			"meaning": "wear; through"
+			"meaning": "to wear; through"
 		},
 		"川": {
 			"simplified": "川",
@@ -1114,23 +1138,23 @@
 		},
 		"淳": {
 			"simplified": "淳",
-			"meaning": "pure"
+			"meaning": "pure, simple, honest"
 		},
 		"脣": {
-			"simplified": "脣",
-			"meaning": "lips"
+			"simplified": "唇",
+			"meaning": "lips (of mouth)"
 		}
 	},
 	"chūn": {
 		"春": {
 			"simplified": "春",
-			"meaning": "spring"
+			"meaning": "spring (season)"
 		}
 	},
 	"chuò": {
 		"啜": {
 			"simplified": "啜",
-			"meaning": "sip"
+			"meaning": "to sip"
 		}
 	},
 	"cí": {
@@ -1154,7 +1178,7 @@
 		},
 		"刺": {
 			"simplified": "刺",
-			"meaning": "stab, thorn"
+			"meaning": "to stab; thorn"
 		}
 	},
 	"cǐ": {
@@ -1192,7 +1216,7 @@
 	"cù": {
 		"促": {
 			"simplified": "促",
-			"meaning": "urge, hasten"
+			"meaning": "to urge, to hasten"
 		}
 	},
 	"cū": {
@@ -1204,7 +1228,7 @@
 	"cuì": {
 		"萃": {
 			"simplified": "萃",
-			"meaning": "gather"
+			"meaning": "to gather"
 		},
 		"脆": {
 			"simplified": "脆",
@@ -1218,25 +1242,25 @@
 	"cuī": {
 		"崔": {
 			"simplified": "崔",
-			"meaning": "surname"
+			"meaning": "(a surname)"
 		}
 	},
 	"cún": {
 		"存": {
 			"simplified": "存",
-			"meaning": "toexist, deposit"
+			"meaning": "to exist, to deposit"
 		}
 	},
 	"cùn": {
 		"寸": {
 			"simplified": "寸",
-			"meaning": "inch"
+			"meaning": "inch (unit of length)"
 		}
 	},
 	"cǔn": {
 		"忖": {
 			"simplified": "忖",
-			"meaning": "ponder"
+			"meaning": "to ponder"
 		}
 	},
 	"cūn": {
@@ -1252,17 +1276,17 @@
 		},
 		"挫": {
 			"simplified": "挫",
-			"meaning": "thwart"
+			"meaning": "to thwart"
 		},
 		"措": {
 			"simplified": "措",
-			"meaning": "place"
+			"meaning": "to arrange, to handle; to make plans"
 		}
 	},
 	"dá": {
 		"答": {
 			"simplified": "答",
-			"meaning": "answer"
+			"meaning": "answer; to answer"
 		}
 	},
 	"dà": {
@@ -1274,25 +1298,25 @@
 	"dǎ": {
 		"打": {
 			"simplified": "打",
-			"meaning": "hit"
+			"meaning": "to hit"
 		}
 	},
 	"dài": {
 		"代": {
 			"simplified": "代",
-			"meaning": "generation; replace"
+			"meaning": "generation; to replace"
 		},
 		"岱": {
 			"simplified": "岱",
-			"meaning": "a mountain name"
+			"meaning": "(name of a mountain)"
 		},
 		"待": {
 			"simplified": "待",
-			"meaning": "wait"
+			"meaning": "to wait"
 		},
 		"怠": {
 			"simplified": "怠",
-			"meaning": "neglect"
+			"meaning": "to neglect"
 		},
 		"殆": {
 			"simplified": "殆",
@@ -1304,7 +1328,7 @@
 		},
 		"帶": {
 			"simplified": "带",
-			"meaning": "wear, bring"
+			"meaning": "to wear, to bring"
 		}
 	},
 	"dǎi": {
@@ -1330,7 +1354,7 @@
 		},
 		"啖": {
 			"simplified": "啖",
-			"meaning": "(archaic) eat"
+			"meaning": "(archaic) to eat"
 		},
 		"淡": {
 			"simplified": "淡",
@@ -1348,7 +1372,7 @@
 		},
 		"耽": {
 			"simplified": "耽",
-			"meaning": "indulge"
+			"meaning": "to indulge"
 		}
 	},
 	"dàng": {
@@ -1360,17 +1384,17 @@
 	"dāng": {
 		"當": {
 			"simplified": "当",
-			"meaning": "equal; serve as; should"
+			"meaning": "to be equal to; to serve as; should"
 		}
 	},
 	"dào": {
 		"到": {
 			"simplified": "到",
-			"meaning": "arrive, reach"
+			"meaning": "to arrive, to reach"
 		},
 		"倒": {
 			"simplified": "倒",
-			"meaning": "pour; reverse"
+			"meaning": "to pour; reverse"
 		},
 		"道": {
 			"simplified": "道",
@@ -1378,7 +1402,7 @@
 		},
 		"悼": {
 			"simplified": "悼",
-			"meaning": "mourn"
+			"meaning": "to mourn"
 		}
 	},
 	"dǎo": {
@@ -1396,7 +1420,7 @@
 	"dé": {
 		"得": {
 			"simplified": "得",
-			"meaning": "obtain"
+			"meaning": "to obtain"
 		}
 	},
 	"děi": {
@@ -1408,17 +1432,17 @@
 	"děng": {
 		"等": {
 			"simplified": "等",
-			"meaning": "wait"
+			"meaning": "to wait"
 		}
 	},
 	"dí": {
 		"狄": {
 			"simplified": "狄",
-			"meaning": "barbarian (from north); a surname"
+			"meaning": "barbarian (from north); (a surname)"
 		},
 		"迪": {
 			"simplified": "迪",
-			"meaning": "enlighten"
+			"meaning": "to enlighten"
 		},
 		"笛": {
 			"simplified": "笛",
@@ -1458,11 +1482,11 @@
 		},
 		"抵": {
 			"simplified": "抵",
-			"meaning": "resist; arrive"
+			"meaning": "to resist; to arrive"
 		},
 		"牴": {
 			"simplified": "牴",
-			"meaning": "oppose"
+			"meaning": "to oppose"
 		},
 		"砥": {
 			"simplified": "砥",
@@ -1472,7 +1496,7 @@
 	"dī": {
 		"氐": {
 			"simplified": "氐",
-			"meaning": "low, Diethnicgroup"
+			"meaning": "(name of an ancient ethnic)"
 		},
 		"低": {
 			"simplified": "低",
@@ -1482,7 +1506,7 @@
 	"diàn": {
 		"甸": {
 			"simplified": "甸",
-			"meaning": "outskirts, farm"
+			"meaning": "outskirts; farm"
 		},
 		"店": {
 			"simplified": "店",
@@ -1502,7 +1526,7 @@
 		},
 		"惦": {
 			"simplified": "惦",
-			"meaning": "think about"
+			"meaning": "to think about"
 		}
 	},
 	"diǎn": {
@@ -1518,11 +1542,11 @@
 	"diào": {
 		"弔": {
 			"simplified": "吊",
-			"meaning": "condole, mourn; hang"
+			"meaning": "to condole, to mourn; to hang"
 		},
 		"掉": {
 			"simplified": "掉",
-			"meaning": "fall, drop"
+			"meaning": "to fall, to drop"
 		}
 	},
 	"diāo": {
@@ -1532,11 +1556,11 @@
 		},
 		"叼": {
 			"simplified": "叼",
-			"meaning": "hold in mouth"
+			"meaning": "to hold in mouth"
 		},
 		"凋": {
 			"simplified": "凋",
-			"meaning": "wither"
+			"meaning": "to wither"
 		},
 		"彫": {
 			"simplified": "彫",
@@ -1546,7 +1570,7 @@
 	"dié": {
 		"迭": {
 			"simplified": "迭",
-			"meaning": "repeat"
+			"meaning": "to repeat"
 		}
 	},
 	"diē": {
@@ -1558,7 +1582,7 @@
 	"dìng": {
 		"定": {
 			"simplified": "定",
-			"meaning": "decide, fix"
+			"meaning": "to decide, to fix"
 		},
 		"訂": {
 			"simplified": "订",
@@ -1574,11 +1598,11 @@
 	"dīng": {
 		"丁": {
 			"simplified": "丁",
-			"meaning": "fourth (of heavenly stem), maleadult"
+			"meaning": "fourth (of heavenly stem); male adult"
 		},
 		"叮": {
 			"simplified": "叮",
-			"meaning": "tosting, urge"
+			"meaning": "to sting; to urge"
 		},
 		"仃": {
 			"simplified": "仃",
@@ -1590,27 +1614,27 @@
 		},
 		"釘": {
 			"simplified": "钉",
-			"meaning": "nail"
+			"meaning": "nail, pin"
 		}
 	},
 	"diū": {
 		"丟": {
 			"simplified": "丢",
-			"meaning": "tolose, throwaway"
+			"meaning": "to lose, to throw away"
 		}
 	},
 	"dòng": {
 		"凍": {
 			"simplified": "冻",
-			"meaning": "freeze"
+			"meaning": "to freeze"
 		},
 		"動": {
 			"simplified": "动",
-			"meaning": "move"
+			"meaning": "to move"
 		},
 		"恫": {
 			"simplified": "恫",
-			"meaning": "threaten"
+			"meaning": "to threaten"
 		},
 		"洞": {
 			"simplified": "洞",
@@ -1624,7 +1648,7 @@
 	"dǒng": {
 		"懂": {
 			"simplified": "懂",
-			"meaning": "understand"
+			"meaning": "to understand"
 		}
 	},
 	"dōng": {
@@ -1638,7 +1662,7 @@
 		},
 		"咚": {
 			"simplified": "咚",
-			"meaning": "knocking sound"
+			"meaning": "(onomatopoeic) knocking sound"
 		}
 	},
 	"dòu": {
@@ -1648,7 +1672,7 @@
 		},
 		"鬥": {
 			"simplified": "斗",
-			"meaning": "fight"
+			"meaning": "to fight; fight"
 		}
 	},
 	"dǒu": {
@@ -1682,7 +1706,7 @@
 	"dú": {
 		"讀": {
 			"simplified": "读",
-			"meaning": "read"
+			"meaning": "to read"
 		},
 		"毒": {
 			"simplified": "毒",
@@ -1710,13 +1734,13 @@
 	"dǔ": {
 		"堵": {
 			"simplified": "堵",
-			"meaning": "block"
+			"meaning": "to block"
 		}
 	},
 	"duàn": {
 		"斷": {
 			"simplified": "断",
-			"meaning": "break"
+			"meaning": "to break"
 		},
 		"段": {
 			"simplified": "段",
@@ -1774,7 +1798,7 @@
 	"duǒ": {
 		"朵": {
 			"simplified": "朵",
-			"meaning": "classifier for flowers"
+			"meaning": "(measure word for flowers)"
 		}
 	},
 	"duō": {
@@ -1784,13 +1808,13 @@
 		},
 		"咄": {
 			"simplified": "咄",
-			"meaning": "exclamation"
+			"meaning": "(exclamation)"
 		}
 	},
 	"é": {
 		"俄": {
 			"simplified": "俄",
-			"meaning": "Russia"
+			"meaning": "instantly, suddenly; (short for) Russia (transliteration)"
 		},
 		"娥": {
 			"simplified": "娥",
@@ -1804,17 +1828,17 @@
 	"è": {
 		"呃": {
 			"simplified": "呃",
-			"meaning": "hiccup, belch"
+			"meaning": "(onomatopoeic) hiccup, belch"
 		},
 		"扼": {
 			"simplified": "扼",
-			"meaning": "choke, suppress"
+			"meaning": "to choke, to suppress"
 		},
 		"餓": {
 			"simplified": "饿",
 			"meaning": "hungry"
 		},
-		"恶": {
+		"惡": {
 			"simplified": "恶",
 			"meaning": "evil"
 		},
@@ -1825,6 +1849,12 @@
 		"堊": {
 			"simplified": "堊",
 			"meaning": "clay"
+		}
+	},
+	"ě": {
+		"噁": {
+			"simplified": "恶",
+			"meaning": "disgusting, unpleasant"
 		}
 	},
 	"ē": {
@@ -1842,7 +1872,7 @@
 	"ér": {
 		"而": {
 			"simplified": "而",
-			"meaning": "and, but"
+			"meaning": "and; but"
 		},
 		"兒": {
 			"simplified": "儿",
@@ -1862,13 +1892,13 @@
 		},
 		"洱": {
 			"simplified": "洱",
-			"meaning": "Erhai Lake"
+			"meaning": "(name of a lake)"
 		}
 	},
 	"fá": {
 		"伐": {
 			"simplified": "伐",
-			"meaning": "toattack, cutdown"
+			"meaning": "to attack; to cut down"
 		},
 		"乏": {
 			"simplified": "乏",
@@ -1887,6 +1917,12 @@
 			"meaning": "scale (for weighing)"
 		}
 	},
+	"fā": {
+		"發": {
+			"simplified": "发",
+			"meaning": "to send, to launch; to produce; flourish"
+		}
+	},
 	"fán": {
 		"凡": {
 			"simplified": "凡",
@@ -1896,11 +1932,11 @@
 	"fàn": {
 		"氾": {
 			"simplified": "氾",
-			"meaning": "overflow"
+			"meaning": "to overflow"
 		},
 		"犯": {
 			"simplified": "犯",
-			"meaning": "to commit (crime)"
+			"meaning": "commit (crime)"
 		},
 		"范": {
 			"simplified": "范",
@@ -1926,11 +1962,11 @@
 	"fáng": {
 		"妨": {
 			"simplified": "妨",
-			"meaning": "hinder, obstruct"
+			"meaning": "to hinder, to obstruct"
 		},
 		"防": {
 			"simplified": "防",
-			"meaning": "defend, prevent"
+			"meaning": "to defend; to prevent"
 		},
 		"房": {
 			"simplified": "房",
@@ -1940,7 +1976,7 @@
 	"fàng": {
 		"放": {
 			"simplified": "放",
-			"meaning": "put; release"
+			"meaning": "to put; to release"
 		}
 	},
 	"fǎng": {
@@ -1964,7 +2000,7 @@
 		},
 		"坊": {
 			"simplified": "坊",
-			"meaning": "workshop, neighborhood"
+			"meaning": "workshop; neighborhood"
 		},
 		"枋": {
 			"simplified": "枋",
@@ -1990,11 +2026,11 @@
 	"fēi": {
 		"飛": {
 			"simplified": "飞",
-			"meaning": "fly"
+			"meaning": "to fly"
 		},
 		"非": {
 			"simplified": "非",
-			"meaning": "not; wrong; (short for) Africa"
+			"meaning": "not; wrong; (short for) Africa (transliteration)"
 		},
 		"妃": {
 			"simplified": "妃",
@@ -2002,7 +2038,7 @@
 		},
 		"啡": {
 			"simplified": "啡",
-			"meaning": "a character for coffee's transliteration"
+			"meaning": "(a character used in coffee's transliteration)"
 		},
 		"菲": {
 			"simplified": "菲",
@@ -2012,7 +2048,7 @@
 	"fén": {
 		"汾": {
 			"simplified": "汾",
-			"meaning": "a river name"
+			"meaning": "(name of a river)"
 		}
 	},
 	"fèn": {
@@ -2048,7 +2084,7 @@
 	"fèng": {
 		"奉": {
 			"simplified": "奉",
-			"meaning": "offer, respect"
+			"meaning": "to offer, to respect"
 		},
 		"鳳": {
 			"simplified": "凤",
@@ -2066,7 +2102,7 @@
 		},
 		"封": {
 			"simplified": "封",
-			"meaning": "seal"
+			"meaning": "seal; to seal"
 		},
 		"峰": {
 			"simplified": "峰",
@@ -2090,11 +2126,11 @@
 	"fǒu": {
 		"否": {
 			"simplified": "否",
-			"meaning": "no, deny"
+			"meaning": "no; to deny"
 		},
 		"缶": {
 			"simplified": "缶",
-			"meaning": "earthen jar"
+			"meaning": "earthen jar (an ancient wine vessel)"
 		}
 	},
 	"fú": {
@@ -2104,11 +2140,11 @@
 		},
 		"拂": {
 			"simplified": "拂",
-			"meaning": "tobrush, flick"
+			"meaning": "to brush, to flick"
 		},
 		"伏": {
 			"simplified": "伏",
-			"meaning": "crouch, submit"
+			"meaning": "to crouch, to submit"
 		},
 		"服": {
 			"simplified": "服",
@@ -2128,7 +2164,7 @@
 		},
 		"俘": {
 			"simplified": "俘",
-			"meaning": "capture"
+			"meaning": "to capture"
 		},
 		"氟": {
 			"simplified": "氟",
@@ -2136,11 +2172,11 @@
 		},
 		"浮": {
 			"simplified": "浮",
-			"meaning": "float"
+			"meaning": "to float"
 		},
 		"匐": {
 			"simplified": "匐",
-			"meaning": "crawl"
+			"meaning": "to crawl"
 		},
 		"符": {
 			"simplified": "符",
@@ -2158,11 +2194,11 @@
 	"fù": {
 		"付": {
 			"simplified": "付",
-			"meaning": "pay; deliver"
+			"meaning": "to pay; to deliver"
 		},
 		"負": {
 			"simplified": "负",
-			"meaning": "carry, bear; defeat; negative"
+			"meaning": "to carry, to bear; defeat; negative"
 		},
 		"父": {
 			"simplified": "父",
@@ -2170,7 +2206,7 @@
 		},
 		"咐": {
 			"simplified": "咐",
-			"meaning": "instruct"
+			"meaning": "to instruct"
 		},
 		"訃": {
 			"simplified": "讣",
@@ -2178,21 +2214,21 @@
 		},
 		"赴": {
 			"simplified": "赴",
-			"meaning": "attend"
+			"meaning": "to attend"
 		},
 		"副": {
 			"simplified": "副",
-			"meaning": "vice"
+			"meaning": "vice, secondary"
 		},
 		"婦": {
-			"simplified": "婦",
+			"simplified": "妇",
 			"meaning": "woman"
 		}
 	},
 	"fǔ": {
 		"甫": {
 			"simplified": "甫",
-			"meaning": "a surname"
+			"meaning": "(a surname)"
 		},
 		"府": {
 			"simplified": "府",
@@ -2204,7 +2240,7 @@
 		},
 		"俯": {
 			"simplified": "俯",
-			"meaning": "look down"
+			"meaning": "to bow (one's head), to face down"
 		},
 		"釜": {
 			"simplified": "釜",
@@ -2225,16 +2261,16 @@
 			"meaning": "husband; man"
 		}
 	},
-	"": {
-		"": {
-			"simplified": "",
-			"meaning": ""
-		}
-	},
 	"gà": {
 		"尬": {
 			"simplified": "尬",
 			"meaning": "awkward"
+		}
+	},
+	"gā": {
+		"咖": {
+			"simplified": "咖",
+			"meaning": "(a character used in curry's transliteration)"
 		}
 	},
 	"gài": {
@@ -2264,7 +2300,7 @@
 	"gān": {
 		"干": {
 			"simplified": "干",
-			"meaning": "offend;interfere, involve"
+			"meaning": "to offend; to interfere, to involve"
 		},
 		"乾": {
 			"simplified": "干",
@@ -2320,7 +2356,7 @@
 	"gào": {
 		"告": {
 			"simplified": "告",
-			"meaning": "totell, announce"
+			"meaning": "to tell, to announce"
 		}
 	},
 	"gāo": {
@@ -2348,7 +2384,7 @@
 		},
 		"鬲": {
 			"simplified": "鬲",
-			"meaning": "a type of ancient vessel"
+			"meaning": "(a type of ancient vessel)"
 		}
 	},
 	"gè": {
@@ -2357,8 +2393,8 @@
 			"meaning": "each, every"
 		},
 		"個": {
-			"simplified": "個",
-			"meaning": "individual"
+			"simplified": "个",
+			"meaning": "individual; (measure word for objects)"
 		}
 	},
 	"gē": {
@@ -2372,11 +2408,11 @@
 		},
 		"戈": {
 			"simplified": "戈",
-			"meaning": "dagger-axe"
+			"meaning": "dagger-axe (name of an ancient weapon)"
 		},
 		"咯": {
 			"simplified": "咯",
-			"meaning": "an onomatopoeic word"
+			"meaning": "(onomatopoeic) laugh sound"
 		},
 		"胳": {
 			"simplified": "胳",
@@ -2386,17 +2422,17 @@
 	"gěi": {
 		"給": {
 			"simplified": "给",
-			"meaning": "give"
+			"meaning": "to give"
 		}
 	},
 	"gèn": {
 		"艮": {
 			"simplified": "艮",
-			"meaning": "tough, mountaintrigram"
+			"meaning": "tough"
 		},
 		"亙": {
-			"simplified": "亙",
-			"meaning": "extend across"
+			"simplified": "亘",
+			"meaning": "to extend across"
 		}
 	},
 	"gēn": {
@@ -2428,7 +2464,7 @@
 	"gēng": {
 		"更": {
 			"simplified": "更",
-			"meaning": "change; experience"
+			"meaning": "to change; experience"
 		},
 		"庚": {
 			"simplified": "庚",
@@ -2446,10 +2482,10 @@
 		},
 		"供": {
 			"simplified": "供",
-			"meaning": "offerings; confess"
+			"meaning": "offerings; to confess"
 		},
 		"貢": {
-			"simplified": "貢",
+			"simplified": "贡",
 			"meaning": "tribute"
 		}
 	},
@@ -2466,11 +2502,11 @@
 	"gōng": {
 		"供": {
 			"simplified": "供",
-			"meaning": "provide, offer"
+			"meaning": "to provide, to offer"
 		},
 		"攻": {
 			"simplified": "攻",
-			"meaning": "attack"
+			"meaning": "to attack"
 		},
 		"公": {
 			"simplified": "公",
@@ -2502,7 +2538,7 @@
 		},
 		"躬": {
 			"simplified": "躬",
-			"meaning": "bend down"
+			"meaning": "to bend down"
 		}
 	},
 	"gòu": {
@@ -2512,10 +2548,10 @@
 		},
 		"購": {
 			"simplified": "购",
-			"meaning": "purchase"
+			"meaning": "to purchase"
 		},
 		"夠": {
-			"simplified": "夠",
+			"simplified": "够",
 			"meaning": "enough"
 		}
 	},
@@ -2526,7 +2562,7 @@
 		},
 		"枸": {
 			"simplified": "枸",
-			"meaning": "jujube tree"
+			"meaning": "(a type of tree)"
 		},
 		"苟": {
 			"simplified": "苟",
@@ -2536,7 +2572,7 @@
 	"gōu": {
 		"勾": {
 			"simplified": "勾",
-			"meaning": "hook"
+			"meaning": "to hook"
 		},
 		"佝": {
 			"simplified": "佝",
@@ -2578,7 +2614,7 @@
 	"gū": {
 		"估": {
 			"simplified": "估",
-			"meaning": "estimate, guess"
+			"meaning": "to estimate, to guess"
 		},
 		"孤": {
 			"simplified": "孤",
@@ -2586,11 +2622,11 @@
 		},
 		"咕": {
 			"simplified": "咕",
-			"meaning": "to mumble"
+			"meaning": "(onomatopoeic) sound of pigeon, coo; to mumble"
 		},
 		"呱": {
 			"simplified": "呱",
-			"meaning": "an onomatopoeic word (baby's cry)"
+			"meaning": "(onomatopoeic) sound of infant's cry"
 		},
 		"姑": {
 			"simplified": "姑",
@@ -2626,13 +2662,17 @@
 	"guǎi": {
 		"拐": {
 			"simplified": "拐",
-			"meaning": "abduct; turn"
+			"meaning": "to abduct;to  turn"
+		},
+		"枴": {
+			"simplified": "枴",
+			"meaning": "walking stick, crutch"
 		}
 	},
 	"guàn": {
 		"冠": {
 			"simplified": "冠",
-			"meaning": "put on a hat; champion"
+			"meaning": "to put on a hat; champion"
 		}
 	},
 	"guǎn": {
@@ -2648,7 +2688,7 @@
 	"guān": {
 		"關": {
 			"simplified": "关",
-			"meaning": "close, shut"
+			"meaning": "to close, to shut"
 		},
 		"官": {
 			"simplified": "官",
@@ -2704,7 +2744,7 @@
 		},
 		"皈": {
 			"simplified": "皈",
-			"meaning": "return"
+			"meaning": "to return"
 		}
 	},
 	"guó": {
@@ -2716,7 +2756,7 @@
 	"guò": {
 		"過": {
 			"simplified": "过",
-			"meaning": "pass, cross"
+			"meaning": "to pass, to cross"
 		}
 	},
 	"guǒ": {
@@ -2724,19 +2764,15 @@
 			"simplified": "果",
 			"meaning": "fruit; result"
 		},
-		"枴": {
-			"simplified": "枴",
-			"meaning": "crutch"
-		},
 		"猓": {
 			"simplified": "猓",
-			"meaning": "a type of monkey"
+			"meaning": "(a type of monkey)"
 		}
 	},
 	"hā": {
 		"哈": {
 			"simplified": "哈",
-			"meaning": "laugh"
+			"meaning": "(onomatopoeic) laugh sound"
 		}
 	},
 	"hái": {
@@ -2756,7 +2792,7 @@
 		},
 		"害": {
 			"simplified": "害",
-			"meaning": "harm"
+			"meaning": "to harm; harm"
 		},
 		"氦": {
 			"simplified": "氦",
@@ -2772,7 +2808,7 @@
 	"hán": {
 		"含": {
 			"simplified": "含",
-			"meaning": "tocontain, include"
+			"meaning": "to contain, to include"
 		},
 		"函": {
 			"simplified": "函",
@@ -2780,13 +2816,13 @@
 		},
 		"涵": {
 			"simplified": "涵",
-			"meaning": "contain"
+			"meaning": "to contain"
 		}
 	},
 	"hàn": {
 		"漢": {
 			"simplified": "汉",
-			"meaning": "Han Chinese"
+			"meaning": "(name of an ethnic and an ancient dynasty) Han"
 		},
 		"汗": {
 			"simplified": "汗",
@@ -2802,7 +2838,7 @@
 		},
 		"焊": {
 			"simplified": "焊",
-			"meaning": "weld"
+			"meaning": "to weld"
 		}
 	},
 	"hǎn": {
@@ -2822,11 +2858,11 @@
 		},
 		"杭": {
 			"simplified": "杭",
-			"meaning": "a city name"
+			"meaning": "(name of a city)"
 		},
 		"航": {
 			"simplified": "航",
-			"meaning": "sail"
+			"meaning": "to sail"
 		}
 	},
 	"háo": {
@@ -2842,7 +2878,7 @@
 		},
 		"耗": {
 			"simplified": "耗",
-			"meaning": "consume"
+			"meaning": "to consume"
 		}
 	},
 	"hǎo": {
@@ -2854,7 +2890,7 @@
 	"hé": {
 		"合": {
 			"simplified": "合",
-			"meaning": "tocombine, fit"
+			"meaning": "to combine; to fit"
 		},
 		"何": {
 			"simplified": "何",
@@ -2886,7 +2922,7 @@
 		},
 		"盍": {
 			"simplified": "盍",
-			"meaning": "why"
+			"meaning": "(archaic) why"
 		},
 		"涸": {
 			"simplified": "涸",
@@ -2904,11 +2940,11 @@
 	"hē": {
 		"呵": {
 			"simplified": "呵",
-			"meaning": "scold, breathe"
+			"meaning": "to scold; to breathe"
 		},
 		"喝": {
 			"simplified": "喝",
-			"meaning": "drink"
+			"meaning": "to drink"
 		}
 	},
 	"hēi": {
@@ -2926,7 +2962,7 @@
 	"hèn": {
 		"恨": {
 			"simplified": "恨",
-			"meaning": "hate"
+			"meaning": "to hate; hatred; regret"
 		}
 	},
 	"hěn": {
@@ -2936,12 +2972,12 @@
 		},
 		"狠": {
 			"simplified": "狠",
-			"meaning": "harsh"
+			"meaning": "ruthless; harsh"
 		}
 	},
 	"héng": {
 		"恆": {
-			"simplified": "恆",
+			"simplified": "恒",
 			"meaning": "constant"
 		}
 	},
@@ -2952,7 +2988,7 @@
 		},
 		"哼": {
 			"simplified": "哼",
-			"meaning": "an onomatopoeic word (hum)"
+			"meaning": "(onomatopoeic) hum"
 		}
 	},
 	"hóng": {
@@ -3001,8 +3037,8 @@
 	},
 	"hòu": {
 		"後": {
-			"simplified": "後",
-			"meaning": "after"
+			"simplified": "后",
+			"meaning": "after, back"
 		},
 		"后": {
 			"simplified": "后",
@@ -3019,6 +3055,12 @@
 		"逅": {
 			"simplified": "逅",
 			"meaning": "meet"
+		}
+	},
+	"": {
+		"": {
+			"simplified": "",
+			"meaning": ""
 		}
 	},
 	"hǒu": {
@@ -3038,7 +3080,7 @@
 		},
 		"胡": {
 			"simplified": "胡",
-			"meaning": "barbarian from north; a surname"
+			"meaning": "barbarian from north; (a surname)"
 		}
 	},
 	"hù": {
@@ -3048,7 +3090,7 @@
 		},
 		"護": {
 			"simplified": "护",
-			"meaning": "protect"
+			"meaning": "to protect"
 		},
 		"互": {
 			"simplified": "互",
@@ -3056,11 +3098,11 @@
 		},
 		"扈": {
 			"simplified": "扈",
-			"meaning": "follow"
+			"meaning": "retinue"
 		},
 		"瓠": {
 			"simplified": "瓠",
-			"meaning": "gourd"
+			"meaning": "gourd (a type of plant)"
 		}
 	},
 	"hǔ": {
@@ -3070,21 +3112,21 @@
 		},
 		"唬": {
 			"simplified": "唬",
-			"meaning": "scare"
+			"meaning": "to bluff, to scare"
 		}
 	},
 	"hū": {
 		"呼": {
 			"simplified": "呼",
-			"meaning": "call, exhale"
+			"meaning": "to call; to exhale"
 		},
 		"忽": {
 			"simplified": "忽",
-			"meaning": "suddenly, neglect"
+			"meaning": "suddenly; to neglect"
 		},
 		"乎": {
 			"simplified": "乎",
-			"meaning": "an exclamatory particle"
+			"meaning": "(an exclamatory particle)"
 		},
 		"惚": {
 			"simplified": "惚",
@@ -3094,7 +3136,7 @@
 	"huá": {
 		"划": {
 			"simplified": "划",
-			"meaning": "torow, plan"
+			"meaning": "to row"
 		},
 		"華": {
 			"simplified": "华",
@@ -3104,7 +3146,7 @@
 	"huà": {
 		"化": {
 			"simplified": "化",
-			"meaning": "change, transform"
+			"meaning": "to change, to transform"
 		},
 		"話": {
 			"simplified": "话",
@@ -3112,7 +3154,7 @@
 		},
 		"畫": {
 			"simplified": "画",
-			"meaning": "draw, painting"
+			"meaning": "to draw; painting"
 		}
 	},
 	"huā": {
@@ -3124,7 +3166,11 @@
 	"huái": {
 		"淮": {
 			"simplified": "淮",
-			"meaning": "a river name"
+			"meaning": "(name of a river)"
+		},
+		"徊": {
+			"simplified": "徊",
+			"meaning": "to dither, to hesitate; irresolute "
 		}
 	},
 	"huài": {
@@ -3136,17 +3182,17 @@
 	"huán": {
 		"還": {
 			"simplified": "还",
-			"meaning": "return"
+			"meaning": "to return"
 		},
 		"桓": {
 			"simplified": "桓",
-			"meaning": "(surname)"
+			"meaning": "(a surname)"
 		}
 	},
 	"huàn": {
 		"患": {
 			"simplified": "患",
-			"meaning": "trouble, miseary;anxiety"
+			"meaning": "trouble, miseary; anxiety"
 		},
 		"幻": {
 			"simplified": "幻",
@@ -3158,7 +3204,7 @@
 		},
 		"宦": {
 			"simplified": "宦",
-			"meaning": "official"
+			"meaning": "official; eunuch"
 		}
 	},
 	"huān": {
@@ -3178,7 +3224,7 @@
 		},
 		"凰": {
 			"simplified": "凰",
-			"meaning": "phoenix"
+			"meaning": "phoenix (name of a mythical animal)"
 		}
 	},
 	"huǎng": {
@@ -3188,13 +3234,13 @@
 		},
 		"晃": {
 			"simplified": "晃",
-			"meaning": "shake"
+			"meaning": "to shake"
 		}
 	},
 	"huāng": {
 		"肓": {
 			"simplified": "肓",
-			"meaning": "blind, membrane"
+			"meaning": "(the region between the heart and the diaphrag)"
 		},
 		"荒": {
 			"simplified": "荒",
@@ -3204,19 +3250,15 @@
 	"huí": {
 		"回": {
 			"simplified": "回",
-			"meaning": "return"
-		},
-		"徊": {
-			"simplified": "徊",
-			"meaning": "return"
+			"meaning": "to turn around; to return; to reply"
 		},
 		"茴": {
 			"simplified": "茴",
-			"meaning": "sweet"
+			"meaning": "fennel"
 		},
 		"迴": {
-			"simplified": "迴",
-			"meaning": "return"
+			"simplified": "回",
+			"meaning": "to wind, to circle, to rotate; to avoid"
 		}
 	},
 	"huì": {
@@ -3276,13 +3318,13 @@
 	"huó": {
 		"活": {
 			"simplified": "活",
-			"meaning": "live"
+			"meaning": "live, alive; to be alive"
 		}
 	},
 	"huò": {
 		"或": {
 			"simplified": "或",
-			"meaning": "or, maybe"
+			"meaning": "or; maybe"
 		}
 	},
 	"huǒ": {
@@ -3329,8 +3371,12 @@
 			"meaning": "illness"
 		},
 		"級": {
-			"simplified": "級",
+			"simplified": "级",
 			"meaning": "level"
+		},
+		"極": {
+			"simplified": "极",
+			"meaning": "extreme"
 		}
 	},
 	"jì": {
@@ -3363,8 +3409,8 @@
 			"meaning": "already"
 		},
 		"紀": {
-			"simplified": "紀",
-			"meaning": "chronicle"
+			"simplified": "纪",
+			"meaning": "order, discipline; age; era"
 		},
 		"寄": {
 			"simplified": "寄",
@@ -3435,20 +3481,10 @@
 			"meaning": "base"
 		}
 	},
-	"lā": {
-		"垃": {
-			"simplified": "垃",
-			"meaning": "trash"
-		},
-		"拉": {
-			"simplified": "拉",
-			"meaning": "to pull"
-		}
-	},
 	"jiá": {
 		"戛": {
 			"simplified": "戛",
-			"meaning": "strike"
+			"meaning": "to strike"
 		},
 		"莢": {
 			"simplified": "莢",
@@ -3650,10 +3686,10 @@
 		},
 		"桀": {
 			"simplified": "桀",
-			"meaning": "tyrant"
+			"meaning": "(name of a tyrannt)"
 		},
 		"訐": {
-			"simplified": "訐",
+			"simplified": "讦",
 			"meaning": "accuse"
 		},
 		"捷": {
@@ -3664,7 +3700,7 @@
 	"jiè": {
 		"戒": {
 			"simplified": "戒",
-			"meaning": "towarn, abstain"
+			"meaning": "to warn; to abstain"
 		},
 		"屆": {
 			"simplified": "届",
@@ -3676,11 +3712,11 @@
 		},
 		"借": {
 			"simplified": "借",
-			"meaning": "borrow"
+			"meaning": "to borrow"
 		},
 		"介": {
 			"simplified": "介",
-			"meaning": "introduce"
+			"meaning": "to introduce"
 		},
 		"疥": {
 			"simplified": "疥",
@@ -3690,7 +3726,7 @@
 	"jiě": {
 		"解": {
 			"simplified": "解",
-			"meaning": "untie; explain"
+			"meaning": "to untie; to explain"
 		},
 		"姐": {
 			"simplified": "姐",
@@ -3710,15 +3746,15 @@
 	"jìn": {
 		"進": {
 			"simplified": "进",
-			"meaning": "enter"
+			"meaning": "to enter"
 		},
 		"近": {
 			"simplified": "近",
 			"meaning": "near"
 		},
 		"晉": {
-			"simplified": "晉",
-			"meaning": "advance"
+			"simplified": "晋",
+			"meaning": "(name of an ancient state)"
 		},
 		"浸": {
 			"simplified": "浸",
@@ -3753,7 +3789,7 @@
 	},
 	"jìng": {
 		"勁": {
-			"simplified": "勁",
+			"simplified": "劲",
 			"meaning": "strength, energy"
 		},
 		"競": {
@@ -3765,11 +3801,11 @@
 			"meaning": "respect"
 		},
 		"徑": {
-			"simplified": "徑",
+			"simplified": "径",
 			"meaning": "path"
 		},
 		"淨": {
-			"simplified": "淨",
+			"simplified": "净",
 			"meaning": "clean"
 		}
 	},
@@ -3802,7 +3838,7 @@
 		},
 		"涇": {
 			"simplified": "泾",
-			"meaning": "a river name"
+			"meaning": "(name of a river)"
 		},
 		"荊": {
 			"simplified": "荊",
@@ -3964,7 +4000,7 @@
 		},
 		"莒": {
 			"simplified": "莒",
-			"meaning": "a place name"
+			"meaning": "(name of a place)"
 		}
 	},
 	"jū": {
@@ -4065,6 +4101,10 @@
 		"郡": {
 			"simplified": "郡",
 			"meaning": "district"
+		},
+		"浚": {
+			"simplified": "浚",
+			"meaning": "to dredge (a river)"
 		}
 	},
 	"jūn": {
@@ -4098,43 +4138,33 @@
 	"kā": {
 		"咖": {
 			"simplified": "咖",
-			"meaning": "a character for coffee's transliteration"
-		}
-	},
-	"gā": {
-		"咖": {
-			"simplified": "咖",
-			"meaning": "a character for curry's transliteration"
+			"meaning": "(a character used in coffee's transliteration)"
 		}
 	},
 	"kāi": {
 		"開": {
 			"simplified": "开",
-			"meaning": "open"
+			"meaning": "to open"
 		}
 	},
 	"kàn": {
 		"看": {
 			"simplified": "看",
-			"meaning": "look, see"
+			"meaning": "to look, to see"
 		}
 	},
 	"kǎn": {
 		"坎": {
 			"simplified": "坎",
-			"meaning": "pit, depression"
+			"meaning": "pit; depression"
 		},
 		"侃": {
 			"simplified": "侃",
-			"meaning": "frank, talkative"
+			"meaning": "frank; talkative"
 		},
 		"砍": {
 			"simplified": "砍",
-			"meaning": "chop"
-		},
-		"崁": {
-			"simplified": "崁",
-			"meaning": "(Hokkien) embankment"
+			"meaning": "to chop"
 		}
 	},
 	"kān": {
@@ -4196,11 +4226,11 @@
 		},
 		"克": {
 			"simplified": "克",
-			"meaning": "to overcome"
+			"meaning": "to be able to; (unit of weight)  gram"
 		},
 		"剋": {
-			"simplified": "剋",
-			"meaning": "overcome"
+			"simplified": "克",
+			"meaning": "to overcome; to subdue"
 		},
 		"客": {
 			"simplified": "客",
@@ -4268,7 +4298,7 @@
 		},
 		"恐": {
 			"simplified": "恐",
-			"meaning": "fear"
+			"meaning": "frightened; to fear"
 		}
 	},
 	"kōng": {
@@ -4284,7 +4314,7 @@
 	"kòu": {
 		"扣": {
 			"simplified": "扣",
-			"meaning": "tofasten, deduct"
+			"meaning": "to fasten, to deduct"
 		},
 		"叩": {
 			"simplified": "叩",
@@ -4307,7 +4337,7 @@
 			"meaning": "pants"
 		},
 		"庫": {
-			"simplified": "庫",
+			"simplified": "库",
 			"meaning": "warehouse"
 		}
 	},
@@ -4364,7 +4394,7 @@
 	"kuāng": {
 		"匡": {
 			"simplified": "匡",
-			"meaning": "tocorrect, assist"
+			"meaning": "to correct; to assist"
 		}
 	},
 	"kuí": {
@@ -4382,37 +4412,41 @@
 	"kùn": {
 		"困": {
 			"simplified": "困",
-			"meaning": "tired, trapped"
+			"meaning": "to trap, to surround"
+		},
+		"睏": {
+			"simplified": "困",
+			"meaning": "sleepy, tired"
 		}
 	},
 	"kǔn": {
 		"捆": {
 			"simplified": "捆",
-			"meaning": "tie"
+			"meaning": "to tie"
 		},
 		"梱": {
 			"simplified": "梱",
-			"meaning": "to bundle"
+			"meaning": "(archaic) door sill"
 		}
 	},
 	"kūn": {
 		"坤": {
 			"simplified": "坤",
-			"meaning": "earth, female"
+			"meaning": "earth; female"
 		},
 		"昆": {
 			"simplified": "昆",
 			"meaning": "elder brother"
 		},
 		"崑": {
-			"simplified": "崑",
-			"meaning": "a mountain name"
+			"simplified": "昆",
+			"meaning": "(name of a mountain)"
 		}
 	},
 	"kuò": {
 		"括": {
 			"simplified": "括",
-			"meaning": "include"
+			"meaning": "to include"
 		}
 	},
 	"la": {
@@ -4427,10 +4461,20 @@
 			"meaning": "prick"
 		}
 	},
+	"lā": {
+		"垃": {
+			"simplified": "垃",
+			"meaning": "trash"
+		},
+		"拉": {
+			"simplified": "拉",
+			"meaning": "to pull"
+		}
+	},
 	"lái": {
 		"來": {
 			"simplified": "来",
-			"meaning": "come"
+			"meaning": "to come"
 		},
 		"萊": {
 			"simplified": "莱",
@@ -4458,7 +4502,7 @@
 		},
 		"琅": {
 			"simplified": "琅",
-			"meaning": "a kind of clear jade"
+			"meaning": "(a kind of clear jade)"
 		}
 	},
 	"làng": {
@@ -4468,7 +4512,7 @@
 		},
 		"莨": {
 			"simplified": "莨",
-			"meaning": "creeping plant"
+			"meaning": "(a type of plant) creeping plant"
 		}
 	},
 	"lǎng": {
@@ -4504,7 +4548,7 @@
 		},
 		"勒": {
 			"simplified": "勒",
-			"meaning": "tighten"
+			"meaning": "to tighten"
 		}
 	},
 	"léi": {
@@ -4513,24 +4557,28 @@
 			"meaning": "thunder"
 		}
 	},
+	"lěi": {
+		"累": {
+			"simplified": "累",
+			"meaning": "to accumulate; to involve"
+		},
+		"耒": {
+			"simplified": "耒",
+			"meaning": "plow"
+		}
+	},
 	"lèi": {
 		"累": {
 			"simplified": "累",
-			"meaning": "tired"
+			"meaning": "tired; to wear out"
 		},
 		"肋": {
 			"simplified": "肋",
 			"meaning": "rib"
 		},
 		"淚": {
-			"simplified": "淚",
+			"simplified": "泪",
 			"meaning": "tear"
-		}
-	},
-	"lěi": {
-		"耒": {
-			"simplified": "耒",
-			"meaning": "plow"
 		}
 	},
 	"lěng": {
@@ -4554,7 +4602,7 @@
 		},
 		"琍": {
 			"simplified": "琍",
-			"meaning": "a type of jade"
+			"meaning": "(a type of jade)"
 		}
 	},
 	"lì": {
@@ -4572,11 +4620,11 @@
 		},
 		"利": {
 			"simplified": "利",
-			"meaning": "benefit, profit"
+			"meaning": "benefit, profit; to benefit"
 		},
 		"立": {
 			"simplified": "立",
-			"meaning": "stand"
+			"meaning": "to stand"
 		},
 		"吏": {
 			"simplified": "吏",
@@ -4596,11 +4644,11 @@
 		},
 		"荔": {
 			"simplified": "荔",
-			"meaning": "lychee"
+			"meaning": "(a type of plant) lychee"
 		},
 		"唳": {
 			"simplified": "唳",
-			"meaning": "scream"
+			"meaning": "cry (of a crane or wild goose)"
 		},
 		"笠": {
 			"simplified": "笠",
@@ -4612,13 +4660,13 @@
 		},
 		"莉": {
 			"simplified": "莉",
-			"meaning": "jasmine"
+			"meaning": "jasmine (a type of plant and its flower)"
 		}
 	},
 	"lǐ": {
 		"李": {
 			"simplified": "李",
-			"meaning": "plum; a surname"
+			"meaning": "plum (a type of plant and its fruit); (a surname)"
 		},
 		"里": {
 			"simplified": "里",
@@ -4634,11 +4682,7 @@
 		},
 		"俚": {
 			"simplified": "俚",
-			"meaning": "slang"
-		},
-		"哩": {
-			"simplified": "哩",
-			"meaning": "(unit of measurement)"
+			"meaning": "vulgar, rustic; popular"
 		},
 		"浬": {
 			"simplified": "浬",
@@ -4655,6 +4699,12 @@
 			"meaning": "curtain"
 		}
 	},
+	"liàn": {
+		"戀": {
+			"simplified": "恋",
+			"meaning": "to feel attached to, to long for, to love"
+		}
+	},
 	"liáng": {
 		"良": {
 			"simplified": "良",
@@ -4666,7 +4716,11 @@
 		},
 		"梁": {
 			"simplified": "梁",
-			"meaning": "beam"
+			"meaning": "(name of an ancient state, also a family name)"
+		},
+		"樑": {
+			"simplified": "梁",
+			"meaning": "bridge; roof beam"
 		}
 	},
 	"liàng": {
@@ -4694,13 +4748,19 @@
 	"liào": {
 		"料": {
 			"simplified": "料",
-			"meaning": "material"
+			"meaning": "material; to expect, to anticipate"
 		}
 	},
-	"liǎo/le": {
+	"le": {
 		"了": {
 			"simplified": "了",
-			"meaning": "\"to finish; particle for completed action\""
+			"meaning": "(particle for completed action)"
+		}
+	},
+	"liǎo": {
+		"了": {
+			"simplified": "了",
+			"meaning": "to finish"
 		}
 	},
 	"liè": {
@@ -4710,7 +4770,7 @@
 		},
 		"列": {
 			"simplified": "列",
-			"meaning": "row, rank"
+			"meaning": "row, rank; to list"
 		},
 		"冽": {
 			"simplified": "冽",
@@ -4736,7 +4796,7 @@
 		},
 		"淋": {
 			"simplified": "淋",
-			"meaning": "drench"
+			"meaning": "to drench; to be drenched"
 		}
 	},
 	"lìn": {
@@ -4758,7 +4818,7 @@
 		},
 		"靈": {
 			"simplified": "灵",
-			"meaning": "spirit/soul"
+			"meaning": "spirit, soul"
 		},
 		"玲": {
 			"simplified": "玲",
@@ -4766,15 +4826,15 @@
 		},
 		"苓": {
 			"simplified": "苓",
-			"meaning": "a type of herb"
+			"meaning": "(a type of herb)"
 		},
 		"凌": {
 			"simplified": "凌",
-			"meaning": "ascend"
+			"meaning": "to ascend"
 		},
 		"羚": {
 			"simplified": "羚",
-			"meaning": "antelope"
+			"meaning": "(a type of animal) antelope"
 		},
 		"翎": {
 			"simplified": "翎",
@@ -4786,7 +4846,7 @@
 		},
 		"菱": {
 			"simplified": "菱",
-			"meaning": "water chestnut"
+			"meaning": "(a type of plant) water chestnut"
 		}
 	},
 	"lìng": {
@@ -4802,13 +4862,13 @@
 	"lǐng": {
 		"領": {
 			"simplified": "领",
-			"meaning": "collar, lead"
+			"meaning": "collar; to lead"
 		}
 	},
 	"liú": {
 		"流": {
 			"simplified": "流",
-			"meaning": "flow"
+			"meaning": "to flow"
 		},
 		"琉": {
 			"simplified": "琉",
@@ -4816,7 +4876,7 @@
 		},
 		"留": {
 			"simplified": "留",
-			"meaning": "stay"
+			"meaning": "to stay"
 		},
 		"硫": {
 			"simplified": "硫",
@@ -4838,7 +4898,7 @@
 	"lo": {
 		"咯": {
 			"simplified": "咯",
-			"meaning": "exclamation"
+			"meaning": "(exclamation)"
 		}
 	},
 	"lóng": {
@@ -4850,7 +4910,7 @@
 	"lóu": {
 		"婁": {
 			"simplified": "婁",
-			"meaning": "surname"
+			"meaning": "(a surname)"
 		}
 	},
 	"lòu": {
@@ -4882,7 +4942,7 @@
 	"lǚ": {
 		"呂": {
 			"simplified": "吕",
-			"meaning": "surname Lü"
+			"meaning": "(a surname)"
 		},
 		"侶": {
 			"simplified": "侶",
@@ -4906,7 +4966,7 @@
 		},
 		"略": {
 			"simplified": "略",
-			"meaning": "strategy"
+			"meaning": "strategy;  to capture (territory); to omit; a bit, somewhat"
 		}
 	},
 	"lún": {
@@ -4915,36 +4975,42 @@
 			"meaning": "logical order"
 		},
 		"倫": {
-			"simplified": "倫",
-			"meaning": "ethics"
+			"simplified": "伦",
+			"meaning": "human relationship; order"
 		},
 		"崙": {
-			"simplified": "崙",
-			"meaning": "surname"
+			"simplified": "仑",
+			"meaning": "(name of a mountain)"
 		},
 		"掄": {
-			"simplified": "掄",
-			"meaning": "to move"
+			"simplified": "抡",
+			"meaning": "to select"
 		},
 		"淪": {
 			"simplified": "沦",
-			"meaning": "sink"
+			"meaning": "to sink"
+		}
+	},
+	"lūn": {
+		"掄": {
+			"simplified": "抡",
+			"meaning": "to swing (a heavy object)"
 		}
 	},
 	"lùn": {
 		"論": {
 			"simplified": "论",
-			"meaning": "discuss"
+			"meaning": "to discuss"
 		}
 	},
 	"luò": {
 		"洛": {
 			"simplified": "洛",
-			"meaning": "Luoyang (ancient capital)"
+			"meaning": "(name of a river)"
 		},
 		"烙": {
 			"simplified": "烙",
-			"meaning": "burn"
+			"meaning": "to burn"
 		}
 	},
 	"mǎ": {
@@ -4962,13 +5028,13 @@
 	"mái": {
 		"埋": {
 			"simplified": "埋",
-			"meaning": "bury"
+			"meaning": "to bury"
 		}
 	},
 	"mài": {
 		"賣": {
 			"simplified": "卖",
-			"meaning": "sell"
+			"meaning": "to sell"
 		},
 		"脈": {
 			"simplified": "脈",
@@ -4978,7 +5044,7 @@
 	"mǎi": {
 		"買": {
 			"simplified": "买",
-			"meaning": "buy"
+			"meaning": "to buy"
 		}
 	},
 	"màn": {
@@ -5038,7 +5104,7 @@
 		},
 		"冒": {
 			"simplified": "冒",
-			"meaning": "\"risk; brave\""
+			"meaning": "risk; brave"
 		},
 		"茂": {
 			"simplified": "茂",
@@ -5060,13 +5126,13 @@
 	"me": {
 		"么": {
 			"simplified": "么",
-			"meaning": "suffix for pronouns/adjectives"
+			"meaning": "(suffix for pronouns/adjectives)"
 		}
 	},
 	"méi": {
 		"沒": {
 			"simplified": "没",
-			"meaning": "not, disappear"
+			"meaning": "not; disappear"
 		},
 		"枚": {
 			"simplified": "枚",
@@ -5676,23 +5742,23 @@
 	"ó": {
 		"哦": {
 			"simplified": "哦",
-			"meaning": "exclamation (question), oh"
+			"meaning": "(exclamation - question) oh"
 		}
 	},
 	"ò": {
 		"哦": {
 			"simplified": "哦",
-			"meaning": "exclamation (realization), oh"
+			"meaning": "(exclamation - realization) oh"
 		}
 	},
 	"ō": {
 		"喔": {
 			"simplified": "喔",
-			"meaning": "exclamation (realization), oh"
+			"meaning": "(exclamation - realization) oh"
 		},
 		"噢": {
 			"simplified": "噢",
-			"meaning": "exclamation (realization), oh"
+			"meaning": "(exclamation - realization) oh"
 		}
 	},
 	"ǒu": {
@@ -6602,7 +6668,7 @@
 	"ràng": {
 		"讓": {
 			"simplified": "让",
-			"meaning": "let, allow"
+			"meaning": "to let, to allow"
 		}
 	},
 	"rè": {
@@ -6632,33 +6698,33 @@
 		},
 		"任": {
 			"simplified": "任",
-			"meaning": "assign; responsibility"
+			"meaning": "to assign; responsibility"
 		},
 		"認": {
 			"simplified": "认",
-			"meaning": "recognize"
+			"meaning": "to recognize"
 		},
 		"仞": {
 			"simplified": "仞",
-			"meaning": "unit of measure (8 feet)"
+			"meaning": "(unit of measure) 8 feet"
 		},
 		"妊": {
 			"simplified": "妊",
 			"meaning": "pregnancy"
 		},
 		"紉": {
-			"simplified": "紉",
-			"meaning": "sew"
+			"simplified": "纫",
+			"meaning": "to sew"
 		},
 		"軔": {
-			"simplified": "軔",
+			"simplified": "轫",
 			"meaning": "carriage"
 		}
 	},
 	"rěn": {
 		"忍": {
 			"simplified": "忍",
-			"meaning": "endure"
+			"meaning": "to endure"
 		},
 		"荏": {
 			"simplified": "荏",
@@ -6722,7 +6788,7 @@
 		},
 		"茹": {
 			"simplified": "茹",
-			"meaning": "eat"
+			"meaning": "to eat"
 		}
 	},
 	"rù": {
@@ -6742,7 +6808,7 @@
 		},
 		"辱": {
 			"simplified": "辱",
-			"meaning": "disgrace"
+			"meaning": "茹disgrace"
 		}
 	},
 	"ruǎn": {
@@ -6786,7 +6852,7 @@
 	"sāng": {
 		"桑": {
 			"simplified": "桑",
-			"meaning": "mulberry"
+			"meaning": "mulberry (a type of tree)"
 		}
 	},
 	"sǎo": {
@@ -6798,7 +6864,7 @@
 	"sè": {
 		"色": {
 			"simplified": "色",
-			"meaning": "color, lust"
+			"meaning": "color; lust"
 		}
 	},
 	"sēn": {
@@ -6818,14 +6884,14 @@
 		},
 		"剎": {
 			"simplified": "剎",
-			"meaning": "\"moment; temple\""
+			"meaning": "moment; temple"
 		},
 		"砂": {
 			"simplified": "砂",
 			"meaning": "sand"
 		},
 		"紗": {
-			"simplified": "紗",
+			"simplified": "纱",
 			"meaning": "gauze"
 		},
 		"殺": {
@@ -6850,43 +6916,47 @@
 		},
 		"汕": {
 			"simplified": "汕",
-			"meaning": "Shantou"
+			"meaning": "(fish) to swim"
 		},
 		"扇": {
 			"simplified": "扇",
-			"meaning": "fan"
+			"meaning": "fan; (measure word for windows and doors)"
 		},
 		"訕": {
-			"simplified": "訕",
-			"meaning": "mock"
+			"simplified": "讪",
+			"meaning": "to mock"
 		}
 	},
 	"shǎn": {
 		"閃": {
-			"simplified": "閃",
-			"meaning": "flash"
+			"simplified": "闪",
+			"meaning": "to flash; lightning; to dodge; to appear suddenly"
 		},
 		"陝": {
-			"simplified": "陝",
-			"meaning": "Shaanxi province"
+			"simplified": "陕",
+			"meaning": "(name of a place)"
 		}
 	},
 	"shān": {
+		"扇": {
+			"simplified": "扇",
+			"meaning": "to fan"
+		},
 		"山": {
 			"simplified": "山",
 			"meaning": "mountain"
 		},
 		"刪": {
 			"simplified": "删",
-			"meaning": "delete"
+			"meaning": "to delete"
 		},
 		"杉": {
 			"simplified": "杉",
-			"meaning": "fir tree"
+			"meaning": "fir (a type of tree)"
 		},
 		"姍": {
 			"simplified": "姍",
-			"meaning": "graceful"
+			"meaning": "lithe (of a woman's walk)"
 		},
 		"珊": {
 			"simplified": "珊",
@@ -6930,7 +7000,7 @@
 	"sháo": {
 		"芍": {
 			"simplified": "芍",
-			"meaning": "peony"
+			"meaning": "peony (name of a plant)"
 		}
 	},
 	"shào": {
@@ -6940,7 +7010,7 @@
 		},
 		"紹": {
 			"simplified": "绍",
-			"meaning": "carry forward; introduce"
+			"meaning": "to carry forward; to introduce"
 		},
 		"哨": {
 			"simplified": "哨",
@@ -6956,11 +7026,11 @@
 	"shāo": {
 		"捎": {
 			"simplified": "捎",
-			"meaning": "bring"
+			"meaning": "to bring"
 		},
 		"梢": {
 			"simplified": "梢",
-			"meaning": "tip"
+			"meaning": "tip of a twig (tree branch)"
 		}
 	},
 	"shé": {
@@ -6976,21 +7046,25 @@
 	"shè": {
 		"設": {
 			"simplified": "设",
-			"meaning": "set up"
+			"meaning": "to set up"
 		},
 		"射": {
 			"simplified": "射",
-			"meaning": "shoot"
+			"meaning": "to shoot"
 		},
 		"涉": {
 			"simplified": "涉",
-			"meaning": "involve"
+			"meaning": "to involve"
+		},
+		"舍": {
+			"simplified": "舍",
+			"meaning": "house"
 		}
 	},
 	"shě": {
 		"捨": {
 			"simplified": "舍",
-			"meaning": "abandon"
+			"meaning": "to abandon"
 		}
 	},
 	"shē": {
@@ -7024,21 +7098,21 @@
 	"shěn": {
 		"瀋": {
 			"simplified": "沈",
-			"meaning": "a surname"
+			"meaning": "(a surname)"
 		},
 		"哂": {
 			"simplified": "哂",
-			"meaning": "smile"
+			"meaning": "smile; to smile; to sneer"
 		}
 	},
 	"shēn": {
 		"伸": {
 			"simplified": "伸",
-			"meaning": "tostretch, extend"
+			"meaning": "to stretch, to extend"
 		},
 		"申": {
 			"simplified": "申",
-			"meaning": "extend, ninth (of earthly branch)"
+			"meaning": "to extend; to state; ninth (of earthly branch)"
 		},
 		"身": {
 			"simplified": "身",
@@ -7061,8 +7135,8 @@
 			"meaning": "deep"
 		},
 		"紳": {
-			"simplified": "紳",
-			"meaning": "gentry"
+			"simplified": "绅",
+			"meaning": "gentleman, gentry"
 		},
 		"莘": {
 			"simplified": "莘",
@@ -7088,11 +7162,11 @@
 	"shēng": {
 		"生": {
 			"simplified": "生",
-			"meaning": "grow; life; student"
+			"meaning": "to grow; life; student"
 		},
 		"升": {
 			"simplified": "升",
-			"meaning": "rise"
+			"meaning": "to rise"
 		},
 		"牲": {
 			"simplified": "牲",
@@ -7100,7 +7174,7 @@
 		},
 		"笙": {
 			"simplified": "笙",
-			"meaning": "a musical instrument"
+			"meaning": "(a musical instrument)"
 		}
 	},
 	"shí": {
@@ -7118,17 +7192,17 @@
 		},
 		"食": {
 			"simplified": "食",
-			"meaning": "food"
+			"meaning": "(archaic) to eat; food"
 		},
 		"拾": {
 			"simplified": "拾",
-			"meaning": "pick up"
+			"meaning": "to pick up"
 		}
 	},
 	"shì": {
 		"侍": {
 			"simplified": "侍",
-			"meaning": "serve, attend"
+			"meaning": "to serve, to attend"
 		},
 		"氏": {
 			"simplified": "氏",
@@ -7136,7 +7210,7 @@
 		},
 		"式": {
 			"simplified": "式",
-			"meaning": "style, formula"
+			"meaning": "style; formula"
 		},
 		"世": {
 			"simplified": "世",
@@ -7160,7 +7234,7 @@
 		},
 		"試": {
 			"simplified": "试",
-			"meaning": "test, try"
+			"meaning": "to test, to try; test, examination"
 		},
 		"適": {
 			"simplified": "适",
@@ -7168,11 +7242,11 @@
 		},
 		"士": {
 			"simplified": "士",
-			"meaning": "\"scholar; soldier\""
+			"meaning": "scholar; soldier"
 		},
 		"示": {
 			"simplified": "示",
-			"meaning": "show"
+			"meaning": "to show, to demonstrate"
 		},
 		"室": {
 			"simplified": "室",
@@ -7180,19 +7254,19 @@
 		},
 		"恃": {
 			"simplified": "恃",
-			"meaning": "rely on"
+			"meaning": "to rely on"
 		},
 		"拭": {
 			"simplified": "拭",
-			"meaning": "wipe"
+			"meaning": "to wipe"
 		},
 		"柿": {
 			"simplified": "柿",
-			"meaning": "persimmon"
+			"meaning": "persimmon (a type of tree)"
 		},
 		"舐": {
 			"simplified": "舐",
-			"meaning": "lick"
+			"meaning": "(archaic) to lick"
 		}
 	},
 	"shǐ": {
@@ -7202,7 +7276,7 @@
 		},
 		"使": {
 			"simplified": "使",
-			"meaning": "use; envoy"
+			"meaning": "to use; envoy"
 		},
 		"史": {
 			"simplified": "史",
@@ -8420,7 +8494,7 @@
 	"wō": {
 		"喔": {
 			"simplified": "喔",
-			"meaning": "an onomatopoeic word (crowing of a cock), crow"
+			"meaning": "(onomatopoeic) crowing of a cock"
 		},
 		"倭": {
 			"simplified": "倭",
@@ -8450,6 +8524,10 @@
 		}
 	},
 	"wù": {
+		"惡": {
+			"simplified": "恶",
+			"meaning": "to hate, to loathe"
+		},
 		"兀": {
 			"simplified": "兀",
 			"meaning": "protruding, sudden"
@@ -8486,7 +8564,7 @@
 		},
 		"舞": {
 			"simplified": "舞",
-			"meaning": "dance"
+			"meaning": "to dance; dance"
 		},
 		"午": {
 			"simplified": "午",
@@ -8498,11 +8576,11 @@
 		},
 		"侮": {
 			"simplified": "侮",
-			"meaning": "insult"
+			"meaning": "to insult"
 		},
 		"捂": {
 			"simplified": "捂",
-			"meaning": "cover"
+			"meaning": "to cover, to seal"
 		}
 	},
 	"wū": {
@@ -8519,25 +8597,25 @@
 			"meaning": "plaster"
 		},
 		"烏": {
-			"simplified": "烏",
-			"meaning": "crow"
+			"simplified": "乌",
+			"meaning": "crow; black"
 		}
 	},
 	"xí": {
-		"习": {
+		"習": {
 			"simplified": "习",
-			"meaning": "practice"
+			"meaning": "to practice; practice"
 		},
 		"席": {
 			"simplified": "席",
 			"meaning": "seat"
-		},
-		"習": {
-			"simplified": "習",
-			"meaning": "to practice"
 		}
 	},
 	"xì": {
+		"繫": {
+			"simplified": "系",
+			"meaning": "to tie"
+		},
 		"系": {
 			"simplified": "系",
 			"meaning": "system, department"
@@ -8547,8 +8625,8 @@
 			"meaning": "thin; fine"
 		},
 		"係": {
-			"simplified": "係",
-			"meaning": "system"
+			"simplified": "系",
+			"meaning": "to relate to; be"
 		}
 	},
 	"xǐ": {
@@ -8558,17 +8636,17 @@
 		},
 		"洗": {
 			"simplified": "洗",
-			"meaning": "wash"
+			"meaning": "to wash"
 		},
 		"徙": {
 			"simplified": "徙",
-			"meaning": "migrate"
+			"meaning": "to migrate"
 		}
 	},
 	"xī": {
 		"希": {
 			"simplified": "希",
-			"meaning": "rare, hope"
+			"meaning": "rare; hope"
 		},
 		"西": {
 			"simplified": "西",
@@ -8596,7 +8674,7 @@
 		},
 		"析": {
 			"simplified": "析",
-			"meaning": "analyze"
+			"meaning": "to sepanalyze"
 		},
 		"奚": {
 			"simplified": "奚",
@@ -8644,7 +8722,7 @@
 		},
 		"嚇": {
 			"simplified": "吓",
-			"meaning": "intimidate, frighten"
+			"meaning": "to intimidate, to frighten"
 		},
 		"夏": {
 			"simplified": "夏",
@@ -8654,7 +8732,7 @@
 	"xiā": {
 		"呷": {
 			"simplified": "呷",
-			"meaning": "sip, slurp"
+			"meaning": "to sip, to slurp"
 		}
 	},
 	"xián": {
@@ -8672,19 +8750,19 @@
 		},
 		"啣": {
 			"simplified": "啣",
-			"meaning": "bite"
+			"meaning": "(archaic) to bite"
 		},
 		"涎": {
 			"simplified": "涎",
 			"meaning": "saliva"
 		},
 		"絃": {
-			"simplified": "絃",
+			"simplified": "弦",
 			"meaning": "string"
 		},
 		"舷": {
 			"simplified": "舷",
-			"meaning": "\"ship's side\""
+			"meaning": "ship's side"
 		}
 	},
 	"xiàn": {
@@ -8697,8 +8775,8 @@
 			"meaning": "limit"
 		},
 		"現": {
-			"simplified": "現",
-			"meaning": "present"
+			"simplified": "现",
+			"meaning": "to appear, to show; present, current"
 		}
 	},
 	"xiān": {
@@ -8732,7 +8810,7 @@
 	"xiàng": {
 		"向": {
 			"simplified": "向",
-			"meaning": "towards, direction"
+			"meaning": "towards; direction"
 		},
 		"象": {
 			"simplified": "象",
@@ -8746,11 +8824,11 @@
 	"xiǎng": {
 		"想": {
 			"simplified": "想",
-			"meaning": "want; think"
+			"meaning": "to want; to think"
 		},
 		"享": {
 			"simplified": "享",
-			"meaning": "enjoy"
+			"meaning": "to enjoy"
 		}
 	},
 	"xiāng": {
@@ -8770,17 +8848,17 @@
 	"xiáo": {
 		"淆": {
 			"simplified": "淆",
-			"meaning": "confuse"
+			"meaning": "to confuse"
 		}
 	},
 	"xiào": {
 		"肖": {
 			"simplified": "肖",
-			"meaning": "resemble, portrait"
+			"meaning": "to resemble, to be like"
 		},
 		"笑": {
 			"simplified": "笑",
-			"meaning": "laugh, smile"
+			"meaning": "laugh, smile; to laugh, to smile"
 		},
 		"校": {
 			"simplified": "校",
@@ -8788,11 +8866,11 @@
 		},
 		"孝": {
 			"simplified": "孝",
-			"meaning": "filial piety"
+			"meaning": "filial piety; mourning"
 		},
 		"哮": {
 			"simplified": "哮",
-			"meaning": "howl"
+			"meaning": "to howl"
 		},
 		"效": {
 			"simplified": "效",
@@ -8812,7 +8890,7 @@
 		},
 		"消": {
 			"simplified": "消",
-			"meaning": "vanish"
+			"meaning": "to vanish; to eliminate"
 		},
 		"梟": {
 			"simplified": "枭",
@@ -8834,15 +8912,15 @@
 		},
 		"協": {
 			"simplified": "协",
-			"meaning": "cooperate"
+			"meaning": "to cooperate"
 		},
 		"挾": {
 			"simplified": "挾",
-			"meaning": "hold"
+			"meaning": "to hold"
 		},
 		"脅": {
-			"simplified": "脅",
-			"meaning": "threaten"
+			"simplified": "胁",
+			"meaning": "to threaten"
 		},
 		"偕": {
 			"simplified": "偕",
@@ -8852,11 +8930,11 @@
 	"xiè": {
 		"謝": {
 			"simplified": "谢",
-			"meaning": "thank"
+			"meaning": "to apologize; to decline; to thank; (flower) to wither"
 		},
 		"卸": {
 			"simplified": "卸",
-			"meaning": "unload"
+			"meaning": "to unload"
 		},
 		"屑": {
 			"simplified": "屑",
@@ -8870,7 +8948,7 @@
 	"xiě": {
 		"寫": {
 			"simplified": "写",
-			"meaning": "write"
+			"meaning": "to write"
 		},
 		"血": {
 			"simplified": "血",
@@ -8886,7 +8964,7 @@
 	"xìn": {
 		"信": {
 			"simplified": "信",
-			"meaning": "trust; letter"
+			"meaning": "trust; to trust; letter"
 		}
 	},
 	"xīn": {
@@ -8914,7 +8992,7 @@
 		},
 		"行": {
 			"simplified": "行",
-			"meaning": "wark; okay, alright"
+			"meaning": "to wark; okay, alright"
 		},
 		"刑": {
 			"simplified": "刑",
@@ -8922,7 +9000,7 @@
 		},
 		"邢": {
 			"simplified": "邢",
-			"meaning": "a surname"
+			"meaning": "(a surname)"
 		}
 	},
 	"xìng": {
@@ -8936,15 +9014,15 @@
 		},
 		"杏": {
 			"simplified": "杏",
-			"meaning": "apricot"
+			"meaning": "apricot (a type of tree)"
 		},
 		"幸": {
 			"simplified": "幸",
 			"meaning": "fortunate"
 		},
 		"倖": {
-			"simplified": "倖",
-			"meaning": "fortunate"
+			"simplified": "幸",
+			"meaning": "favour; fortunate"
 		},
 		"悻": {
 			"simplified": "悻",
@@ -8954,11 +9032,11 @@
 	"xǐng": {
 		"醒": {
 			"simplified": "醒",
-			"meaning": "wake; conscious"
+			"meaning": "to wake up; conscious"
 		},
 		"省": {
 			"simplified": "省",
-			"meaning": "reflect, consider; visit"
+			"meaning": "to reflect, to consider; to visit"
 		}
 	},
 	"xīng": {
@@ -8976,7 +9054,7 @@
 	"xiōng": {
 		"匈": {
 			"simplified": "匈",
-			"meaning": "chest, Hungary"
+			"meaning": "(archaic) chest; (short for) Hungary (transliteration)"
 		},
 		"兇": {
 			"simplified": "凶",
@@ -9008,7 +9086,7 @@
 	"xiǔ": {
 		"朽": {
 			"simplified": "朽",
-			"meaning": "decay"
+			"meaning": "(wood) to decay"
 		}
 	},
 	"xiū": {
@@ -9018,11 +9096,11 @@
 		},
 		"咻": {
 			"simplified": "咻",
-			"meaning": "whistling sound"
+			"meaning": "(onomatopoeic) whistling sound"
 		},
 		"修": {
 			"simplified": "修",
-			"meaning": "repair"
+			"meaning": "to decorate; to repair; to study; long"
 		},
 		"羞": {
 			"simplified": "羞",
@@ -9036,29 +9114,29 @@
 	"xú": {
 		"徐": {
 			"simplified": "徐",
-			"meaning": "slow"
+			"meaning": "(name of an ancient state, also a family name)"
 		}
 	},
 	"xù": {
 		"序": {
 			"simplified": "序",
-			"meaning": "order, preface"
+			"meaning": "order; preface"
 		},
 		"恤": {
 			"simplified": "恤",
-			"meaning": "pity"
+			"meaning": "to pity"
 		},
 		"畜": {
 			"simplified": "畜",
-			"meaning": "raise (domestic animals)"
+			"meaning": "to raise (domestic animals)"
 		},
 		"敘": {
 			"simplified": "敘",
-			"meaning": "narrate"
+			"meaning": "to narrate; narration"
 		},
 		"勗": {
 			"simplified": "勗",
-			"meaning": "encourage"
+			"meaning": "to encourage"
 		},
 		"旭": {
 			"simplified": "旭",
@@ -9066,15 +9144,19 @@
 		}
 	},
 	"xǔ": {
+		"徐": {
+			"simplified": "徐",
+			"meaning": "slowly"
+		},
 		"栩": {
 			"simplified": "栩",
-			"meaning": "a surname"
+			"meaning": "(a type of tree)"
 		}
 	},
 	"xū": {
 		"吁": {
 			"simplified": "吁",
-			"meaning": "tosigh, callout"
+			"meaning": "to sigh; to call out"
 		},
 		"須": {
 			"simplified": "须",
@@ -9096,7 +9178,7 @@
 		},
 		"旋": {
 			"simplified": "旋",
-			"meaning": "rotate"
+			"meaning": "to rotate"
 		}
 	},
 	"xuàn": {
@@ -9115,14 +9197,14 @@
 			"meaning": "proclaim"
 		},
 		"軒": {
-			"simplified": "軒",
+			"simplified": "轩",
 			"meaning": "pavilion"
 		}
 	},
 	"xué": {
 		"學": {
 			"simplified": "学",
-			"meaning": "learn"
+			"meaning": "to learn"
 		},
 		"穴": {
 			"simplified": "穴",
@@ -9144,13 +9226,13 @@
 	"xuē": {
 		"削": {
 			"simplified": "削",
-			"meaning": "cut, peel"
+			"meaning": "to cut, to peel"
 		}
 	},
 	"xún": {
 		"巡": {
 			"simplified": "巡",
-			"meaning": "patrol, tour"
+			"meaning": "to patrol; to tour"
 		},
 		"旬": {
 			"simplified": "旬",
@@ -9158,7 +9240,7 @@
 		},
 		"荀": {
 			"simplified": "荀",
-			"meaning": "a surname"
+			"meaning": "(a surname)"
 		}
 	},
 	"xùn": {
@@ -9168,7 +9250,7 @@
 		},
 		"訓": {
 			"simplified": "训",
-			"meaning": "teach, instruct"
+			"meaning": "to teach, to instruct"
 		},
 		"訊": {
 			"simplified": "讯",
@@ -9176,15 +9258,11 @@
 		},
 		"徇": {
 			"simplified": "徇",
-			"meaning": "follow"
+			"meaning": "to follow"
 		},
 		"殉": {
 			"simplified": "殉",
-			"meaning": "martyrdom"
-		},
-		"浚": {
-			"simplified": "浚",
-			"meaning": "dredge"
+			"meaning": "to be buried alive with the dead; to sacrifice one's life for"
 		}
 	},
 	"yá": {
@@ -9202,19 +9280,19 @@
 		},
 		"琊": {
 			"simplified": "琊",
-			"meaning": "an ancient city name"
+			"meaning": "(name of an ancient city)"
 		}
 	},
 	"yà": {
 		"亞": {
 			"simplified": "亚",
-			"meaning": "inferior; second; (short of) Asia"
+			"meaning": "inferior; second; (short for) Asia (transliteration)"
 		}
 	},
 	"yǎ": {
 		"啞": {
-			"simplified": "啞",
-			"meaning": "mute"
+			"simplified": "哑",
+			"meaning": "mute, dumb"
 		}
 	},
 	"yā": {
@@ -9224,21 +9302,21 @@
 		},
 		"呀": {
 			"simplified": "呀",
-			"meaning": "exclamation, ah"
+			"meaning": "(exclamation) ah"
 		},
 		"押": {
 			"simplified": "押",
-			"meaning": "press; detain"
+			"meaning": "to press; to detain"
 		}
 	},
 	"yán": {
 		"岩": {
 			"simplified": "岩",
-			"meaning": "rock, cliff"
+			"meaning": "rock; cliff"
 		},
 		"延": {
 			"simplified": "延",
-			"meaning": "extend, prolong"
+			"meaning": "to extend, to prolong"
 		},
 		"言": {
 			"simplified": "言",
@@ -9246,7 +9324,7 @@
 		},
 		"研": {
 			"simplified": "研",
-			"meaning": "grind; research"
+			"meaning": "to grind; to research"
 		},
 		"妍": {
 			"simplified": "妍",
@@ -9286,15 +9364,15 @@
 		},
 		"兗": {
 			"simplified": "兗",
-			"meaning": "state of Yan"
+			"meaning": "(name of a river and an ancient state)"
 		},
 		"衍": {
 			"simplified": "衍",
-			"meaning": "expand"
+			"meaning": "to multiply; to be superfluous"
 		},
 		"偃": {
 			"simplified": "偃",
-			"meaning": "lie down"
+			"meaning": "to lie down, to fall down; to stop"
 		},
 		"掩": {
 			"simplified": "掩",
@@ -9306,13 +9384,17 @@
 			"simplified": "胭",
 			"meaning": "rouge"
 		},
+		"閹": {
+			"simplified": "阉",
+			"meaning": "to castrate"
+		},
 		"淹": {
 			"simplified": "淹",
-			"meaning": "flood"
+			"meaning": "to submerge, to flood"
 		},
 		"焉": {
 			"simplified": "焉",
-			"meaning": "how"
+			"meaning": "(archaic) how"
 		}
 	},
 	"yáng": {
@@ -9326,11 +9408,11 @@
 		},
 		"烊": {
 			"simplified": "烊",
-			"meaning": "a surname"
+			"meaning": "to melt, to dissolve"
 		},
 		"佯": {
 			"simplified": "佯",
-			"meaning": "pretend"
+			"meaning": "to pretend"
 		},
 		"洋": {
 			"simplified": "洋",
@@ -9350,7 +9432,7 @@
 	"yǎng": {
 		"仰": {
 			"simplified": "仰",
-			"meaning": "tolookup, admire"
+			"meaning": "to look up; to admire"
 		},
 		"養": {
 			"simplified": "养",
@@ -9364,7 +9446,7 @@
 	"yāng": {
 		"央": {
 			"simplified": "央",
-			"meaning": "center, beg"
+			"meaning": "center; to beg"
 		},
 		"殃": {
 			"simplified": "殃",
@@ -9382,7 +9464,7 @@
 		},
 		"姚": {
 			"simplified": "姚",
-			"meaning": "a surname"
+			"meaning": "(a surname)"
 		}
 	},
 	"yào": {
@@ -9402,7 +9484,7 @@
 		},
 		"咬": {
 			"simplified": "咬",
-			"meaning": "bite"
+			"meaning": "to bite"
 		},
 		"窈": {
 			"simplified": "窈",
@@ -9416,15 +9498,15 @@
 	"yāo": {
 		"妖": {
 			"simplified": "妖",
-			"meaning": "demon, enchanting"
+			"meaning": "demon; evil and fraudulent"
 		},
 		"吆": {
 			"simplified": "吆",
-			"meaning": "tocall, yell"
+			"meaning": "to call, to yell"
 		},
 		"夭": {
 			"simplified": "夭",
-			"meaning": "young; die young"
+			"meaning": "young; to die young"
 		}
 	},
 	"yé": {
@@ -9434,7 +9516,7 @@
 		},
 		"耶": {
 			"simplified": "耶",
-			"meaning": "exclamation (question)"
+			"meaning": "(exclamation - question)"
 		}
 	},
 	"yè": {
@@ -9448,15 +9530,15 @@
 		},
 		"曳": {
 			"simplified": "曳",
-			"meaning": "drag"
+			"meaning": "to drag"
 		},
 		"頁": {
-			"simplified": "頁",
+			"simplified": "页",
 			"meaning": "page"
 		},
 		"掖": {
 			"simplified": "掖",
-			"meaning": "push"
+			"meaning": "to tuck in, to tuck away; to toll up; to fold"
 		},
 		"液": {
 			"simplified": "液",
@@ -9470,7 +9552,7 @@
 		},
 		"冶": {
 			"simplified": "冶",
-			"meaning": "metallurgy"
+			"meaning": "to smelt (metal)"
 		}
 	},
 	"yí": {
@@ -9480,11 +9562,11 @@
 		},
 		"夷": {
 			"simplified": "夷",
-			"meaning": "foreigner, level"
+			"meaning": "barbarian, foreigner; level"
 		},
 		"姨": {
 			"simplified": "姨",
-			"meaning": "aunt, maternal aunt"
+			"meaning": "aunt; maternal aunt"
 		},
 		"宜": {
 			"simplified": "宜",
@@ -9496,7 +9578,7 @@
 		},
 		"咦": {
 			"simplified": "咦",
-			"meaning": "exclamation (surprise)"
+			"meaning": "(exclamation - surprise)"
 		},
 		"胰": {
 			"simplified": "胰",
@@ -9554,7 +9636,7 @@
 		},
 		"抑": {
 			"simplified": "抑",
-			"meaning": "restrain"
+			"meaning": "to restrain"
 		},
 		"佾": {
 			"simplified": "佾",
@@ -9570,11 +9652,11 @@
 		},
 		"羿": {
 			"simplified": "羿",
-			"meaning": "a legendary person name"
+			"meaning": "(name of a legendary person)"
 		},
 		"益": {
 			"simplified": "益",
-			"meaning": "benefit"
+			"meaning": "benefit; to benefit"
 		},
 		"異": {
 			"simplified": "异",
@@ -9608,7 +9690,7 @@
 		},
 		"倚": {
 			"simplified": "倚",
-			"meaning": "lean"
+			"meaning": "to lean"
 		}
 	},
 	"yī": {
@@ -9630,7 +9712,7 @@
 		},
 		"依": {
 			"simplified": "依",
-			"meaning": "rely on"
+			"meaning": "to rely on"
 		}
 	},
 	"yín": {
@@ -9652,31 +9734,31 @@
 		},
 		"淫": {
 			"simplified": "淫",
-			"meaning": "licentious"
+			"meaning": "licentious, lustful"
 		}
 	},
 	"yìn": {
 		"印": {
 			"simplified": "印",
-			"meaning": "stamp, seal"
+			"meaning": "stamp, seal; to engrave; to print"
 		},
 		"胤": {
 			"simplified": "胤",
-			"meaning": "descendant"
+			"meaning": "(archaic) descendant; heir"
 		}
 	},
 	"yǐn": {
 		"引": {
 			"simplified": "引",
-			"meaning": "lead, guide"
+			"meaning": "to lead, to guide"
 		},
 		"飲": {
 			"simplified": "饮",
-			"meaning": "drink"
+			"meaning": "to drink"
 		},
 		"尹": {
 			"simplified": "尹",
-			"meaning": "governor"
+			"meaning": "(archaic) governor"
 		},
 		"蚓": {
 			"simplified": "蚓",
@@ -9738,23 +9820,23 @@
 	"yīng": {
 		"應": {
 			"simplified": "应",
-			"meaning": "should; respond"
+			"meaning": "should; to respond"
 		},
 		"英": {
 			"simplified": "英",
-			"meaning": "hero"
+			"meaning": "flower; hero; outstanding"
 		}
 	},
 	"yòng": {
 		"用": {
 			"simplified": "用",
-			"meaning": "use"
+			"meaning": "use; to use"
 		}
 	},
 	"yǒng": {
 		"甬": {
 			"simplified": "甬",
-			"meaning": "passage, Ningbo(abbreviation)"
+			"meaning": "passage"
 		},
 		"勇": {
 			"simplified": "勇",
@@ -9770,17 +9852,17 @@
 		},
 		"恿": {
 			"simplified": "恿",
-			"meaning": "provoke"
+			"meaning": "to provoke"
 		}
 	},
 	"yōng": {
 		"佣": {
 			"simplified": "佣",
-			"meaning": "servant, commission"
+			"meaning": "servant; commission"
 		},
 		"邕": {
 			"simplified": "邕",
-			"meaning": "a place name"
+			"meaning": "(name of a place)"
 		},
 		"庸": {
 			"simplified": "庸",
@@ -9790,15 +9872,15 @@
 	"yóu": {
 		"由": {
 			"simplified": "由",
-			"meaning": "from, reason"
+			"meaning": "from; reason"
 		},
 		"遊": {
 			"simplified": "游",
-			"meaning": "travel; wander; play around"
+			"meaning": "to travel; to wander; to play around"
 		},
 		"游": {
 			"simplified": "游",
-			"meaning": "swim"
+			"meaning": "to swim"
 		},
 		"尤": {
 			"simplified": "尤",
@@ -9824,15 +9906,15 @@
 		},
 		"宥": {
 			"simplified": "宥",
-			"meaning": "forgive"
+			"meaning": "to forgive"
 		},
 		"柚": {
 			"simplified": "柚",
-			"meaning": "pomelo"
+			"meaning": "pomelo (name of a fruit)"
 		},
 		"祐": {
 			"simplified": "祐",
-			"meaning": "bless"
+			"meaning": "to bless"
 		}
 	},
 	"yǒu": {
@@ -9842,7 +9924,7 @@
 		},
 		"有": {
 			"simplified": "有",
-			"meaning": "have"
+			"meaning": "to have"
 		},
 		"酉": {
 			"simplified": "酉",
@@ -9864,7 +9946,11 @@
 		},
 		"悠": {
 			"simplified": "悠",
-			"meaning": "long time"
+			"meaning": "remote (in time or space); leisurely"
+		},
+		"唷": {
+			"simplified": "唷",
+			"meaning": "(exclamation - surprise)"
 		}
 	},
 	"yú": {
@@ -9886,25 +9972,25 @@
 		},
 		"俞": {
 			"simplified": "俞",
-			"meaning": "respond; agree"
+			"meaning": "to respond; to agree"
 		},
 		"竽": {
 			"simplified": "竽",
-			"meaning": "musical instrument"
+			"meaning": "(a type of musical instrument)"
 		},
 		"娛": {
-			"simplified": "娛",
-			"meaning": "amuse"
+			"simplified": "娱",
+			"meaning": "to amuse"
 		}
 	},
 	"yù": {
 		"育": {
 			"simplified": "育",
-			"meaning": "tonurture, educate"
+			"meaning": "to nurture; to educate"
 		},
 		"遇": {
 			"simplified": "遇",
-			"meaning": "encounter"
+			"meaning": "to encounter"
 		},
 		"玉": {
 			"simplified": "玉",
@@ -9940,13 +10026,13 @@
 		},
 		"欲": {
 			"simplified": "欲",
-			"meaning": "desire"
+			"meaning": "desire; to desire"
 		}
 	},
 	"yǔ": {
 		"予": {
 			"simplified": "予",
-			"meaning": "give, grant"
+			"meaning": "to give; to grant"
 		},
 		"羽": {
 			"simplified": "羽",
@@ -9954,7 +10040,7 @@
 		},
 		"語": {
 			"simplified": "语",
-			"meaning": "language"
+			"meaning": "language; to talk"
 		},
 		"雨": {
 			"simplified": "雨",
@@ -9966,11 +10052,11 @@
 		},
 		"禹": {
 			"simplified": "禹",
-			"meaning": "legendary emperor"
+			"meaning": "(name of a legendary emperor)"
 		},
 		"庾": {
 			"simplified": "庾",
-			"meaning": "surname"
+			"meaning": "(a rare surname)"
 		}
 	},
 	"yū": {
@@ -9980,7 +10066,7 @@
 		},
 		"淤": {
 			"simplified": "淤",
-			"meaning": "silt"
+			"meaning": "silt; to silt"
 		}
 	},
 	"yuán": {
@@ -9994,27 +10080,27 @@
 		},
 		"沅": {
 			"simplified": "沅",
-			"meaning": "a river name"
+			"meaning": "(name of a river)"
 		},
 		"垣": {
 			"simplified": "垣",
-			"meaning": "wall"
+			"meaning": "(archaic) wall"
 		},
 		"爰": {
 			"simplified": "爰",
-			"meaning": "so"
+			"meaning": "(archaic) so"
 		},
 		"原": {
 			"simplified": "原",
-			"meaning": "origin"
+			"meaning": "origin, raw; former; open country, plain"
 		},
 		"員": {
-			"simplified": "員",
-			"meaning": "member"
+			"simplified": "员",
+			"meaning": "member; person holding a post"
 		},
 		"袁": {
 			"simplified": "袁",
-			"meaning": "a surname"
+			"meaning": "(a surname)"
 		}
 	},
 	"yuàn": {
@@ -10043,7 +10129,7 @@
 			"meaning": "injustice"
 		},
 		"淵": {
-			"simplified": "淵",
+			"simplified": "渊",
 			"meaning": "abyss"
 		}
 	},
@@ -10058,25 +10144,21 @@
 		},
 		"岳": {
 			"simplified": "岳",
-			"meaning": "mountain"
+			"meaning": "(high) mountain; parents of one's wife"
 		},
 		"悅": {
 			"simplified": "悅",
-			"meaning": "happy"
+			"meaning": "happy; to make happy"
 		}
 	},
 	"yuē": {
 		"曰": {
 			"simplified": "曰",
-			"meaning": "say"
+			"meaning": "(archaic) to say"
 		},
 		"約": {
 			"simplified": "约",
 			"meaning": "agreement"
-		},
-		"唷": {
-			"simplified": "唷",
-			"meaning": "exclamation (surprise)"
 		}
 	},
 	"yún": {
@@ -10090,7 +10172,7 @@
 		},
 		"云": {
 			"simplified": "云",
-			"meaning": "say"
+			"meaning": "to say"
 		},
 		"昀": {
 			"simplified": "昀",
@@ -10108,19 +10190,19 @@
 	"yùn": {
 		"孕": {
 			"simplified": "孕",
-			"meaning": "pregnant"
+			"meaning": "fetus; pregnant"
 		}
 	},
 	"yǔn": {
 		"允": {
 			"simplified": "允",
-			"meaning": "permit"
+			"meaning": "to permit"
 		}
 	},
 	"zá": {
 		"砸": {
 			"simplified": "砸",
-			"meaning": "smash"
+			"meaning": "to smash"
 		}
 	},
 	"zǎ": {
@@ -10132,11 +10214,11 @@
 	"zā": {
 		"匝": {
 			"simplified": "匝",
-			"meaning": "circle, enclose"
+			"meaning": "circle; to enclose"
 		},
 		"紮": {
-			"simplified": "紮",
-			"meaning": "bind"
+			"simplified": "扎",
+			"meaning": "to bind, to tie; (measure word) bundle"
 		}
 	},
 	"zài": {
@@ -10152,7 +10234,7 @@
 	"zǎi": {
 		"宰": {
 			"simplified": "宰",
-			"meaning": "govern"
+			"meaning": "to govern, to rule; minister; to slaughter"
 		},
 		"仔": {
 			"simplified": "仔",
@@ -10244,13 +10326,13 @@
 		},
 		"炸": {
 			"simplified": "炸",
-			"meaning": "explode"
+			"meaning": "to explode"
 		}
 	},
 	"zhǎ": {
 		"眨": {
 			"simplified": "眨",
-			"meaning": "blink"
+			"meaning": "to blink"
 		}
 	},
 	"zhā": {
@@ -10292,11 +10374,11 @@
 	"zhǎn": {
 		"展": {
 			"simplified": "展",
-			"meaning": "unfold"
+			"meaning": "to unfold"
 		},
 		"斬": {
-			"simplified": "斬",
-			"meaning": "chop"
+			"simplified": "斩",
+			"meaning": "to chop"
 		}
 	},
 	"zhàng": {
@@ -10314,7 +10396,7 @@
 		},
 		"丈": {
 			"simplified": "丈",
-			"meaning": "\"ten feet (unit of measure); elder male\""
+			"meaning": "(unit of measure) ten feet; elder male"
 		},
 		"帳": {
 			"simplified": "帐",
@@ -10384,7 +10466,7 @@
 		},
 		"浙": {
 			"simplified": "浙",
-			"meaning": "a river name"
+			"meaning": "(name of a river)"
 		}
 	},
 	"zhèn": {
@@ -10394,11 +10476,11 @@
 		},
 		"振": {
 			"simplified": "振",
-			"meaning": "shake"
+			"meaning": "to shake"
 		},
 		"朕": {
 			"simplified": "朕",
-			"meaning": "I (imperial)"
+			"meaning": "(imperial, archaic) I"
 		},
 		"陣": {
 			"simplified": "阵",
@@ -10425,7 +10507,7 @@
 			"meaning": "treasure"
 		},
 		"貞": {
-			"simplified": "貞",
+			"simplified": "贞",
 			"meaning": "chaste"
 		},
 		"砧": {
@@ -10438,7 +10520,7 @@
 		},
 		"偵": {
 			"simplified": "侦",
-			"meaning": "investigate"
+			"meaning": "to investigate"
 		}
 	},
 	"zhèng": {
@@ -10460,13 +10542,13 @@
 		},
 		"掙": {
 			"simplified": "掙",
-			"meaning": "struggle"
+			"meaning": "to struggle"
 		}
 	},
 	"zhěng": {
 		"拯": {
 			"simplified": "拯",
-			"meaning": "rescue"
+			"meaning": "to rescue"
 		}
 	},
 	"zhēng": {
@@ -10479,11 +10561,11 @@
 			"meaning": "startled"
 		},
 		"崢": {
-			"simplified": "崢",
+			"simplified": "铮",
 			"meaning": "steep"
 		},
 		"猙": {
-			"simplified": "猙",
+			"simplified": "狰",
 			"meaning": "ferocious"
 		}
 	},
@@ -10502,21 +10584,21 @@
 		},
 		"值": {
 			"simplified": "值",
-			"meaning": "value"
+			"meaning": "to be worth; value"
 		},
 		"執": {
-			"simplified": "執",
-			"meaning": "hold"
+			"simplified": "执",
+			"meaning": "to hold, to take"
 		}
 	},
 	"zhì": {
 		"至": {
 			"simplified": "至",
-			"meaning": "to, arrive"
+			"meaning": "to arrive"
 		},
 		"制": {
 			"simplified": "制",
-			"meaning": "control, restrict; system"
+			"meaning": "to control, to restrict; system"
 		},
 		"志": {
 			"simplified": "志",
@@ -10526,9 +10608,13 @@
 			"simplified": "峙",
 			"meaning": "stand firm"
 		},
+		"緻": {
+			"simplified": "致",
+			"meaning": "delicate"
+		},
 		"致": {
 			"simplified": "致",
-			"meaning": "send"
+			"meaning": "to send; to express; to cause"
 		},
 		"秩": {
 			"simplified": "秩",
@@ -10546,7 +10632,7 @@
 	"zhǐ": {
 		"旨": {
 			"simplified": "旨",
-			"meaning": "purpose, decree"
+			"meaning": "purpose; decree"
 		},
 		"址": {
 			"simplified": "址",
@@ -10554,7 +10640,7 @@
 		},
 		"指": {
 			"simplified": "指",
-			"meaning": "finger; point to"
+			"meaning": "finger; to point to"
 		},
 		"紙": {
 			"simplified": "纸",
@@ -10570,7 +10656,7 @@
 		},
 		"咫": {
 			"simplified": "咫",
-			"meaning": "a unit of length"
+			"meaning": "(a unit of length)"
 		},
 		"祉": {
 			"simplified": "祉",
@@ -10584,7 +10670,7 @@
 		},
 		"支": {
 			"simplified": "支",
-			"meaning": "branch; support, sustain"
+			"meaning": "branch; to support, to sustain"
 		},
 		"知": {
 			"simplified": "知",
@@ -10592,19 +10678,19 @@
 		},
 		"之": {
 			"simplified": "之",
-			"meaning": "a possessive particle, of"
+			"meaning": "of (a possessive particle)"
 		},
 		"卮": {
 			"simplified": "卮",
-			"meaning": "goblet"
+			"meaning": "goblet (type of an ancient wine vessel)"
 		},
 		"吱": {
 			"simplified": "吱",
-			"meaning": "squeak"
+			"meaning": "(onomatopoeic) sound of creaking or mouse sequeaking"
 		},
 		"枝": {
 			"simplified": "枝",
-			"meaning": "branch"
+			"meaning": "(tree) branch"
 		},
 		"祗": {
 			"simplified": "祗",
@@ -10612,15 +10698,15 @@
 		},
 		"脂": {
 			"simplified": "脂",
-			"meaning": "fat"
+			"meaning": "fat, grease"
 		},
 		"隻": {
 			"simplified": "只",
-			"meaning": "only, single; measure word for small animals"
+			"meaning": "only, single; (measure word for small animals)"
 		},
 		"梔": {
-			"simplified": "梔",
-			"meaning": "gardenia"
+			"simplified": "栀",
+			"meaning": "(a type of tree)"
 		}
 	},
 	"zhòng": {
@@ -10630,10 +10716,10 @@
 		},
 		"仲": {
 			"simplified": "仲",
-			"meaning": "second in a series"
+			"meaning": "second (of brothers); middle"
 		},
 		"眾": {
-			"simplified": "眾",
+			"simplified": "众",
 			"meaning": "crowd"
 		}
 	},
@@ -10676,13 +10762,13 @@
 	"zhóu": {
 		"妯": {
 			"simplified": "妯",
-			"meaning": "wives of brothers"
+			"meaning": "wive of brother"
 		}
 	},
 	"zhòu": {
 		"咒": {
 			"simplified": "咒",
-			"meaning": "curse, spell"
+			"meaning": "to curse; spell"
 		},
 		"宙": {
 			"simplified": "宙",
@@ -10694,7 +10780,7 @@
 		},
 		"紂": {
 			"simplified": "纣",
-			"meaning": "name of a tyrant"
+			"meaning": "(name of a tyrant)"
 		},
 		"胄": {
 			"simplified": "胄",
@@ -10742,19 +10828,19 @@
 	"zhù": {
 		"住": {
 			"simplified": "住",
-			"meaning": "live, reside"
+			"meaning": "to live, to reside"
 		},
 		"祝": {
 			"simplified": "祝",
-			"meaning": "wish"
+			"meaning": "to wish"
 		},
 		"佇": {
 			"simplified": "伫",
-			"meaning": "stand still"
+			"meaning": "to stand still"
 		},
 		"助": {
 			"simplified": "助",
-			"meaning": "help"
+			"meaning": "to help"
 		},
 		"柱": {
 			"simplified": "柱",
@@ -10764,11 +10850,11 @@
 	"zhǔ": {
 		"主": {
 			"simplified": "主",
-			"meaning": "master, main"
+			"meaning": "master; main, dominant"
 		},
 		"拄": {
 			"simplified": "拄",
-			"meaning": "lean on (a stick)"
+			"meaning": "to lean on (a stick)"
 		},
 		"渚": {
 			"simplified": "渚",
@@ -10782,7 +10868,7 @@
 		},
 		"朱": {
 			"simplified": "朱",
-			"meaning": "vermillion"
+			"meaning": "vermillion (a color)"
 		},
 		"侏": {
 			"simplified": "侏",
@@ -10798,23 +10884,41 @@
 		},
 		"茱": {
 			"simplified": "茱",
-			"meaning": "jujube"
+			"meaning": "(name of a plant)"
 		},
 		"硃": {
 			"simplified": "硃",
-			"meaning": "vermilion"
+			"meaning": "vermilion (a color); cinnabar (source of vermilion)"
+		}
+	},
+	"zhuǎ": {
+		"爪": {
+			"simplified": "爪",
+			"meaning": "claw"
 		}
 	},
 	"zhuā": {
 		"抓": {
 			"simplified": "抓",
-			"meaning": "grab, seize"
+			"meaning": "to grab, to seize"
 		}
 	},
 	"zhuài": {
 		"拽": {
 			"simplified": "拽",
 			"meaning": "drag"
+		}
+	},
+	"zhuàn": {
+		"轉": {
+			"simplified": "转",
+			"meaning": "to turn around; to wander around"
+		}
+	},
+	"zhuǎn": {
+		"轉": {
+			"simplified": "转",
+			"meaning": "to revolve; to shift; to roll; to move"
 		}
 	},
 	"zhuān": {
@@ -10842,39 +10946,43 @@
 	"zhuī": {
 		"追": {
 			"simplified": "追",
-			"meaning": "chase"
+			"meaning": "to chase, to pursue; to recall"
 		}
 	},
 	"zhǔn": {
+		"凖": {
+			"simplified": "准",
+			"meaning": "standard, norm; accurate; partly"
+		},
 		"准": {
 			"simplified": "准",
-			"meaning": "standard"
+			"meaning": "to allow"
 		}
 	},
 	"zhuó": {
 		"灼": {
 			"simplified": "灼",
-			"meaning": "burn; bright"
+			"meaning": "to burn, to scorch; bright"
 		},
 		"卓": {
 			"simplified": "卓",
-			"meaning": "outstanding"
+			"meaning": "tall and erect; outstanding"
 		},
 		"斫": {
 			"simplified": "斫",
-			"meaning": "chop"
+			"meaning": "to chop"
 		},
 		"茁": {
 			"simplified": "茁",
-			"meaning": "thrive"
+			"meaning": "(plant) to thrive; thriving; sturdy"
 		},
 		"酌": {
 			"simplified": "酌",
-			"meaning": "pour"
+			"meaning": "to pour"
 		},
 		"啄": {
 			"simplified": "啄",
-			"meaning": "peck"
+			"meaning": "to peck"
 		}
 	},
 	"zhuō": {
@@ -10888,7 +10996,7 @@
 		},
 		"捉": {
 			"simplified": "捉",
-			"meaning": "catch"
+			"meaning": "to catch"
 		}
 	},
 	"zì": {
@@ -10942,25 +11050,25 @@
 		},
 		"咨": {
 			"simplified": "咨",
-			"meaning": "consult"
+			"meaning": "to consult, to counsel"
 		},
 		"茲": {
 			"simplified": "茲",
-			"meaning": "this"
+			"meaning": "(archaic) this"
 		},
 		"淄": {
 			"simplified": "淄",
-			"meaning": "a river name"
+			"meaning": "(name of a river)"
 		}
 	},
 	"zōng": {
 		"宗": {
 			"simplified": "宗",
-			"meaning": "ancestor, sect"
+			"meaning": "ancestor; clan, sect; purpose"
 		},
 		"棕": {
 			"simplified": "棕",
-			"meaning": "brown"
+			"meaning": "(a type of tree) palm; brown"
 		}
 	},
 	"zòu": {
@@ -10972,7 +11080,7 @@
 	"zǒu": {
 		"走": {
 			"simplified": "走",
-			"meaning": "walk; leave"
+			"meaning": "to walk; to leave"
 		}
 	},
 	"zú": {
@@ -10992,7 +11100,7 @@
 	"zǔ": {
 		"組": {
 			"simplified": "组",
-			"meaning": "group"
+			"meaning": "to form, to organize; group"
 		},
 		"祖": {
 			"simplified": "祖",
@@ -11006,7 +11114,7 @@
 	"zū": {
 		"租": {
 			"simplified": "租",
-			"meaning": "rent"
+			"meaning": "to rent"
 		}
 	},
 	"zuì": {
@@ -11024,15 +11132,15 @@
 	"zuò": {
 		"作": {
 			"simplified": "作",
-			"meaning": "todo, make"
+			"meaning": "to do, to make"
 		},
 		"坐": {
 			"simplified": "坐",
-			"meaning": "sit"
+			"meaning": "to sit"
 		},
 		"做": {
 			"simplified": "做",
-			"meaning": "do, make"
+			"meaning": "to do, to make"
 		},
 		"座": {
 			"simplified": "座",
@@ -11040,7 +11148,7 @@
 		},
 		"柞": {
 			"simplified": "柞",
-			"meaning": "oak tree"
+			"meaning": "oak (a type of tree)"
 		},
 		"祚": {
 			"simplified": "祚",
@@ -11054,7 +11162,7 @@
 		},
 		"佐": {
 			"simplified": "佐",
-			"meaning": "assist"
+			"meaning": "to assist"
 		}
 	}
 }
