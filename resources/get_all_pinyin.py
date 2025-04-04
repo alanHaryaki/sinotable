@@ -4,5 +4,6 @@ import json
 with open("dict.json", "r", encoding="utf-8") as file:
     data = json.load(file)  # Load JSON data into a Python dictionary
 
-    for key in data.keys():
-        print(key)
+    for i, key in enumerate(data.keys()):
+        if 800 <= i < 1600:
+            print(key)

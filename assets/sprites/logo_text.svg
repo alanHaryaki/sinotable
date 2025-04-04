@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="sinotable_sign.256x256.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.2952281"
+     inkscape:cx="5.4624443"
+     inkscape:cy="19.27029"
+     inkscape:window-width="2542"
+     inkscape:window-height="1393"
+     inkscape:window-x="-353"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Layer 1"
+       inkscape:groupmode="layer"
+       id="layer1-7">
+      <g
+         id="g4"
+         transform="translate(0,-15.48645)">
+        <g
+           id="g1"
+           transform="translate(0.89167804,52.232033)">
+          <path
+             id="path1"
+             style="stroke-linecap:round;stroke-linejoin:round"
+             inkscape:transform-center-y="-1.6644746"
+             d="m 127.10834,20.568269 6.39329,37.215623 29.08839,-24.301346 -19.29331,32.790243 38.17272,-0.09015 -35.95235,13.095893 29.3956,24.089288 -35.78889,-12.652227 6.86396,36.923127 L 127.10834,95.232442 108.22893,127.63872 115.09289,90.715594 79.303997,103.36782 108.6996,79.278533 72.747247,66.182636 110.91997,66.272786 91.626657,33.48254 120.71505,57.783888 Z"
+             sodipodi:nodetypes="ccccccccccccccccccc" />
+          <circle
+             style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="path6-2"
+             cx="127.10832"
+             cy="75.767967"
+             r="54.153244" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           x="56.052719"
+           y="209.86052"
+           id="text2"
+           inkscape:label="text"><tspan
+             sodipodi:role="line"
+             x="56.052719"
+             y="209.86052"
+             id="tspan3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke-width:1;stroke-dasharray:none">Sinotable</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

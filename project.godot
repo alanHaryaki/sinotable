@@ -13,7 +13,10 @@ config_version=5
 config/name="Sinotable"
 run/main_scene="uid://gka2cm3or6bu"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+boot_splash/bg_color=Color(1, 1, 1, 1)
+boot_splash/image="uid://dhie8dcr14jyu"
+config/icon="uid://bc6jifurktokf"
+boot_splash/minimum_display_time=3000
 
 [autoload]
 

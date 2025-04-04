@@ -29,7 +29,7 @@ const VALID_RIMES: Array = [
 	"er", 
 	"ia", "iao", "ian", "iang",
 	"iê", 
-	"iou", "iong",
+	"io", "iou", "iong",
 	"ua", "uai", "uan", "uang",
 	"uei", "uen", "ueng",
 	"uo", 
