@@ -1393,8 +1393,8 @@
 			"level": "9"
 		},
 		"鈐": {
-			"simplified": "钳",
-			"meaning": "pincer",
+			"simplified": "钤",
+			"meaning": "latch (of door), seal",
 			"level": "9"
 		},
 		"鉗": {
@@ -5190,7 +5190,7 @@
 	"biè": {
 		"彆": {
 			"simplified": "别",
-			"meaning": "different, separate",
+			"meaning": "to make someone change their ways",
 			"level": "2"
 		}
 	},
@@ -8818,12 +8818,12 @@
 		},
 		"姦": {
 			"simplified": "奸",
-			"meaning": "treacherous; adultery",
+			"meaning": "to commit adultery",
 			"level": "9"
 		},
 		"奸": {
 			"simplified": "奸",
-			"meaning": "treacherous, adultery",
+			"meaning": "evil, treacherous",
 			"level": "9"
 		},
 		"殲": {
@@ -9017,6 +9017,11 @@
 		"妍": {
 			"simplified": "妍",
 			"meaning": "beautiful",
+			"level": "9"
+		},
+		"筵": {
+			"simplified": "筵",
+			"meaning": "banquet",
 			"level": "9"
 		},
 		"簷": {
@@ -14285,6 +14290,11 @@
 			"simplified": "颚",
 			"meaning": "jaw",
 			"level": "9"
+		},
+		"鱷": {
+			"simplified": "鳄",
+			"meaning": "crocodile (an animal)",
+			"level": "9"
 		}
 	},
 	"mǎ": {
@@ -14693,11 +14703,11 @@
 			"level": "9"
 		}
 	},
-	"jie": {
-		"價": {
-			"simplified": "价",
-			"meaning": "to haggle (archaic)",
-			"level": "4"
+	"": {
+		"": {
+			"simplified": "",
+			"meaning": "",
+			"level": ""
 		}
 	},
 	"fèn": {
@@ -20555,6 +20565,11 @@
 			"meaning": "curved",
 			"level": "5"
 		},
+		"灣": {
+			"simplified": "湾",
+			"meaning": "bay, gulf",
+			"level": "6"
+		},
 		"剜": {
 			"simplified": "剜",
 			"meaning": "gouge",
@@ -23181,6 +23196,11 @@
 			"simplified": "串",
 			"meaning": "string, skewer; to skewer",
 			"level": "6"
+		},
+		"釧": {
+			"simplified": "钏",
+			"meaning": "armlet, bracelet",
+			"level": "9"
 		}
 	},
 	"rǔ": {
@@ -24959,13 +24979,6 @@
 			"level": "9"
 		}
 	},
-	"wan": {
-		"灣": {
-			"simplified": "湾",
-			"meaning": "bay, gulf",
-			"level": "6"
-		}
-	},
 	"liū": {
 		"溜": {
 			"simplified": "溜",
@@ -25543,7 +25556,7 @@
 			"level": "6"
 		}
 	},
-	"chùn": {
+	"chǔn": {
 		"蠢": {
 			"simplified": "蠢",
 			"meaning": "stupid, foolish",
@@ -26594,6 +26607,13 @@
 	"chuāi": {
 		"揣": {
 			"simplified": "揣",
+			"meaning": "to put into (pocket)",
+			"level": "9"
+		}
+	},
+	"chuǎi": {
+		"揣": {
+			"simplified": "揣",
 			"meaning": "estimate, guess",
 			"level": "9"
 		}
@@ -26790,13 +26810,6 @@
 			"level": "9"
 		}
 	},
-	"yan": {
-		"筵": {
-			"simplified": "筵",
-			"meaning": "banquet",
-			"level": "9"
-		}
-	},
 	"zān": {
 		"簪": {
 			"simplified": "簪",
@@ -26951,13 +26964,6 @@
 			"level": "9"
 		}
 	},
-	"kuàn": {
-		"釧": {
-			"simplified": "钳",
-			"meaning": "pliers",
-			"level": "9"
-		}
-	},
 	"tuí": {
 		"頹": {
 			"simplified": "颓",
@@ -26983,13 +26989,6 @@
 		"髓": {
 			"simplified": "髓",
 			"meaning": "(bone) marrow",
-			"level": "9"
-		}
-	},
-	"wè": {
-		"鱷": {
-			"simplified": "鳄",
-			"meaning": "crocodile (an animal)",
 			"level": "9"
 		}
 	}
