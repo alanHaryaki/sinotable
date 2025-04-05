@@ -1,7 +1,12 @@
-[gd_resource type="Theme" load_steps=17 format=3 uid="uid://cksc3np537d7b"]
+[gd_resource type="Theme" load_steps=19 format=3 uid="uid://cksc3np537d7b"]
 
+[ext_resource type="FontFile" uid="uid://te5oa7qf3rkp" path="res://assets/fonts/simfang.ttf" id="1_886mr"]
 [ext_resource type="FontFile" uid="uid://co7svwndxep88" path="res://assets/fonts/calibrib.ttf" id="1_cjfk0"]
 [ext_resource type="FontFile" uid="uid://c38ujopc5thqd" path="res://assets/fonts/calibri.ttf" id="1_e1x85"]
+
+[sub_resource type="FontVariation" id="FontVariation_886mr"]
+base_font = ExtResource("1_886mr")
+variation_embolden = 0.2
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_110ce"]
 bg_color = Color(0.972549, 0.796078, 0.678431, 1)
@@ -81,7 +86,7 @@ CharLabel/base_type = &"RichTextLabel"
 CharLabel/colors/default_color = Color(0, 0, 0, 1)
 CharLabel/font_sizes/bold_font_size = 36
 CharLabel/font_sizes/normal_font_size = 18
-CharLabel/fonts/bold_font = ExtResource("1_cjfk0")
+CharLabel/fonts/bold_font = SubResource("FontVariation_886mr")
 GridContainer/constants/h_separation = 0
 GridContainer/constants/v_separation = 0
 HBoxContainer/constants/separation = 0

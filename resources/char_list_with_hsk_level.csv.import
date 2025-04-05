@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://donq8fgqvsxxp"
+
+[deps]
+
+files=["res://resources/char_list_with_hsk_level.yī.translation", "res://resources/char_list_with_hsk_level.一.translation", "res://resources/char_list_with_hsk_level.1.translation", "res://resources/char_list_with_hsk_level.one.translation"]
+
+source_file="res://resources/char_list_with_hsk_level.csv"
+dest_files=["res://resources/char_list_with_hsk_level.yī.translation", "res://resources/char_list_with_hsk_level.一.translation", "res://resources/char_list_with_hsk_level.1.translation", "res://resources/char_list_with_hsk_level.one.translation"]
+
+[params]
+
+compress=true
+delimiter=0
