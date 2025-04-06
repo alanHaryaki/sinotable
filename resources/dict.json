@@ -2,7 +2,7 @@
 	"yī": {
 		"﻿一": {
 			"simplified": "一",
-			"meaning": "one",
+			"meaning": "[num.] one",
 			"level": "1"
 		},
 		"醫": {
@@ -22,7 +22,7 @@
 		},
 		"伊": {
 			"simplified": "伊",
-			"meaning": "he, she",
+			"meaning": "{archaic} he, she",
 			"level": "9"
 		},
 		"噫": {
@@ -49,7 +49,7 @@
 	"qī": {
 		"七": {
 			"simplified": "七",
-			"meaning": "seven",
+			"meaning": "[num.] seven",
 			"level": "1"
 		},
 		"期": {
@@ -64,7 +64,7 @@
 		},
 		"戚": {
 			"simplified": "戚",
-			"meaning": "sadness",
+			"meaning": "{bound} relative, kin",
 			"level": "4"
 		},
 		"淒": {
@@ -81,6 +81,11 @@
 			"simplified": "漆",
 			"meaning": "paint, lacquer",
 			"level": "6"
+		},
+		"慼": {
+			"simplified": "戚",
+			"meaning": "grief, sorrow",
+			"level": "9"
 		},
 		"悽": {
 			"simplified": "凄",
@@ -101,7 +106,7 @@
 	"sān": {
 		"三": {
 			"simplified": "三",
-			"meaning": "three",
+			"meaning": "[num.] three",
 			"level": "1"
 		}
 	},
@@ -135,14 +140,14 @@
 		},
 		"嚇": {
 			"simplified": "吓",
-			"meaning": "to intimidate, to frighten",
+			"meaning": "to frighten, to scare",
 			"level": "5"
 		}
 	},
 	"bù": {
 		"不": {
 			"simplified": "不",
-			"meaning": "not",
+			"meaning": "[n.p.] not",
 			"level": "1"
 		},
 		"步": {
@@ -194,19 +199,19 @@
 		},
 		"咚": {
 			"simplified": "咚",
-			"meaning": "(onomatopoeic) knocking sound",
+			"meaning": "[ono.] knocking sound",
 			"level": "9"
 		},
 		"鼕": {
 			"simplified": "咚",
-			"meaning": "(onomatopoeic) knocking sound",
+			"meaning": "[ono.] knocking sound",
 			"level": "9"
 		}
 	},
 	"gè": {
 		"個": {
 			"simplified": "个",
-			"meaning": "individual; (measure word for objects)",
+			"meaning": "individual; [m.w. (for objects)]",
 			"level": "1"
 		},
 		"各": {
@@ -248,7 +253,7 @@
 		},
 		"矓": {
 			"simplified": "眬",
-			"meaning": "(bound) faint, fuzzy, blurred",
+			"meaning": "{bound} faint, fuzzy, blurred",
 			"level": "9"
 		}
 	},
@@ -287,14 +292,14 @@
 	"me": {
 		"麼": {
 			"simplified": "么",
-			"meaning": "(suffix for pronouns/adjectives)",
+			"meaning": "[suf. (for pronouns/adjectives)]",
 			"level": "1"
 		}
 	},
 	"jiǔ": {
 		"九": {
 			"simplified": "九",
-			"meaning": "nine",
+			"meaning": "[num.] nine",
 			"level": "1"
 		},
 		"久": {
@@ -314,7 +319,7 @@
 		},
 		"玖": {
 			"simplified": "玖",
-			"meaning": "black jade",
+			"meaning": "<gemstone> black jade",
 			"level": "9"
 		},
 		"韭": {
@@ -358,7 +363,7 @@
 	"shū": {
 		"書": {
 			"simplified": "书",
-			"meaning": "book",
+			"meaning": "book; to write",
 			"level": "1"
 		},
 		"叔": {
@@ -427,28 +432,16 @@
 	"le": {
 		"了": {
 			"simplified": "了",
-			"meaning": "(particle for completed action)",
+			"meaning": "[perfective p.]",
 			"level": "1"
-		}
-	},
-	"liào": {
-		"瞭": {
-			"simplified": "了",
-			"meaning": "to understand, to realize",
-			"level": "1"
-		},
-		"料": {
-			"simplified": "料",
-			"meaning": "material; to expect, to anticipate",
-			"level": "3"
-		},
-		"廖": {
-			"simplified": "廖",
-			"meaning": "surname, rare",
-			"level": "9"
 		}
 	},
 	"liǎo": {
+		"瞭": {
+			"simplified": "了",
+			"meaning": "to understand, to know clearly6",
+			"level": "1"
+		},
 		"了": {
 			"simplified": "了",
 			"meaning": "to finish",
@@ -458,7 +451,7 @@
 	"èr": {
 		"二": {
 			"simplified": "二",
-			"meaning": "two",
+			"meaning": "[num.] two",
 			"level": "1"
 		},
 		"貳": {
@@ -470,7 +463,7 @@
 	"wǔ": {
 		"五": {
 			"simplified": "五",
-			"meaning": "five",
+			"meaning": "[num.] five",
 			"level": "1"
 		},
 		"午": {
@@ -510,14 +503,14 @@
 		},
 		"鵡": {
 			"simplified": "鹉",
-			"meaning": "parrot (a bird)",
+			"meaning": "{bound} <bird> parrot",
 			"level": "9"
 		}
 	},
 	"xiē": {
 		"些": {
 			"simplified": "些",
-			"meaning": "some, afew",
+			"meaning": "some, a few",
 			"level": "1"
 		},
 		"歇": {
@@ -569,7 +562,7 @@
 		},
 		"晶": {
 			"simplified": "晶",
-			"meaning": "crystal, bright",
+			"meaning": "crystal; bright",
 			"level": "6"
 		},
 		"莖": {
@@ -599,7 +592,7 @@
 		},
 		"鯨": {
 			"simplified": "鲸",
-			"meaning": "whale",
+			"meaning": "<animal> whale",
 			"level": "9"
 		}
 	},
@@ -650,7 +643,7 @@
 	"shén": {
 		"什": {
 			"simplified": "什",
-			"meaning": "what",
+			"meaning": "[bound] [q.p.] what",
 			"level": "1"
 		},
 		"神": {
@@ -712,33 +705,33 @@
 			"meaning": "she, her",
 			"level": "1"
 		},
-		"它": {
-			"simplified": "它",
-			"meaning": "it",
-			"level": "2"
-		},
-		"塌": {
-			"simplified": "塌",
-			"meaning": "collapse, fall down",
-			"level": "6"
-		},
 		"牠": {
 			"simplified": "牠",
 			"meaning": "it (for animals)",
 			"level": "9"
+		},
+		"它": {
+			"simplified": "它",
+			"meaning": "it (inanimate)",
+			"level": "2"
+		},
+		"塌": {
+			"simplified": "塌",
+			"meaning": "to collapse, to fall down",
+			"level": "6"
 		}
 	},
 	"men": {
 		"們": {
 			"simplified": "们",
-			"meaning": "(plural suffix)",
+			"meaning": "[suf. (for plurality)]",
 			"level": "1"
 		}
 	},
 	"huì": {
 		"會": {
 			"simplified": "会",
-			"meaning": "meet, can",
+			"meaning": "to meet; can, will",
 			"level": "1"
 		},
 		"惠": {
@@ -825,12 +818,12 @@
 		},
 		"注": {
 			"simplified": "注",
-			"meaning": "to pour, to注",
+			"meaning": "to inject, to pour into",
 			"level": "3"
 		},
 		"註": {
 			"simplified": "注",
-			"meaning": "to annotate, to note",
+			"meaning": "to register; to note",
 			"level": "3"
 		},
 		"祝": {
@@ -870,7 +863,7 @@
 		},
 		"苧": {
 			"simplified": "苎",
-			"meaning": "(name of a plant)",
+			"meaning": "{bound} <crop>",
 			"level": "9"
 		},
 		"蛀": {
@@ -907,7 +900,7 @@
 		},
 		"柞": {
 			"simplified": "柞",
-			"meaning": "oak (a type of tree)",
+			"meaning": "oak <tree>",
 			"level": "9"
 		},
 		"祚": {
@@ -941,7 +934,7 @@
 	"hòu": {
 		"候": {
 			"simplified": "候",
-			"meaning": "wait",
+			"meaning": "to wait",
 			"level": "1"
 		},
 		"後": {
@@ -968,12 +961,12 @@
 	"ér": {
 		"兒": {
 			"simplified": "儿",
-			"meaning": "child",
+			"meaning": "child; [suf.]",
 			"level": "1"
 		},
 		"而": {
 			"simplified": "而",
-			"meaning": "and; but",
+			"meaning": "[structural p.] and; but",
 			"level": "3"
 		}
 	},
@@ -1017,7 +1010,7 @@
 	"bā": {
 		"八": {
 			"simplified": "八",
-			"meaning": "eight",
+			"meaning": "[num.] eight",
 			"level": "1"
 		},
 		"巴": {
@@ -1027,7 +1020,7 @@
 		},
 		"叭": {
 			"simplified": "叭",
-			"meaning": "(onomatopoeic) sound of trumpet",
+			"meaning": "[ono.] sound of trumpet",
 			"level": "6"
 		},
 		"疤": {
@@ -1042,14 +1035,14 @@
 		},
 		"芭": {
 			"simplified": "芭",
-			"meaning": "banana",
+			"meaning": "<tree> banana",
 			"level": "9"
 		}
 	},
 	"liù": {
 		"六": {
 			"simplified": "六",
-			"meaning": "six",
+			"meaning": "[num.] six",
 			"level": "1"
 		}
 	},
@@ -1113,7 +1106,7 @@
 		},
 		"猩": {
 			"simplified": "猩",
-			"meaning": "orangutan, ape",
+			"meaning": "<animal> orangutan, ape",
 			"level": "9"
 		}
 	},
@@ -1125,7 +1118,7 @@
 		},
 		"在": {
 			"simplified": "在",
-			"meaning": "at, in",
+			"meaning": "at, in; [durative p.]",
 			"level": "1"
 		},
 		"載": {
@@ -1156,18 +1149,28 @@
 	"jǐ": {
 		"几": {
 			"simplified": "几",
-			"meaning": "how many; several, a few",
+			"meaning": "[q.p.] how many; several, a few",
 			"level": "1"
+		},
+		"給": {
+			"simplified": "给",
+			"meaning": "to supply, to provide",
+			"level": "2"
 		},
 		"己": {
 			"simplified": "己",
-			"meaning": "oneself",
+			"meaning": "oneself; sixth (of heavenly stems)",
 			"level": "3"
 		},
 		"擠": {
 			"simplified": "挤",
 			"meaning": "to squeeze, to crowd",
 			"level": "5"
+		},
+		"机": {
+			"simplified": "机",
+			"meaning": "small wooden desk",
+			"level": "9"
 		},
 		"戟": {
 			"simplified": "戟",
@@ -1181,7 +1184,7 @@
 		},
 		"麂": {
 			"simplified": "麂",
-			"meaning": "muntjac (an animal)",
+			"meaning": "<animal> muntjac",
 			"level": "9"
 		}
 	},
@@ -1193,13 +1196,18 @@
 		},
 		"機": {
 			"simplified": "机",
-			"meaning": "machine",
+			"meaning": "crucial point, opportunity; machine",
 			"level": "1"
 		},
 		"雞": {
 			"simplified": "鸡",
 			"meaning": "chicken",
 			"level": "2"
+		},
+		"奇": {
+			"simplified": "奇",
+			"meaning": "odd (number); remainder",
+			"level": "3"
 		},
 		"圾": {
 			"simplified": "圾",
@@ -1256,6 +1264,11 @@
 			"meaning": "famine",
 			"level": "6"
 		},
+		"机": {
+			"simplified": "机",
+			"meaning": "<tree>",
+			"level": "9"
+		},
 		"乩": {
 			"simplified": "乩",
 			"meaning": "divination",
@@ -1263,12 +1276,12 @@
 		},
 		"嘰": {
 			"simplified": "叽",
-			"meaning": "(onomatopoeic) chirping, jabbering",
+			"meaning": "[ono.] chirping, jabbering",
 			"level": "9"
 		},
 		"唧": {
 			"simplified": "唧",
-			"meaning": "(onomatopoeic) word",
+			"meaning": "[ono.] sound of bird",
 			"level": "9"
 		},
 		"姬": {
@@ -1337,7 +1350,7 @@
 	"fēn": {
 		"分": {
 			"simplified": "分",
-			"meaning": "minute; divide",
+			"meaning": "minute; to divide",
 			"level": "1"
 		},
 		"氛": {
@@ -1404,7 +1417,7 @@
 		},
 		"黔": {
 			"simplified": "黔",
-			"meaning": "black; (name of a place)",
+			"meaning": "black; <place>",
 			"level": "9"
 		}
 	},
@@ -1418,7 +1431,7 @@
 	"shí": {
 		"十": {
 			"simplified": "十",
-			"meaning": "ten",
+			"meaning": "[num.] ten",
 			"level": "1"
 		},
 		"時": {
@@ -1428,12 +1441,12 @@
 		},
 		"識": {
 			"simplified": "识",
-			"meaning": "to know",
+			"meaning": "to know, to recognize",
 			"level": "1"
 		},
 		"實": {
 			"simplified": "实",
-			"meaning": "real, solid",
+			"meaning": "real; solid",
 			"level": "3"
 		},
 		"拾": {
@@ -1448,19 +1461,24 @@
 		},
 		"食": {
 			"simplified": "食",
-			"meaning": "(archaic) to eat; food",
+			"meaning": "{archaic} to eat; food",
 			"level": "5"
 		},
 		"蝕": {
 			"simplified": "蚀",
 			"meaning": "to nibble; to erode, to corrode",
 			"level": "6"
+		},
+		"什": {
+			"simplified": "什",
+			"meaning": "[num.] ten; assorted",
+			"level": "9"
 		}
 	},
 	"qù": {
 		"去": {
 			"simplified": "去",
-			"meaning": "go",
+			"meaning": "to go",
 			"level": "1"
 		},
 		"趣": {
@@ -1507,11 +1525,6 @@
 			"meaning": "to call, to shout",
 			"level": "1"
 		},
-		"校": {
-			"simplified": "校",
-			"meaning": "to proofread, to check; proofreading",
-			"level": "1"
-		},
 		"覺": {
 			"simplified": "觉",
 			"meaning": "sleep",
@@ -1526,6 +1539,11 @@
 			"simplified": "较",
 			"meaning": "to compare",
 			"level": "3"
+		},
+		"校": {
+			"simplified": "校",
+			"meaning": "to proofread, to check; proofreading",
+			"level": "9"
 		},
 		"窖": {
 			"simplified": "窖",
@@ -1546,7 +1564,12 @@
 	"hào": {
 		"號": {
 			"simplified": "号",
-			"meaning": "to number; to call",
+			"meaning": "to call; order; number, size",
+			"level": "1"
+		},
+		"好": {
+			"simplified": "好",
+			"meaning": "to be fond of; to be prone to",
 			"level": "1"
 		},
 		"耗": {
@@ -1571,6 +1594,11 @@
 			"meaning": "to eat",
 			"level": "1"
 		},
+		"差": {
+			"simplified": "差",
+			"meaning": "{bound} uneven, ragged",
+			"level": "9"
+		},
 		"嗤": {
 			"simplified": "嗤",
 			"meaning": "scoff, sneer",
@@ -1588,7 +1616,7 @@
 		},
 		"蚩": {
 			"simplified": "蚩",
-			"meaning": "(archaic) stupid, arrogant",
+			"meaning": "{archaic} stupid, arrogant",
 			"level": "9"
 		}
 	},
@@ -1677,14 +1705,14 @@
 		},
 		"螟": {
 			"simplified": "螟",
-			"meaning": "pest (insect)",
+			"meaning": "<animal> pest",
 			"level": "9"
 		}
 	},
 	"ma": {
 		"嗎": {
 			"simplified": "吗",
-			"meaning": "(question particle)",
+			"meaning": "[exc. (for question)]",
 			"level": "1"
 		},
 		"嘛": {
@@ -1713,14 +1741,14 @@
 	"ne": {
 		"呢": {
 			"simplified": "呢",
-			"meaning": "(a question particle)",
+			"meaning": "[exc. (for question)]",
 			"level": "1"
 		}
 	},
 	"hé": {
 		"和": {
 			"simplified": "和",
-			"meaning": "and; peace",
+			"meaning": "[structural p.] and; peace",
 			"level": "1"
 		},
 		"河": {
@@ -1775,7 +1803,7 @@
 		},
 		"盍": {
 			"simplified": "盍",
-			"meaning": "(archaic) why",
+			"meaning": "{archaic} why",
 			"level": "9"
 		},
 		"禾": {
@@ -1802,7 +1830,7 @@
 	"nǎ": {
 		"哪": {
 			"simplified": "哪",
-			"meaning": "which; where",
+			"meaning": "[q.p.] which; where",
 			"level": "1"
 		}
 	},
@@ -1831,7 +1859,7 @@
 	"wèi": {
 		"喂": {
 			"simplified": "喂",
-			"meaning": "(onomatopoeic) hello, hey",
+			"meaning": "[ono.] hello, hey",
 			"level": "1"
 		},
 		"餵": {
@@ -1901,14 +1929,14 @@
 		},
 		"魏": {
 			"simplified": "魏",
-			"meaning": "(name of an ancient state)",
+			"meaning": "<ancient state>",
 			"level": "9"
 		}
 	},
 	"xǐ": {
 		"喜": {
 			"simplified": "喜",
-			"meaning": "joy",
+			"meaning": "to enjoy, to like, to be happy; happiness, joy, delight",
 			"level": "1"
 		},
 		"洗": {
@@ -1947,7 +1975,7 @@
 	"sì": {
 		"四": {
 			"simplified": "四",
-			"meaning": "four",
+			"meaning": "[num.] four",
 			"level": "1"
 		},
 		"似": {
@@ -2012,12 +2040,12 @@
 		},
 		"耜": {
 			"simplified": "耜",
-			"meaning": "plowshare",
+			"meaning": "{archaic} <tool> plowshare",
 			"level": "9"
 		},
 		"駟": {
 			"simplified": "驷",
-			"meaning": "(archaic) team of four horses; horse",
+			"meaning": "{archaic} team of four horses; horse",
 			"level": "9"
 		}
 	},
@@ -2039,21 +2067,21 @@
 		},
 		"蛔": {
 			"simplified": "蛔",
-			"meaning": "to turn",
+			"meaning": "<animal> roundworm",
 			"level": "9"
 		}
 	},
 	"guó": {
 		"國": {
 			"simplified": "国",
-			"meaning": "country",
+			"meaning": "state, country",
 			"level": "1"
 		}
 	},
 	"kuài": {
 		"塊": {
 			"simplified": "块",
-			"meaning": "lump, chunk",
+			"meaning": "lump, chunk; [m.w.] piece",
 			"level": "1"
 		},
 		"快": {
@@ -2072,8 +2100,8 @@
 			"level": "9"
 		},
 		"膾": {
-			"simplified": "膾",
-			"meaning": "sliced raw fish",
+			"simplified": "脍",
+			"meaning": "minced fish or meat",
 			"level": "9"
 		}
 	},
@@ -2085,7 +2113,7 @@
 		},
 		"哆": {
 			"simplified": "哆",
-			"meaning": "(bound) to tremble",
+			"meaning": "{bound} to tremble",
 			"level": "6"
 		},
 		"咄": {
@@ -2150,14 +2178,9 @@
 		}
 	},
 	"mā": {
-		"妈": {
-			"simplified": "妈",
-			"meaning": "mom",
-			"level": "1"
-		},
 		"媽": {
 			"simplified": "妈",
-			"meaning": "mother",
+			"meaning": "mother, mom",
 			"level": "1"
 		}
 	},
@@ -2176,12 +2199,12 @@
 	"zǐ": {
 		"子": {
 			"simplified": "子",
-			"meaning": "son; child; suffix for small objects",
+			"meaning": "son; child; [suf. (for small objects)]",
 			"level": "1"
 		},
 		"仔": {
 			"simplified": "仔",
-			"meaning": "careful",
+			"meaning": "{bound} careful",
 			"level": "4"
 		},
 		"紫": {
@@ -2196,7 +2219,7 @@
 		},
 		"梓": {
 			"simplified": "梓",
-			"meaning": "catalpa (a type of tree)",
+			"meaning": "catalpa <tree>",
 			"level": "9"
 		},
 		"滓": {
@@ -2240,7 +2263,7 @@
 		},
 		"噱": {
 			"simplified": "噱",
-			"meaning": "(onomatopoeic) guffaw",
+			"meaning": "[ono.] guffaw",
 			"level": "9"
 		}
 	},
@@ -2252,7 +2275,7 @@
 		},
 		"課": {
 			"simplified": "课",
-			"meaning": "lesson, class",
+			"meaning": "lesson, class; to levy (tax), to impose (fine)",
 			"level": "2"
 		},
 		"刻": {
@@ -2292,11 +2315,6 @@
 			"meaning": "home; family",
 			"level": "1"
 		},
-		"傢": {
-			"simplified": "家",
-			"meaning": "furniture; family",
-			"level": "1"
-		},
 		"加": {
 			"simplified": "加",
 			"meaning": "to add",
@@ -2304,7 +2322,7 @@
 		},
 		"嘉": {
 			"simplified": "嘉",
-			"meaning": "praise, excellent",
+			"meaning": "to praise; excellent",
 			"level": "5"
 		},
 		"夾": {
@@ -2317,9 +2335,19 @@
 			"meaning": "good, beautiful",
 			"level": "6"
 		},
+		"傢": {
+			"simplified": "家",
+			"meaning": "{bound}",
+			"level": "9"
+		},
+		"伽": {
+			"simplified": "伽",
+			"meaning": "{transliteration}",
+			"level": "9"
+		},
 		"袈": {
 			"simplified": "袈",
-			"meaning": "Buddhist monk's robe",
+			"meaning": "(Buddhist monk's) robe",
 			"level": "9"
 		},
 		"迦": {
@@ -2331,7 +2359,7 @@
 	"duì": {
 		"對": {
 			"simplified": "对",
-			"meaning": "correct, pair",
+			"meaning": "correct; pair",
 			"level": "1"
 		},
 		"隊": {
@@ -2375,7 +2403,7 @@
 		},
 		"邵": {
 			"simplified": "邵",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -2476,12 +2504,12 @@
 		},
 		"蚣": {
 			"simplified": "蚣",
-			"meaning": "millipede",
+			"meaning": "{bound} <animal> millipede",
 			"level": "9"
 		},
 		"龔": {
 			"simplified": "龚",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -2523,22 +2551,22 @@
 		},
 		"屍": {
 			"simplified": "尸",
-			"meaning": "corpse",
+			"meaning": "corpse, body",
 			"level": "6"
 		},
 		"尸": {
 			"simplified": "尸",
-			"meaning": "corpse, body",
-			"level": "6"
+			"meaning": "{archaic} person representing the deceased",
+			"level": "9"
 		},
 		"虱": {
 			"simplified": "虱",
-			"meaning": "lice",
+			"meaning": "<animal> lice",
 			"level": "9"
 		},
 		"蝨": {
 			"simplified": "蝨",
-			"meaning": "louse (an animal)",
+			"meaning": "<animal> louse",
 			"level": "9"
 		}
 	},
@@ -2700,7 +2728,7 @@
 	"shì": {
 		"是": {
 			"simplified": "是",
-			"meaning": "is, are; correct",
+			"meaning": "to be; correct",
 			"level": "1"
 		},
 		"視": {
@@ -2745,7 +2773,7 @@
 		},
 		"柿": {
 			"simplified": "柿",
-			"meaning": "persimmon (a type of tree)",
+			"meaning": "persimmon <tree>",
 			"level": "4"
 		},
 		"示": {
@@ -2825,12 +2853,12 @@
 		},
 		"舐": {
 			"simplified": "舐",
-			"meaning": "(archaic) to lick",
+			"meaning": "{archaic} to lick",
 			"level": "9"
 		},
 		"螫": {
 			"simplified": "螫",
-			"meaning": "to sting",
+			"meaning": "{archaic} (bee/spider) to sting, to bite",
 			"level": "9"
 		},
 		"軾": {
@@ -2857,7 +2885,7 @@
 		},
 		"鑰": {
 			"simplified": "钥",
-			"meaning": "(archaic) lock; key",
+			"meaning": "{archaic} lock; key",
 			"level": "4"
 		},
 		"閱": {
@@ -2934,14 +2962,14 @@
 		},
 		"鵬": {
 			"simplified": "鹏",
-			"meaning": "giant bird (name of a mythical animal)",
+			"meaning": "<legendary beast> giant bird",
 			"level": "9"
 		}
 	},
 	"fú": {
 		"服": {
 			"simplified": "服",
-			"meaning": "clothes; obey",
+			"meaning": "clothes; to obey",
 			"level": "1"
 		},
 		"福": {
@@ -2956,7 +2984,7 @@
 		},
 		"幅": {
 			"simplified": "幅",
-			"meaning": "width, (measure word for paintings)",
+			"meaning": "width; [m.w. (for paintings)]",
 			"level": "5"
 		},
 		"扶": {
@@ -3016,12 +3044,12 @@
 		},
 		"紼": {
 			"simplified": "绋",
-			"meaning": "(archaic) thick rope",
+			"meaning": "{archaic} thick rope",
 			"level": "9"
 		},
 		"芙": {
 			"simplified": "芙",
-			"meaning": "lotus",
+			"meaning": "{bound} <plant> lotus",
 			"level": "9"
 		},
 		"莩": {
@@ -3031,7 +3059,7 @@
 		},
 		"蝠": {
 			"simplified": "蝠",
-			"meaning": "(bound) bat (an animal)",
+			"meaning": "{bound} <animal> bat",
 			"level": "9"
 		}
 	},
@@ -3062,7 +3090,7 @@
 	"bēi": {
 		"杯": {
 			"simplified": "杯",
-			"meaning": "cup; glass (measure word for drinks)",
+			"meaning": "cup; [m.w. (for drinks)] glass",
 			"level": "1"
 		},
 		"悲": {
@@ -3168,7 +3196,7 @@
 		},
 		"鞅": {
 			"simplified": "鞅",
-			"meaning": "(archaic) martingale, halter strap (for horse)",
+			"meaning": "{archaic} martingale, halter strap (for horse)",
 			"level": "9"
 		}
 	},
@@ -3246,7 +3274,7 @@
 	"qì": {
 		"氣": {
 			"simplified": "气",
-			"meaning": "air",
+			"meaning": "gas; air; spirit; to get angry; to enrage",
 			"level": "1"
 		},
 		"汽": {
@@ -3310,7 +3338,7 @@
 	"hàn": {
 		"漢": {
 			"simplified": "汉",
-			"meaning": "(name of an ethnic and an ancient dynasty) Han",
+			"meaning": "<river>; <dynasty> Han; <ethnicity>",
 			"level": "1"
 		},
 		"汗": {
@@ -3367,7 +3395,7 @@
 	"méi": {
 		"沒": {
 			"simplified": "没",
-			"meaning": "disappear; not",
+			"meaning": "to disappear; <n.p.> not",
 			"level": "1"
 		},
 		"媒": {
@@ -3397,7 +3425,7 @@
 		},
 		"枚": {
 			"simplified": "枚",
-			"meaning": "(measure word)",
+			"meaning": "[m.w.]",
 			"level": "6"
 		},
 		"梅": {
@@ -3436,7 +3464,7 @@
 	"diǎn": {
 		"點": {
 			"simplified": "点",
-			"meaning": "point, dot",
+			"meaning": "point, dot; to hint; to ignite; to order (food)",
 			"level": "1"
 		},
 		"典": {
@@ -3465,7 +3493,7 @@
 		},
 		"唉": {
 			"simplified": "唉",
-			"meaning": "(exclamation - regret) sigh, alas",
+			"meaning": "[exc. (for regret)] sigh, alas",
 			"level": "5"
 		},
 		"礙": {
@@ -3475,7 +3503,7 @@
 		},
 		"曖": {
 			"simplified": "暧",
-			"meaning": "warm, obscure",
+			"meaning": "{bound} unclear, dubious",
 			"level": "6"
 		},
 		"隘": {
@@ -3495,7 +3523,7 @@
 		},
 		"艾": {
 			"simplified": "艾",
-			"meaning": "mugwort (a type of plant); stop",
+			"meaning": "<plant> mugwort; stop",
 			"level": "9"
 		}
 	},
@@ -3522,14 +3550,14 @@
 		},
 		"耙": {
 			"simplified": "耙",
-			"meaning": "to rake",
+			"meaning": "<tool> harrow; to harrow",
 			"level": "9"
 		}
 	},
 	"gǒu": {
 		"狗": {
 			"simplified": "狗",
-			"meaning": "dog",
+			"meaning": "<animal> dog",
 			"level": "1"
 		},
 		"苟": {
@@ -3539,14 +3567,14 @@
 		},
 		"枸": {
 			"simplified": "枸",
-			"meaning": "(a type of tree)",
+			"meaning": "<tree>",
 			"level": "9"
 		}
 	},
 	"māo": {
 		"貓": {
 			"simplified": "猫",
-			"meaning": "cat",
+			"meaning": "<animal> cat",
 			"level": "1"
 		}
 	},
@@ -3634,11 +3662,73 @@
 			"level": "9"
 		}
 	},
+	"dí": {
+		"的": {
+			"simplified": "的",
+			"meaning": "really and truly",
+			"level": "1"
+		},
+		"敵": {
+			"simplified": "敌",
+			"meaning": "to oppose, to resist",
+			"level": "5"
+		},
+		"嘀": {
+			"simplified": "嘀",
+			"meaning": "whisper, murmur",
+			"level": "9"
+		},
+		"嫡": {
+			"simplified": "嫡",
+			"meaning": "legitimate, direct (descendant)",
+			"level": "9"
+		},
+		"滌": {
+			"simplified": "涤",
+			"meaning": "to wash, to clean",
+			"level": "9"
+		},
+		"狄": {
+			"simplified": "狄",
+			"meaning": "barbarian (from north); <surname>",
+			"level": "9"
+		},
+		"笛": {
+			"simplified": "笛",
+			"meaning": "flute",
+			"level": "9"
+		},
+		"荻": {
+			"simplified": "荻",
+			"meaning": "reed",
+			"level": "9"
+		},
+		"迪": {
+			"simplified": "迪",
+			"meaning": "to enlighten",
+			"level": "9"
+		},
+		"鏑": {
+			"simplified": "镝",
+			"meaning": "{archaic} arrow (with iron tip) (weapon)",
+			"level": "9"
+		}
+	},
 	"de": {
 		"的": {
 			"simplified": "的",
-			"meaning": "possessive particle",
+			"meaning": "[structural p.]",
 			"level": "1"
+		},
+		"得": {
+			"simplified": "得",
+			"meaning": "[structural p.]",
+			"level": "2"
+		},
+		"地": {
+			"simplified": "地",
+			"meaning": "[structural p.]",
+			"level": "3"
 		}
 	},
 	"kàn": {
@@ -3656,7 +3746,7 @@
 	"shuì": {
 		"睡": {
 			"simplified": "睡",
-			"meaning": "sleep",
+			"meaning": "to sleep",
 			"level": "1"
 		},
 		"稅": {
@@ -3675,17 +3765,17 @@
 	"mǐ": {
 		"米": {
 			"simplified": "米",
-			"meaning": "rice",
+			"meaning": "<crop> rice",
 			"level": "1"
 		},
 		"弭": {
 			"simplified": "弭",
-			"meaning": "(archaic) to stop, to repress",
+			"meaning": "{archaic} to stop, to repress",
 			"level": "9"
 		},
 		"羋": {
 			"simplified": "羋",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -3702,7 +3792,7 @@
 		},
 		"係": {
 			"simplified": "系",
-			"meaning": "to relate to; be",
+			"meaning": "to relate to; to be",
 			"level": "1"
 		},
 		"戲": {
@@ -3834,7 +3924,7 @@
 		},
 		"蔡": {
 			"simplified": "蔡",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -3861,7 +3951,7 @@
 		},
 		"悉": {
 			"simplified": "悉",
-			"meaning": "all",
+			"meaning": "to know; all, in all cases",
 			"level": "4"
 		},
 		"惜": {
@@ -3936,7 +4026,7 @@
 		},
 		"奚": {
 			"simplified": "奚",
-			"meaning": "(archaic) why; a surname",
+			"meaning": "{archaic} why; <surname>",
 			"level": "9"
 		},
 		"嬉": {
@@ -3986,7 +4076,7 @@
 		},
 		"羲": {
 			"simplified": "羲",
-			"meaning": "a surname",
+			"meaning": "{bound} <legendary figure>",
 			"level": "9"
 		},
 		"翕": {
@@ -3996,12 +4086,12 @@
 		},
 		"蜥": {
 			"simplified": "蜥",
-			"meaning": "lizard",
+			"meaning": "<animal> lizard",
 			"level": "9"
 		},
 		"蟋": {
 			"simplified": "蟋",
-			"meaning": "(bound) cricket (an animal)",
+			"meaning": "{bound} <animal> cricket",
 			"level": "9"
 		},
 		"蹊": {
@@ -4145,7 +4235,7 @@
 		},
 		"角": {
 			"simplified": "角",
-			"meaning": "(name of an ancient wine vessel); role; to compete",
+			"meaning": "<ancient wine vessel>; role; to compete",
 			"level": "3"
 		},
 		"絕": {
@@ -4205,7 +4295,7 @@
 		},
 		"玨": {
 			"simplified": "玨",
-			"meaning": "a type of jade",
+			"meaning": "<gemstone> ",
 			"level": "9"
 		},
 		"蕨": {
@@ -4232,7 +4322,7 @@
 	"rèn": {
 		"認": {
 			"simplified": "认",
-			"meaning": "to recognize",
+			"meaning": "to recognize; to admit",
 			"level": "1"
 		},
 		"任": {
@@ -4247,12 +4337,12 @@
 		},
 		"飪": {
 			"simplified": "饪",
-			"meaning": "(archaic) cooked food; to cook",
+			"meaning": "{archaic} cooked food; to cook",
 			"level": "6"
 		},
 		"仞": {
 			"simplified": "仞",
-			"meaning": "(unit of measure) 8 feet",
+			"meaning": "<unit of height> 8 feet",
 			"level": "9"
 		},
 		"刃": {
@@ -4316,7 +4406,7 @@
 		},
 		"與": {
 			"simplified": "与",
-			"meaning": "with; and",
+			"meaning": "[structural p.] with; and",
 			"level": "4"
 		},
 		"羽": {
@@ -4346,12 +4436,12 @@
 		},
 		"禹": {
 			"simplified": "禹",
-			"meaning": "(name of a legendary emperor)",
+			"meaning": "<legendary figure> ",
 			"level": "9"
 		},
 		"齬": {
 			"simplified": "龉",
-			"meaning": "(bound) misaligned teeth; disagreement",
+			"meaning": "{bound} misaligned teeth; disagreement",
 			"level": "9"
 		}
 	},
@@ -4370,7 +4460,7 @@
 		},
 		"頃": {
 			"simplified": "顷",
-			"meaning": "a short while; (unit of area)",
+			"meaning": "a short while; <unit of area>",
 			"level": "9"
 		}
 	},
@@ -4466,7 +4556,7 @@
 		},
 		"蟹": {
 			"simplified": "蟹",
-			"meaning": "crab",
+			"meaning": "<animal> crab",
 			"level": "9"
 		},
 		"褻": {
@@ -4488,7 +4578,7 @@
 		},
 		"啟": {
 			"simplified": "启",
-			"meaning": "start",
+			"meaning": "to open; to start",
 			"level": "5"
 		},
 		"乞": {
@@ -4498,12 +4588,12 @@
 		},
 		"豈": {
 			"simplified": "岂",
-			"meaning": "how",
+			"meaning": "[qoestion p.] how",
 			"level": "6"
 		},
 		"杞": {
 			"simplified": "杞",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"綺": {
@@ -4532,12 +4622,12 @@
 		},
 		"蔗": {
 			"simplified": "蔗",
-			"meaning": "sugarcane",
+			"meaning": "<plant> sugar cane",
 			"level": "9"
 		},
 		"鷓": {
 			"simplified": "鹧",
-			"meaning": "pheasant (a bird)",
+			"meaning": "{bound} <bird> pheasant",
 			"level": "9"
 		}
 	},
@@ -4559,7 +4649,7 @@
 		},
 		"娜": {
 			"simplified": "娜",
-			"meaning": "(a character used in feminine names)",
+			"meaning": "<name>",
 			"level": "9"
 		},
 		"鈉": {
@@ -4598,7 +4688,7 @@
 		},
 		"李": {
 			"simplified": "李",
-			"meaning": "plum (a type of plant and its fruit); (a surname)",
+			"meaning": "<tree> <fruit> plum; <surname>",
 			"level": "3"
 		},
 		"理": {
@@ -4638,7 +4728,7 @@
 		},
 		"鯉": {
 			"simplified": "鲤",
-			"meaning": "carp (a fish)",
+			"meaning": "<fish> carp",
 			"level": "9"
 		}
 	},
@@ -4650,7 +4740,7 @@
 		},
 		"愿": {
 			"simplified": "愿",
-			"meaning": "(archaic) honest and cautious",
+			"meaning": "{archaic} honest and cautious",
 			"level": "3"
 		},
 		"願": {
@@ -4699,12 +4789,12 @@
 		},
 		"啡": {
 			"simplified": "啡",
-			"meaning": "(a character used in coffee's transliteration)",
+			"meaning": "{bound} {transliteration} coffee",
 			"level": "2"
 		},
 		"非": {
 			"simplified": "非",
-			"meaning": "not; wrong; (short for) Africa (transliteration)",
+			"meaning": "not; wrong; {transliteration} (short for) Africa",
 			"level": "2"
 		},
 		"妃": {
@@ -4731,7 +4821,7 @@
 	"fàn": {
 		"飯": {
 			"simplified": "饭",
-			"meaning": "(archaic) cooked rice (a food); meal",
+			"meaning": "{archaic} cooked rice <food>; meal",
 			"level": "1"
 		},
 		"泛": {
@@ -4797,6 +4887,13 @@
 			"level": "9"
 		}
 	},
+	"zero": {
+		"〇": {
+			"simplified": "〇",
+			"meaning": "<num.> zero",
+			"level": "1"
+		}
+	},
 	"zhàng": {
 		"丈": {
 			"simplified": "丈",
@@ -4847,12 +4944,12 @@
 	"liǎng": {
 		"兩": {
 			"simplified": "两",
-			"meaning": "two, both",
+			"meaning": "[num.] two; both",
 			"level": "2"
 		},
 		"倆": {
 			"simplified": "俩",
-			"meaning": "(bound) trick",
+			"meaning": "{bound} trick",
 			"level": "9"
 		}
 	},
@@ -4899,12 +4996,12 @@
 		},
 		"闈": {
 			"simplified": "闱",
-			"meaning": "(archaic) door; room; examination hall",
+			"meaning": "{archaic} door; room; examination hall",
 			"level": "9"
 		},
 		"韋": {
 			"simplified": "韦",
-			"meaning": "soft leather; (a surname)",
+			"meaning": "soft leather; <surname>",
 			"level": "9"
 		}
 	},
@@ -4921,7 +5018,7 @@
 		},
 		"蠣": {
 			"simplified": "蠣",
-			"meaning": "clam",
+			"meaning": "<animal> clam",
 			"level": "9"
 		}
 	},
@@ -4985,7 +5082,7 @@
 		},
 		"芥": {
 			"simplified": "芥",
-			"meaning": "mustard",
+			"meaning": "<vegetable> mustard; small grass",
 			"level": "9"
 		},
 		"藉": {
@@ -5029,7 +5126,7 @@
 		},
 		"咻": {
 			"simplified": "咻",
-			"meaning": "(onomatopoeic) whistling sound",
+			"meaning": "[ono.] whistling sound",
 			"level": "9"
 		},
 		"脩": {
@@ -5071,7 +5168,7 @@
 		},
 		"啖": {
 			"simplified": "啖",
-			"meaning": "(archaic) to eat",
+			"meaning": "{archaic} to eat",
 			"level": "9"
 		},
 		"氮": {
@@ -5130,7 +5227,7 @@
 		},
 		"弁": {
 			"simplified": "弁",
-			"meaning": "(archaic)(a type of man's cap)",
+			"meaning": "{archaic}(a type of man's cap)",
 			"level": "9"
 		}
 	},
@@ -5142,7 +5239,7 @@
 		},
 		"駢": {
 			"simplified": "骈",
-			"meaning": "(archaic) team of two horses; pair, parallel",
+			"meaning": "{archaic} team of two horses; pair, parallel",
 			"level": "9"
 		}
 	},
@@ -5259,7 +5356,7 @@
 		},
 		"悟": {
 			"simplified": "悟",
-			"meaning": "realize",
+			"meaning": "to realize, to enlighten",
 			"level": "6"
 		},
 		"晤": {
@@ -5321,19 +5418,19 @@
 		},
 		"胴": {
 			"simplified": "胴",
-			"meaning": "body",
+			"meaning": "body, torso",
 			"level": "9"
 		}
 	},
 	"qiān": {
 		"千": {
 			"simplified": "千",
-			"meaning": "thousand",
+			"meaning": "[num.] thousand",
 			"level": "2"
 		},
 		"韆": {
 			"simplified": "千",
-			"meaning": "(bound) swing, hanging seat",
+			"meaning": "{bound} swing, hanging seat",
 			"level": "2"
 		},
 		"鉛": {
@@ -5368,7 +5465,7 @@
 		},
 		"仟": {
 			"simplified": "仟",
-			"meaning": "thousand",
+			"meaning": "<num.> thousand",
 			"level": "9"
 		},
 		"阡": {
@@ -5378,7 +5475,7 @@
 		},
 		"騫": {
 			"simplified": "骞",
-			"meaning": "(archaic) to hold high up",
+			"meaning": "{archaic} to hold high up",
 			"level": "9"
 		}
 	},
@@ -5390,7 +5487,7 @@
 		},
 		"麥": {
 			"simplified": "麦",
-			"meaning": "wheat (name of a plant and its grain)",
+			"meaning": "<crop> wheat",
 			"level": "5"
 		},
 		"脈": {
@@ -5464,7 +5561,7 @@
 		},
 		"鼬": {
 			"simplified": "鼬",
-			"meaning": "weasel (an animal)",
+			"meaning": "<animal> weasel",
 			"level": "9"
 		}
 	},
@@ -5511,7 +5608,7 @@
 		},
 		"鷥": {
 			"simplified": "鸶",
-			"meaning": "pelican (a bird)",
+			"meaning": "<bird> pelican",
 			"level": "9"
 		}
 	},
@@ -5567,7 +5664,7 @@
 		},
 		"援": {
 			"simplified": "援",
-			"meaning": "assist, support",
+			"meaning": "to assist, to support",
 			"level": "6"
 		},
 		"緣": {
@@ -5582,7 +5679,7 @@
 		},
 		"垣": {
 			"simplified": "垣",
-			"meaning": "(archaic) wall",
+			"meaning": "{archaic} wall",
 			"level": "9"
 		},
 		"沅": {
@@ -5592,36 +5689,41 @@
 		},
 		"爰": {
 			"simplified": "爰",
-			"meaning": "(archaic) so",
+			"meaning": "{archaic} so",
 			"level": "9"
 		},
 		"猿": {
 			"simplified": "猿",
-			"meaning": "ape, monkey (an animal)",
+			"meaning": "<animal> ape, monkey",
 			"level": "9"
 		},
 		"袁": {
 			"simplified": "袁",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
 	"gā": {
 		"咖": {
 			"simplified": "咖",
-			"meaning": "(a character used in curry's transliteration)",
+			"meaning": "{bound} {transliteration} curry",
 			"level": "2"
+		},
+		"伽": {
+			"simplified": "伽",
+			"meaning": "{transliteration}",
+			"level": "9"
 		},
 		"嘎": {
 			"simplified": "嘎",
-			"meaning": "(onomatopoeic) creaking, cracking",
+			"meaning": "[ono.] creaking, cracking",
 			"level": "9"
 		}
 	},
 	"kā": {
 		"咖": {
 			"simplified": "咖",
-			"meaning": "(a character used in coffee's transliteration)",
+			"meaning": "{bound} {transliteration} coffee",
 			"level": "2"
 		},
 		"喀": {
@@ -5663,12 +5765,12 @@
 		},
 		"鴿": {
 			"simplified": "鸽",
-			"meaning": "dove (a bird)",
+			"meaning": "<bird> dove",
 			"level": "6"
 		},
 		"咯": {
 			"simplified": "咯",
-			"meaning": "(onomatopoeic) laugh sound",
+			"meaning": "[ono.] laugh sound",
 			"level": "9"
 		},
 		"戈": {
@@ -5801,7 +5903,7 @@
 		},
 		"狽": {
 			"simplified": "狈",
-			"meaning": "(name of a mythical animal)",
+			"meaning": "<legendary beast>",
 			"level": "6"
 		},
 		"悖": {
@@ -5978,7 +6080,7 @@
 		},
 		"杏": {
 			"simplified": "杏",
-			"meaning": "apricot (a type of tree)",
+			"meaning": "apricot <tree>",
 			"level": "9"
 		}
 	},
@@ -6089,12 +6191,12 @@
 		},
 		"頤": {
 			"simplified": "颐",
-			"meaning": "(archaic) chin; to nourish, to foster",
+			"meaning": "{archaic} chin; to nourish, to foster",
 			"level": "9"
 		},
 		"飴": {
 			"simplified": "饴",
-			"meaning": "(archaic) multose syrup (a food); sweets",
+			"meaning": "{archaic} multose syrup <food>; sweets",
 			"level": "9"
 		}
 	},
@@ -6244,7 +6346,7 @@
 		},
 		"嫦": {
 			"simplified": "嫦",
-			"meaning": "(legendary figure); Chang'e",
+			"meaning": "{bound} <legendary figure> moon goddess",
 			"level": "9"
 		}
 	},
@@ -6254,15 +6356,10 @@
 			"meaning": "bed",
 			"level": "2"
 		},
-		"床": {
-			"simplified": "床",
-			"meaning": "bed",
-			"level": "2"
-		},
 		"幢": {
 			"simplified": "幢",
-			"meaning": "building, measure word for buildings",
-			"level": "6"
+			"meaning": "{archaic} banner, pennant ",
+			"level": "9"
 		}
 	},
 	"dì": {
@@ -6300,6 +6397,11 @@
 			"simplified": "蒂",
 			"meaning": "stem",
 			"level": "6"
+		},
+		"的": {
+			"simplified": "的",
+			"meaning": "target",
+			"level": "9"
 		},
 		"娣": {
 			"simplified": "娣",
@@ -6462,7 +6564,7 @@
 		},
 		"億": {
 			"simplified": "亿",
-			"meaning": "hundred million",
+			"meaning": "[num.] hundred million",
 			"level": "5"
 		},
 		"益": {
@@ -6567,7 +6669,7 @@
 		},
 		"羿": {
 			"simplified": "羿",
-			"meaning": "(name of a legendary person)",
+			"meaning": "<legendary figure>",
 			"level": "9"
 		},
 		"翌": {
@@ -6592,7 +6694,7 @@
 		},
 		"蜴": {
 			"simplified": "蜴",
-			"meaning": "lizard",
+			"meaning": "<animal> lizard",
 			"level": "9"
 		},
 		"詣": {
@@ -6654,7 +6756,7 @@
 		},
 		"鏝": {
 			"simplified": "镘",
-			"meaning": "(archaic) trowel (a tool)",
+			"meaning": "{archaic} trowel <tool>",
 			"level": "9"
 		}
 	},
@@ -6776,7 +6878,7 @@
 		},
 		"鮑": {
 			"simplified": "鲍",
-			"meaning": "abalone (a shellfish)",
+			"meaning": "<animal> abalone",
 			"level": "9"
 		}
 	},
@@ -6823,7 +6925,7 @@
 		},
 		"嬌": {
 			"simplified": "娇",
-			"meaning": "delicate, pampered",
+			"meaning": "(girl) lovely, fragile, pampered",
 			"level": "6"
 		},
 		"焦": {
@@ -6843,12 +6945,12 @@
 		},
 		"蛟": {
 			"simplified": "蛟",
-			"meaning": "dragon fish",
+			"meaning": "<legendary beast> flood dragon",
 			"level": "9"
 		},
 		"鮫": {
 			"simplified": "鲛",
-			"meaning": "shark (a fish)",
+			"meaning": "<fish> shark",
 			"level": "9"
 		}
 	},
@@ -6892,7 +6994,7 @@
 	"páng": {
 		"旁": {
 			"simplified": "旁",
-			"meaning": "side",
+			"meaning": "side; near",
 			"level": "2"
 		},
 		"龐": {
@@ -6912,14 +7014,14 @@
 		},
 		"螃": {
 			"simplified": "螃",
-			"meaning": "crab (an animal)",
+			"meaning": "<animal> crab",
 			"level": "9"
 		}
 	},
 	"lǚ": {
 		"旅": {
 			"simplified": "旅",
-			"meaning": "travel",
+			"meaning": "travel, trip; to travel",
 			"level": "2"
 		},
 		"侶": {
@@ -6939,7 +7041,7 @@
 		},
 		"呂": {
 			"simplified": "吕",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"櫚": {
@@ -6964,7 +7066,7 @@
 		},
 		"閭": {
 			"simplified": "闾",
-			"meaning": "(archaic) gate (of village); village",
+			"meaning": "{archaic} gate (of village); village",
 			"level": "9"
 		}
 	},
@@ -6983,7 +7085,7 @@
 		},
 		"澡": {
 			"simplified": "澡",
-			"meaning": "to bathe",
+			"meaning": "bath",
 			"level": "3"
 		},
 		"棗": {
@@ -6998,7 +7100,7 @@
 		},
 		"蚤": {
 			"simplified": "蚤",
-			"meaning": "flea",
+			"meaning": "<animal> flea",
 			"level": "9"
 		}
 	},
@@ -7015,7 +7117,7 @@
 		},
 		"惋": {
 			"simplified": "惋",
-			"meaning": "feel sorry",
+			"meaning": "to feel sorry",
 			"level": "6"
 		},
 		"挽": {
@@ -7101,7 +7203,7 @@
 	"tiáo": {
 		"條": {
 			"simplified": "条",
-			"meaning": "strip; (measure word for long thin things)",
+			"meaning": "strip; [m.w. (for long thin objects/animals)]",
 			"level": "2"
 		},
 		"調": {
@@ -7165,7 +7267,7 @@
 		},
 		"鄭": {
 			"simplified": "郑",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "6"
 		},
 		"幀": {
@@ -7333,7 +7435,7 @@
 		},
 		"魷": {
 			"simplified": "鱿",
-			"meaning": "squid",
+			"meaning": "<animal> squid",
 			"level": "9"
 		}
 	},
@@ -7374,7 +7476,7 @@
 	"niú": {
 		"牛": {
 			"simplified": "牛",
-			"meaning": "ox, cow, bull",
+			"meaning": "<animal> ox, cow, bull",
 			"level": "2"
 		}
 	},
@@ -7521,14 +7623,14 @@
 	"bái": {
 		"白": {
 			"simplified": "白",
-			"meaning": "white",
+			"meaning": "<color> white",
 			"level": "2"
 		}
 	},
 	"bǎi": {
 		"百": {
 			"simplified": "百",
-			"meaning": "hundred",
+			"meaning": "[num.] hundred",
 			"level": "2"
 		},
 		"擺": {
@@ -7543,7 +7645,7 @@
 		},
 		"柏": {
 			"simplified": "柏",
-			"meaning": "cypress (a type of tree)",
+			"meaning": "cypress <tree>",
 			"level": "9"
 		}
 	},
@@ -7627,7 +7729,7 @@
 		},
 		"掩": {
 			"simplified": "掩",
-			"meaning": "cover up; close, shut",
+			"meaning": "to cover up; to close, to shut",
 			"level": "6"
 		},
 		"衍": {
@@ -7647,7 +7749,7 @@
 		},
 		"兗": {
 			"simplified": "兗",
-			"meaning": "(name of a river and an ancient state)",
+			"meaning": "<river> <ancient state>",
 			"level": "9"
 		},
 		"奄": {
@@ -7662,14 +7764,14 @@
 		},
 		"鼴": {
 			"simplified": "鼹",
-			"meaning": "mole (an animal)",
+			"meaning": "<animal> mole",
 			"level": "9"
 		}
 	},
 	"zhe": {
 		"著": {
 			"simplified": "着",
-			"meaning": "(aspect particle)",
+			"meaning": "[durative p.]",
 			"level": "2"
 		}
 	},
@@ -7681,12 +7783,12 @@
 		},
 		"隻": {
 			"simplified": "只",
-			"meaning": "only, single; (measure word for small animals)",
+			"meaning": "only, single; [m.w. (for small animals)]",
 			"level": "3"
 		},
 		"之": {
 			"simplified": "之",
-			"meaning": "of (a possessive particle)",
+			"meaning": "{archai} <structrual p.> of",
 			"level": "4"
 		},
 		"支": {
@@ -7726,12 +7828,12 @@
 		},
 		"吱": {
 			"simplified": "吱",
-			"meaning": "(onomatopoeic) sound of creaking or mouse sequeaking",
+			"meaning": "[ono.] sound of creaking or mouse sequeaking",
 			"level": "9"
 		},
 		"梔": {
 			"simplified": "栀",
-			"meaning": "(a type of tree)",
+			"meaning": "<tree>",
 			"level": "9"
 		},
 		"祗": {
@@ -7746,7 +7848,7 @@
 		},
 		"蜘": {
 			"simplified": "蜘",
-			"meaning": "spider",
+			"meaning": "{bound} <animal> spider",
 			"level": "9"
 		}
 	},
@@ -7830,7 +7932,7 @@
 		},
 		"驪": {
 			"simplified": "骊",
-			"meaning": "(archaic) pure black horse",
+			"meaning": "{archaic} pure black horse",
 			"level": "9"
 		}
 	},
@@ -7948,7 +8050,7 @@
 		},
 		"闌": {
 			"simplified": "阑",
-			"meaning": "(archaic) railing, balustrade; late",
+			"meaning": "{archaic} railing, balustrade; late",
 			"level": "9"
 		}
 	},
@@ -8007,14 +8109,14 @@
 		},
 		"耒": {
 			"simplified": "耒",
-			"meaning": "plow",
+			"meaning": "{archaic} <tool> plow",
 			"level": "9"
 		}
 	},
 	"hóng": {
 		"紅": {
 			"simplified": "红",
-			"meaning": "red",
+			"meaning": "<color> red",
 			"level": "2"
 		},
 		"虹": {
@@ -8044,7 +8146,7 @@
 		},
 		"鴻": {
 			"simplified": "鸿",
-			"meaning": "goose (a bird); great, vast",
+			"meaning": "<bird> goose; great, vast",
 			"level": "9"
 		}
 	},
@@ -8105,7 +8207,7 @@
 	"yáng": {
 		"羊": {
 			"simplified": "羊",
-			"meaning": "sheep; goat",
+			"meaning": "<animal> sheep; goat",
 			"level": "2"
 		},
 		"陽": {
@@ -8135,7 +8237,7 @@
 		},
 		"楊": {
 			"simplified": "杨",
-			"meaning": "poplar tree",
+			"meaning": "poplar tree (a tree)",
 			"level": "9"
 		},
 		"烊": {
@@ -8152,7 +8254,7 @@
 	"kǎo": {
 		"考": {
 			"simplified": "考",
-			"meaning": "totest, examine",
+			"meaning": "to test, to examine",
 			"level": "2"
 		},
 		"烤": {
@@ -8169,7 +8271,7 @@
 	"ròu": {
 		"肉": {
 			"simplified": "肉",
-			"meaning": "meat",
+			"meaning": "meat, flesh",
 			"level": "2"
 		}
 	},
@@ -8186,7 +8288,7 @@
 		},
 		"塞": {
 			"simplified": "塞",
-			"meaning": "obstruct, block",
+			"meaning": "to obstruct, to block",
 			"level": "6"
 		},
 		"澀": {
@@ -8205,22 +8307,15 @@
 			"level": "9"
 		}
 	},
-	"shǎi": {
-		"色": {
-			"simplified": "色",
-			"meaning": "dice",
-			"level": "2"
-		}
-	},
 	"yào": {
 		"藥": {
 			"simplified": "药",
-			"meaning": "medicine",
+			"meaning": "medicine, drug",
 			"level": "2"
 		},
 		"要": {
 			"simplified": "要",
-			"meaning": "want",
+			"meaning": "to want",
 			"level": "2"
 		},
 		"鑰": {
@@ -8235,7 +8330,7 @@
 		},
 		"鷂": {
 			"simplified": "鹞",
-			"meaning": "kite (a bird)",
+			"meaning": "<bird> kite",
 			"level": "9"
 		}
 	},
@@ -8254,7 +8349,7 @@
 	"biǎo": {
 		"表": {
 			"simplified": "表",
-			"meaning": "to express, to show",
+			"meaning": "surface; to express, to show; list, form",
 			"level": "2"
 		},
 		"錶": {
@@ -8278,7 +8373,7 @@
 	"sù": {
 		"訴": {
 			"simplified": "诉",
-			"meaning": "to sue, to tell",
+			"meaning": "to sue; to tell",
 			"level": "2"
 		},
 		"塑": {
@@ -8350,7 +8445,7 @@
 		},
 		"鱖": {
 			"simplified": "鳜",
-			"meaning": "snapper (a fish)",
+			"meaning": "<fish> snapper",
 			"level": "9"
 		}
 	},
@@ -8438,12 +8533,12 @@
 		},
 		"鷺": {
 			"simplified": "鹭",
-			"meaning": "egret (a bird)",
+			"meaning": "<bird> egret",
 			"level": "9"
 		},
 		"鹿": {
 			"simplified": "鹿",
-			"meaning": "deer (an animal)",
+			"meaning": "<animal> deer",
 			"level": "9"
 		},
 		"麓": {
@@ -8512,6 +8607,11 @@
 			"meaning": "gentleman, gentry",
 			"level": "6"
 		},
+		"參": {
+			"simplified": "参",
+			"meaning": "<plant> ginseng",
+			"level": "9"
+		},
 		"娠": {
 			"simplified": "娠",
 			"meaning": "pregnant",
@@ -8551,14 +8651,14 @@
 		},
 		"蝙": {
 			"simplified": "蝙",
-			"meaning": "(bound) bat (an animal)",
+			"meaning": "{bound} <animal> bat",
 			"level": "9"
 		}
 	},
 	"guò": {
 		"過": {
 			"simplified": "过",
-			"meaning": "to pass, to cross",
+			"meaning": "to pass, to cross; [experiential p.]",
 			"level": "2"
 		}
 	},
@@ -8632,12 +8732,12 @@
 		},
 		"晉": {
 			"simplified": "晋",
-			"meaning": "(name of an ancient state)",
+			"meaning": "<ancient state>",
 			"level": "6"
 		},
 		"浸": {
 			"simplified": "浸",
-			"meaning": "soak",
+			"meaning": "to soak",
 			"level": "6"
 		},
 		"噤": {
@@ -8664,12 +8764,12 @@
 		},
 		"桓": {
 			"simplified": "桓",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"鍰": {
 			"simplified": "锾",
-			"meaning": "(archaic) money, fine; (unit of weight)",
+			"meaning": "{archaic} money, fine; (unit of weight)",
 			"level": "9"
 		}
 	},
@@ -8730,7 +8830,7 @@
 		},
 		"銼": {
 			"simplified": "锉",
-			"meaning": "file (a tool); to file",
+			"meaning": "file <tool>; to file",
 			"level": "9"
 		}
 	},
@@ -8778,7 +8878,7 @@
 	"jiān": {
 		"間": {
 			"simplified": "间",
-			"meaning": "between, among; room; (measure word for rooms)",
+			"meaning": "between, among; room; [m.w. (for rooms)]",
 			"level": "2"
 		},
 		"堅": {
@@ -8902,7 +9002,7 @@
 		},
 		"玲": {
 			"simplified": "玲",
-			"meaning": "exquisite",
+			"meaning": "<gemstone> exquisite",
 			"level": "9"
 		},
 		"稜": {
@@ -8932,7 +9032,7 @@
 		},
 		"苓": {
 			"simplified": "苓",
-			"meaning": "(a type of herb)",
+			"meaning": "<fungus>",
 			"level": "9"
 		},
 		"菱": {
@@ -9006,7 +9106,7 @@
 		},
 		"沿": {
 			"simplified": "沿",
-			"meaning": "to follow, to沿",
+			"meaning": "to follow, along",
 			"level": "6"
 		},
 		"炎": {
@@ -9031,7 +9131,7 @@
 		},
 		"閻": {
 			"simplified": "阎",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -9063,11 +9163,6 @@
 			"meaning": "at, in",
 			"level": "3"
 		},
-		"于": {
-			"simplified": "于",
-			"meaning": "to go; to take",
-			"level": "3"
-		},
 		"愉": {
 			"simplified": "愉",
 			"meaning": "happy, pleased",
@@ -9075,7 +9170,7 @@
 		},
 		"余": {
 			"simplified": "余",
-			"meaning": "(archaic) I",
+			"meaning": "{archaic} I",
 			"level": "5"
 		},
 		"餘": {
@@ -9095,13 +9190,18 @@
 		},
 		"漁": {
 			"simplified": "渔",
-			"meaning": "fishing",
+			"meaning": "to fish",
 			"level": "6"
 		},
 		"輿": {
 			"simplified": "舆",
 			"meaning": "vehicle; cart",
 			"level": "6"
+		},
+		"于": {
+			"simplified": "于",
+			"meaning": "to go; to take; <surname>",
+			"level": "9"
 		},
 		"俞": {
 			"simplified": "俞",
@@ -9145,7 +9245,7 @@
 		},
 		"臾": {
 			"simplified": "臾",
-			"meaning": "a moment",
+			"meaning": "moment",
 			"level": "9"
 		},
 		"萸": {
@@ -9182,19 +9282,19 @@
 		},
 		"嘿": {
 			"simplified": "嘿",
-			"meaning": "hey; (interjection of surprise or calling attention)",
+			"meaning": "<exc. (for surprise or attention)> hey",
 			"level": "6"
 		}
 	},
 	"wàn": {
 		"萬": {
 			"simplified": "万",
-			"meaning": "ten thousand",
+			"meaning": "[num.] ten thousand",
 			"level": "3"
 		},
 		"腕": {
 			"simplified": "腕",
-			"meaning": " wrist",
+			"meaning": "wrist",
 			"level": "9"
 		}
 	},
@@ -9287,7 +9387,7 @@
 	"hū": {
 		"乎": {
 			"simplified": "乎",
-			"meaning": "(an exclamatory particle)",
+			"meaning": "in, at; {classical} [interrogative p.]",
 			"level": "3"
 		},
 		"呼": {
@@ -9355,7 +9455,7 @@
 	"xiàng": {
 		"像": {
 			"simplified": "像",
-			"meaning": "resemble, image",
+			"meaning": "image; to resemble",
 			"level": "3"
 		},
 		"向": {
@@ -9385,7 +9485,7 @@
 		},
 		"項": {
 			"simplified": "项",
-			"meaning": "back of neck; item; (measure word)",
+			"meaning": "back of neck; item; [m.w.]",
 			"level": "5"
 		},
 		"巷": {
@@ -9457,7 +9557,7 @@
 		},
 		"祁": {
 			"simplified": "祁",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"祇": {
@@ -9492,7 +9592,7 @@
 		},
 		"麒": {
 			"simplified": "麒",
-			"meaning": "Chinese unicorn (name of a mythical animal)",
+			"meaning": "{bound} <legendary beast> Chinese unicorn",
 			"level": "9"
 		}
 	},
@@ -9536,7 +9636,7 @@
 		},
 		"并": {
 			"simplified": "并",
-			"meaning": "(name of a place)",
+			"meaning": "<place>",
 			"level": "4"
 		},
 		"兵": {
@@ -9788,13 +9888,13 @@
 			"level": "9"
 		},
 		"蒞": {
-			"simplified": "蒞",
-			"meaning": "a variant of 蒗",
+			"simplified": "莅",
+			"meaning": "to attend, to be present",
 			"level": "9"
 		},
 		"靂": {
 			"simplified": "雳",
-			"meaning": "(bound) thunderclap",
+			"meaning": "{bound} thunderclap",
 			"level": "9"
 		}
 	},
@@ -10021,7 +10121,7 @@
 		},
 		"懼": {
 			"simplified": "惧",
-			"meaning": "fear, dread",
+			"meaning": "to fear, to dread",
 			"level": "6"
 		},
 		"倨": {
@@ -10046,7 +10146,7 @@
 		},
 		"鋸": {
 			"simplified": "锯",
-			"meaning": "saw (a tool); to saw",
+			"meaning": "saw <tool>; to saw",
 			"level": "9"
 		},
 		"颶": {
@@ -10159,7 +10259,7 @@
 		},
 		"陴": {
 			"simplified": "陴",
-			"meaning": "(archaic) parapet, low wall",
+			"meaning": "{archaic} parapet, low wall",
 			"level": "9"
 		},
 		"鼙": {
@@ -10193,7 +10293,7 @@
 		},
 		"徒": {
 			"simplified": "徒",
-			"meaning": "disciple",
+			"meaning": "disciple; bare, empty",
 			"level": "6"
 		},
 		"屠": {
@@ -10210,56 +10310,14 @@
 	"huài": {
 		"壞": {
 			"simplified": "坏",
-			"meaning": "bad; broken",
+			"meaning": "broken; bad",
 			"level": "3"
-		},
-		"坏": {
-			"simplified": "坏",
-			"meaning": "bad, spoiled",
-			"level": "3"
-		}
-	},
-	"pī": {
-		"坏": {
-			"simplified": "坏",
-			"meaning": "clay vessel",
-			"level": "3"
-		},
-		"批": {
-			"simplified": "批",
-			"meaning": "to criticize; (measure word for batches)",
-			"level": "4"
-		},
-		"披": {
-			"simplified": "披",
-			"meaning": "to drape over (one's shoulder); to open, to expose",
-			"level": "5"
-		},
-		"劈": {
-			"simplified": "劈",
-			"meaning": "split, chop",
-			"level": "6"
-		},
-		"丕": {
-			"simplified": "丕",
-			"meaning": "great, grand",
-			"level": "9"
-		},
-		"紕": {
-			"simplified": "纰",
-			"meaning": "error, mistake, carelessness",
-			"level": "9"
-		},
-		"霹": {
-			"simplified": "霹",
-			"meaning": "(bound) thunderclap",
-			"level": "9"
 		}
 	},
 	"chéng": {
 		"城": {
 			"simplified": "城",
-			"meaning": "city",
+			"meaning": "city wall; city",
 			"level": "3"
 		},
 		"成": {
@@ -10294,12 +10352,12 @@
 		},
 		"懲": {
 			"simplified": "惩",
-			"meaning": "punish, discipline",
+			"meaning": "to punish, to discipline",
 			"level": "6"
 		},
 		"橙": {
 			"simplified": "橙",
-			"meaning": "orange",
+			"meaning": "<tree> <fruit> orange; <color> orange",
 			"level": "6"
 		},
 		"澄": {
@@ -10321,12 +10379,12 @@
 	"fù": {
 		"復": {
 			"simplified": "复",
-			"meaning": "return, repeat",
+			"meaning": "to (go and) return; to repeat; to recover; to reply",
 			"level": "3"
 		},
 		"複": {
 			"simplified": "复",
-			"meaning": "to repeat, to restore",
+			"meaning": "lined clothes; to repeat; duplicate",
 			"level": "3"
 		},
 		"附": {
@@ -10406,7 +10464,7 @@
 		},
 		"阜": {
 			"simplified": "阜",
-			"meaning": "(archaic) hill, mound",
+			"meaning": "{archaic} hill, mound",
 			"level": "9"
 		},
 		"馥": {
@@ -10594,7 +10652,7 @@
 		},
 		"驥": {
 			"simplified": "骥",
-			"meaning": "(archaic) steed, sprited horse; refined and virtuous",
+			"meaning": "{archaic} steed, sprited horse; refined and virtuous",
 			"level": "9"
 		},
 		"髻": {
@@ -10604,7 +10662,7 @@
 		},
 		"鯽": {
 			"simplified": "鲫",
-			"meaning": "crucian carp (a fish)",
+			"meaning": "<fish> crucian carp",
 			"level": "9"
 		}
 	},
@@ -10638,7 +10696,7 @@
 	"dìng": {
 		"定": {
 			"simplified": "定",
-			"meaning": "to decide, to fix",
+			"meaning": "to decide, to fix; stable; fixed",
 			"level": "3"
 		},
 		"訂": {
@@ -10677,7 +10735,7 @@
 	"róng": {
 		"容": {
 			"simplified": "容",
-			"meaning": "appearance",
+			"meaning": "to contain; to tolerate, to allow; look, appearance",
 			"level": "3"
 		},
 		"榮": {
@@ -10808,7 +10866,7 @@
 		},
 		"杉": {
 			"simplified": "杉",
-			"meaning": "fir (a type of tree)",
+			"meaning": "fir <tree>",
 			"level": "9"
 		},
 		"潸": {
@@ -10838,7 +10896,7 @@
 		},
 		"芟": {
 			"simplified": "芟",
-			"meaning": "to mow",
+			"meaning": "to cut down, to mow",
 			"level": "9"
 		},
 		"跚": {
@@ -10946,7 +11004,7 @@
 		},
 		"岱": {
 			"simplified": "岱",
-			"meaning": "(name of a mountain)",
+			"meaning": "<mount>",
 			"level": "9"
 		},
 		"殆": {
@@ -10956,19 +11014,19 @@
 		},
 		"玳": {
 			"simplified": "玳",
-			"meaning": "agate",
+			"meaning": "<gemstone> agate",
 			"level": "9"
 		},
 		"黛": {
 			"simplified": "黛",
-			"meaning": "(archaic) black pigment (for painting eyebrow)",
+			"meaning": "{archaic} black pigment (for painting eyebrow)",
 			"level": "9"
 		}
 	},
 	"gàn": {
 		"幹": {
 			"simplified": "干",
-			"meaning": "do, manage",
+			"meaning": "to do, to manage",
 			"level": "3"
 		},
 		"贛": {
@@ -11005,7 +11063,7 @@
 		},
 		"杆": {
 			"simplified": "杆",
-			"meaning": "(measure word for long objects)",
+			"meaning": "[m.w. (for long objects)]",
 			"level": "9"
 		},
 		"柑": {
@@ -11072,17 +11130,17 @@
 		},
 		"鶯": {
 			"simplified": "莺",
-			"meaning": "oriole (a bird)",
+			"meaning": "oriole <bird>",
 			"level": "9"
 		},
 		"鸚": {
 			"simplified": "鹦",
-			"meaning": "parrot (an animal)",
+			"meaning": "{bound} <bird> parrot",
 			"level": "9"
 		},
 		"鷹": {
 			"simplified": "鹰",
-			"meaning": "eagle (a bird)",
+			"meaning": "<bird> eagle",
 			"level": "9"
 		}
 	},
@@ -11106,7 +11164,7 @@
 	"zhāng": {
 		"張": {
 			"simplified": "张",
-			"meaning": "to stretch",
+			"meaning": "to stretch; <surname>",
 			"level": "3"
 		},
 		"章": {
@@ -11116,7 +11174,7 @@
 		},
 		"彰": {
 			"simplified": "彰",
-			"meaning": "manifest, show",
+			"meaning": "to manifest, to show",
 			"level": "6"
 		},
 		"樟": {
@@ -11131,7 +11189,7 @@
 		},
 		"獐": {
 			"simplified": "獐",
-			"meaning": " (an animal)",
+			"meaning": "<animal>",
 			"level": "9"
 		},
 		"璋": {
@@ -11141,7 +11199,7 @@
 		},
 		"蟑": {
 			"simplified": "蟑",
-			"meaning": "cockroach",
+			"meaning": "<animal> cockroach",
 			"level": "9"
 		}
 	},
@@ -11175,7 +11233,7 @@
 		},
 		"噹": {
 			"simplified": "当",
-			"meaning": "(onomatopoeic) clang, ding-dong",
+			"meaning": "[ono.] clang, ding-dong",
 			"level": "3"
 		},
 		"襠": {
@@ -11185,7 +11243,7 @@
 		},
 		"鐺": {
 			"simplified": "铛",
-			"meaning": "(onomatopoeic) sound of metal, clank",
+			"meaning": "[ono.] sound of metal, clank",
 			"level": "9"
 		}
 	},
@@ -11227,7 +11285,7 @@
 		},
 		"弊": {
 			"simplified": "弊",
-			"meaning": "disadvantage, corruption",
+			"meaning": "disadvantage, detriment; fraud",
 			"level": "6"
 		},
 		"泌": {
@@ -11336,7 +11394,7 @@
 	"jí": {
 		"急": {
 			"simplified": "急",
-			"meaning": "urgent",
+			"meaning": "urgent; hurried, worried",
 			"level": "3"
 		},
 		"極": {
@@ -11381,7 +11439,7 @@
 		},
 		"嫉": {
 			"simplified": "嫉",
-			"meaning": "jealous, envy",
+			"meaning": "to be jealous of, to envy; jealousy",
 			"level": "6"
 		},
 		"疾": {
@@ -11433,14 +11491,14 @@
 	"guài": {
 		"怪": {
 			"simplified": "怪",
-			"meaning": "strange, monster",
+			"meaning": "strange; monster",
 			"level": "3"
 		}
 	},
 	"zǒng": {
 		"總": {
 			"simplified": "总",
-			"meaning": "overall; total",
+			"meaning": "overall, total; always",
 			"level": "3"
 		},
 		"傯": {
@@ -11452,7 +11510,7 @@
 	"guàn": {
 		"慣": {
 			"simplified": "惯",
-			"meaning": "habit, custom",
+			"meaning": "habit, custom; to indulge, to spoil (child)",
 			"level": "3"
 		},
 		"冠": {
@@ -11484,7 +11542,7 @@
 	"gǎn": {
 		"感": {
 			"simplified": "感",
-			"meaning": "feel, emotion",
+			"meaning": "to feel; emotion",
 			"level": "3"
 		},
 		"敢": {
@@ -11536,7 +11594,7 @@
 		},
 		"惑": {
 			"simplified": "惑",
-			"meaning": "confuse, puzzle",
+			"meaning": "to confuse, to puzzle",
 			"level": "6"
 		},
 		"禍": {
@@ -11651,7 +11709,7 @@
 		},
 		"嘖": {
 			"simplified": "嘖",
-			"meaning": "(onomatopoeic) clicking tongue",
+			"meaning": "[ono.] clicking tongue",
 			"level": "9"
 		}
 	},
@@ -11685,7 +11743,7 @@
 		},
 		"瘓": {
 			"simplified": "痪",
-			"meaning": "(bound) paralysis",
+			"meaning": "{bound} paralysis",
 			"level": "6"
 		},
 		"奐": {
@@ -11732,7 +11790,7 @@
 		},
 		"揭": {
 			"simplified": "揭",
-			"meaning": "raise, lift",
+			"meaning": "to raise, to lift",
 			"level": "6"
 		},
 		"皆": {
@@ -11813,7 +11871,7 @@
 		},
 		"恕": {
 			"simplified": "恕",
-			"meaning": "forgive",
+			"meaning": "to forgive",
 			"level": "6"
 		},
 		"豎": {
@@ -11855,7 +11913,7 @@
 		},
 		"暑": {
 			"simplified": "暑",
-			"meaning": "summer, hot",
+			"meaning": "heat, hot wheather, summer heat",
 			"level": "4"
 		},
 		"屬": {
@@ -11865,7 +11923,7 @@
 		},
 		"鼠": {
 			"simplified": "鼠",
-			"meaning": "rat, mouse (an animal)",
+			"meaning": "<animal> rat, mouse",
 			"level": "5"
 		},
 		"署": {
@@ -11885,12 +11943,12 @@
 		},
 		"蜀": {
 			"simplified": "蜀",
-			"meaning": "ancient kingdom in Sichuan",
+			"meaning": "<place>",
 			"level": "9"
 		},
 		"黍": {
 			"simplified": "黍",
-			"meaning": "millet (a plant and its grain)",
+			"meaning": "<crop> millet",
 			"level": "9"
 		}
 	},
@@ -11917,12 +11975,29 @@
 		},
 		"蚊": {
 			"simplified": "蚊",
-			"meaning": "mosquito",
+			"meaning": "<animal> mosquito",
 			"level": "9"
 		},
 		"雯": {
 			"simplified": "雯",
 			"meaning": "patterned cloud",
+			"level": "9"
+		}
+	},
+	"liào": {
+		"料": {
+			"simplified": "料",
+			"meaning": "material; to expect, to anticipate",
+			"level": "3"
+		},
+		"瞭": {
+			"simplified": "瞭",
+			"meaning": "to watch (from height or distance)",
+			"level": "9"
+		},
+		"廖": {
+			"simplified": "廖",
+			"meaning": "surname, rare",
 			"level": "9"
 		}
 	},
@@ -11980,7 +12055,7 @@
 		},
 		"羹": {
 			"simplified": "羹",
-			"meaning": "soup; stew",
+			"meaning": "soup, stew",
 			"level": "9"
 		}
 	},
@@ -12025,6 +12100,11 @@
 			"meaning": "do not",
 			"level": "6"
 		},
+		"沒": {
+			"simplified": "没",
+			"meaning": "to sink, to disappear; to die",
+			"level": "9"
+		},
 		"歿": {
 			"simplified": "歿",
 			"meaning": "to die",
@@ -12054,7 +12134,7 @@
 	"duǒ": {
 		"朵": {
 			"simplified": "朵",
-			"meaning": "(measure word for flowers)",
+			"meaning": "[m.w. (for flowers)]",
 			"level": "3"
 		},
 		"躲": {
@@ -12076,7 +12156,7 @@
 		},
 		"闆": {
 			"simplified": "板",
-			"meaning": "(bound) boss",
+			"meaning": "{bound} boss",
 			"level": "3"
 		},
 		"版": {
@@ -12177,7 +12257,7 @@
 		},
 		"褚": {
 			"simplified": "褚",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -12194,7 +12274,7 @@
 		},
 		"婁": {
 			"simplified": "婁",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"簍": {
@@ -12204,7 +12284,7 @@
 		},
 		"螻": {
 			"simplified": "螻",
-			"meaning": "cricket",
+			"meaning": "<animal> cricket",
 			"level": "9"
 		},
 		"髏": {
@@ -12255,7 +12335,7 @@
 	"qīng": {
 		"清": {
 			"simplified": "清",
-			"meaning": "clear",
+			"meaning": "clear, clean; to clear",
 			"level": "3"
 		},
 		"輕": {
@@ -12285,7 +12365,7 @@
 		},
 		"蜻": {
 			"simplified": "蜻",
-			"meaning": "damselfly",
+			"meaning": "{bound} <animal> dragonfly",
 			"level": "9"
 		}
 	},
@@ -12299,7 +12379,7 @@
 	"dēng": {
 		"燈": {
 			"simplified": "灯",
-			"meaning": "to light, to illuminate",
+			"meaning": "lamp, light, lantern",
 			"level": "3"
 		},
 		"登": {
@@ -12375,7 +12455,7 @@
 		},
 		"兆": {
 			"simplified": "兆",
-			"meaning": "omen; million",
+			"meaning": "omen; [num.] million",
 			"level": "6"
 		},
 		"罩": {
@@ -12405,7 +12485,7 @@
 		},
 		"趙": {
 			"simplified": "赵",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -12505,7 +12585,7 @@
 		},
 		"衙": {
 			"simplified": "衙",
-			"meaning": "yamen (government office in ancient China)",
+			"meaning": "{archaic} government office, yamen",
 			"level": "9"
 		}
 	},
@@ -12544,7 +12624,7 @@
 		},
 		"闐": {
 			"simplified": "阗",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -12578,7 +12658,7 @@
 		},
 		"劉": {
 			"simplified": "刘",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"榴": {
@@ -12686,7 +12766,7 @@
 		},
 		"慕": {
 			"simplified": "慕",
-			"meaning": "admire, long for",
+			"meaning": "to admire, to long for",
 			"level": "4"
 		},
 		"幕": {
@@ -12736,7 +12816,7 @@
 		},
 		"苜": {
 			"simplified": "苜",
-			"meaning": "(a type of plant) clover",
+			"meaning": "{bound} <plant> clover",
 			"level": "9"
 		}
 	},
@@ -12856,7 +12936,7 @@
 		},
 		"鞦": {
 			"simplified": "秋",
-			"meaning": "(bound) swing, hanging seat",
+			"meaning": "{bound} swing, hanging seat",
 			"level": "3"
 		},
 		"丘": {
@@ -12866,7 +12946,7 @@
 		},
 		"蚯": {
 			"simplified": "蚯",
-			"meaning": "earthworm",
+			"meaning": "<animal> earthworm",
 			"level": "9"
 		},
 		"邱": {
@@ -12876,7 +12956,7 @@
 		},
 		"鰍": {
 			"simplified": "鳅",
-			"meaning": "loach (a fish)",
+			"meaning": "<fish> loach",
 			"level": "9"
 		}
 	},
@@ -12966,12 +13046,12 @@
 		},
 		"靼": {
 			"simplified": "靼",
-			"meaning": "(bound) barbarian, Tartar",
+			"meaning": "{bound} barbarian, Tartar",
 			"level": "9"
 		},
 		"韃": {
 			"simplified": "鞑",
-			"meaning": "(bound) barbarian, Tartar",
+			"meaning": "{bound} barbarian, Tartar",
 			"level": "9"
 		}
 	},
@@ -13005,7 +13085,7 @@
 		},
 		"截": {
 			"simplified": "截",
-			"meaning": "cut off, intercept",
+			"meaning": "to cut off, to intercept",
 			"level": "6"
 		},
 		"捷": {
@@ -13055,7 +13135,7 @@
 		},
 		"羯": {
 			"simplified": "羯",
-			"meaning": "a kind of goat; a surname",
+			"meaning": "<animal> wether; <ethnicity>",
 			"level": "9"
 		},
 		"訐": {
@@ -13065,7 +13145,7 @@
 		},
 		"頡": {
 			"simplified": "颉",
-			"meaning": "(name of a legendary person)",
+			"meaning": "<legendary figure>",
 			"level": "9"
 		}
 	},
@@ -13121,12 +13201,12 @@
 		},
 		"爾": {
 			"simplified": "尔",
-			"meaning": "you, your (archaic)",
+			"meaning": "you, your {archaic}",
 			"level": "4"
 		},
 		"洱": {
 			"simplified": "洱",
-			"meaning": "(name of a lake)",
+			"meaning": "<lake>",
 			"level": "9"
 		},
 		"邇": {
@@ -13262,7 +13342,7 @@
 		},
 		"御": {
 			"simplified": "御",
-			"meaning": "control",
+			"meaning": "to control",
 			"level": "6"
 		},
 		"禦": {
@@ -13272,7 +13352,7 @@
 		},
 		"愈": {
 			"simplified": "愈",
-			"meaning": "heal, become better",
+			"meaning": "more and more, even more",
 			"level": "6"
 		},
 		"癒": {
@@ -13282,17 +13362,17 @@
 		},
 		"欲": {
 			"simplified": "欲",
-			"meaning": "desire; to desire",
+			"meaning": "to desire",
 			"level": "6"
 		},
 		"慾": {
 			"simplified": "欲",
-			"meaning": "desire, want",
+			"meaning": "desire",
 			"level": "6"
 		},
 		"浴": {
 			"simplified": "浴",
-			"meaning": "bath",
+			"meaning": "bath; to bathe",
 			"level": "6"
 		},
 		"獄": {
@@ -13321,8 +13401,8 @@
 			"level": "6"
 		},
 		"嫗": {
-			"simplified": "嫗",
-			"meaning": "old woman",
+			"simplified": "妪",
+			"meaning": "{archaic} old woman",
 			"level": "9"
 		},
 		"峪": {
@@ -13352,12 +13432,12 @@
 		},
 		"聿": {
 			"simplified": "聿",
-			"meaning": "writing brush",
+			"meaning": "<archaic> writing brush",
 			"level": "9"
 		},
 		"芋": {
 			"simplified": "芋",
-			"meaning": "taro",
+			"meaning": "<vegetable> taro",
 			"level": "9"
 		},
 		"諭": {
@@ -13391,7 +13471,7 @@
 		},
 		"餃": {
 			"simplified": "饺",
-			"meaning": "dumpling (a food)",
+			"meaning": "<food> dumpling",
 			"level": "4"
 		},
 		"狡": {
@@ -13545,7 +13625,7 @@
 		},
 		"邢": {
 			"simplified": "邢",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -13618,7 +13698,7 @@
 		},
 		"蔣": {
 			"simplified": "蒋",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -13701,7 +13781,7 @@
 		},
 		"剿": {
 			"simplified": "剿",
-			"meaning": "copy (archaic)",
+			"meaning": "copy {archaic}",
 			"level": "9"
 		},
 		"勦": {
@@ -13733,7 +13813,7 @@
 		},
 		"嬴": {
 			"simplified": "嬴",
-			"meaning": "win, profit",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"楹": {
@@ -13763,7 +13843,7 @@
 		},
 		"蠅": {
 			"simplified": "蝇",
-			"meaning": "fly",
+			"meaning": "<animal> fly",
 			"level": "9"
 		}
 	},
@@ -13874,7 +13954,7 @@
 		},
 		"麟": {
 			"simplified": "麟",
-			"meaning": "Chinese unicorn (name of a mythical animal)",
+			"meaning": "{bound} <legendary beast> Chinese unicorn",
 			"level": "9"
 		}
 	},
@@ -13952,12 +14032,12 @@
 	"ā": {
 		"阿": {
 			"simplified": "阿",
-			"meaning": "(prefix to names of people to form terms of endearment)",
+			"meaning": "<pref. (to names of people to form terms of endearment)>",
 			"level": "3"
 		},
 		"鵪": {
 			"simplified": "鹌",
-			"meaning": "partridge (a bird)",
+			"meaning": "<bird> partridge",
 			"level": "9"
 		}
 	},
@@ -13994,7 +14074,7 @@
 		},
 		"鋤": {
 			"simplified": "锄",
-			"meaning": "hoe (a tool); to dig",
+			"meaning": "hoe <tool>; to dig",
 			"level": "9"
 		},
 		"雛": {
@@ -14038,7 +14118,7 @@
 		},
 		"墟": {
 			"simplified": "墟",
-			"meaning": "ruins, market",
+			"meaning": "ruins",
 			"level": "6"
 		},
 		"噓": {
@@ -14058,7 +14138,7 @@
 		},
 		"頊": {
 			"simplified": "顼",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -14110,7 +14190,7 @@
 		},
 		"頡": {
 			"simplified": "颉",
-			"meaning": "(bird) to fly upwards; (a surname)",
+			"meaning": "(bird) to fly upwards; <surname>",
 			"level": "9"
 		}
 	},
@@ -14189,12 +14269,12 @@
 		},
 		"尹": {
 			"simplified": "尹",
-			"meaning": "(archaic) governor",
+			"meaning": "{archaic} governor",
 			"level": "9"
 		},
 		"蚓": {
 			"simplified": "蚓",
-			"meaning": "earthworm",
+			"meaning": "<animal> earthworm",
 			"level": "9"
 		}
 	},
@@ -14248,7 +14328,7 @@
 		},
 		"呃": {
 			"simplified": "呃",
-			"meaning": "(onomatopoeic) hiccup, belch",
+			"meaning": "[ono.] hiccup, belch",
 			"level": "9"
 		},
 		"噩": {
@@ -14293,7 +14373,7 @@
 		},
 		"鱷": {
 			"simplified": "鳄",
-			"meaning": "crocodile (an animal)",
+			"meaning": "<animal> crocodile",
 			"level": "9"
 		}
 	},
@@ -14315,7 +14395,7 @@
 		},
 		"瑪": {
 			"simplified": "玛",
-			"meaning": "agate, jade",
+			"meaning": "<gemstone> agate, jade",
 			"level": "9"
 		}
 	},
@@ -14332,7 +14412,7 @@
 		},
 		"蟯": {
 			"simplified": "蛲",
-			"meaning": "roundworm",
+			"meaning": "<animal> roundworm",
 			"level": "9"
 		},
 		"裊": {
@@ -14359,7 +14439,7 @@
 		},
 		"凰": {
 			"simplified": "凰",
-			"meaning": "Chinese phoenix (name of a mythical animal)",
+			"meaning": "{bound} <legendary beast> Chinese phoenix",
 			"level": "9"
 		},
 		"徨": {
@@ -14467,26 +14547,26 @@
 		},
 		"莒": {
 			"simplified": "莒",
-			"meaning": "(name of a place)",
+			"meaning": "<place>",
 			"level": "9"
 		},
 		"齟": {
 			"simplified": "龃",
-			"meaning": "(bound) misaligned teeth; disagreement",
+			"meaning": "{bound} misaligned teeth; disagreement",
 			"level": "9"
 		}
 	},
 	"pīng": {
 		"乒": {
 			"simplified": "乒",
-			"meaning": "(onomatopoeic) sound of clashing",
+			"meaning": "[ono.] sound of clashing",
 			"level": "4"
 		}
 	},
 	"pāng": {
 		"乓": {
 			"simplified": "乓",
-			"meaning": "an onomatopoeic word (sound of clashing)",
+			"meaning": "[ono.] sound of clashing",
 			"level": "4"
 		},
 		"滂": {
@@ -14555,7 +14635,7 @@
 		},
 		"錚": {
 			"simplified": "铮",
-			"meaning": "(onomatopoeic) clang of metals",
+			"meaning": "[ono.] clang of metals",
 			"level": "9"
 		}
 	},
@@ -14565,15 +14645,15 @@
 			"meaning": "cloud",
 			"level": "4"
 		},
-		"云": {
-			"simplified": "云",
-			"meaning": "to say",
-			"level": "4"
-		},
 		"勻": {
 			"simplified": "匀",
 			"meaning": "even, uniform",
 			"level": "5"
+		},
+		"云": {
+			"simplified": "云",
+			"meaning": "{archai} to say",
+			"level": "9"
 		},
 		"昀": {
 			"simplified": "昀",
@@ -14592,14 +14672,14 @@
 		},
 		"耘": {
 			"simplified": "耘",
-			"meaning": "weed",
+			"meaning": "to weed (in farmland)",
 			"level": "9"
 		}
 	},
 	"yà": {
 		"亞": {
 			"simplified": "亚",
-			"meaning": "inferior; second; (short for) Asia (transliteration)",
+			"meaning": "inferior; second; {transliteration} (short for) Asia",
 			"level": "4"
 		},
 		"訝": {
@@ -14703,13 +14783,6 @@
 			"level": "9"
 		}
 	},
-	"": {
-		"": {
-			"simplified": "",
-			"meaning": "",
-			"level": ""
-		}
-	},
 	"fèn": {
 		"份": {
 			"simplified": "份",
@@ -14755,7 +14828,7 @@
 		},
 		"憂": {
 			"simplified": "忧",
-			"meaning": "worry, anxiety",
+			"meaning": "to worry; concern, anxiety",
 			"level": "6"
 		}
 	},
@@ -14772,7 +14845,7 @@
 		},
 		"囀": {
 			"simplified": "啭",
-			"meaning": "(onomatopoeic) warbling",
+			"meaning": "[ono.] warbling",
 			"level": "9"
 		},
 		"篆": {
@@ -14804,12 +14877,12 @@
 		},
 		"呱": {
 			"simplified": "呱",
-			"meaning": "(onomatopoeic) sound of infant's cry",
+			"meaning": "[ono.] sound of infant's cry",
 			"level": "9"
 		},
 		"咕": {
 			"simplified": "咕",
-			"meaning": "(onomatopoeic) sound of pigeon, coo; to mumble",
+			"meaning": "[ono.] sound of pigeon, coo; to mumble",
 			"level": "9"
 		},
 		"沽": {
@@ -14823,13 +14896,13 @@
 			"level": "9"
 		},
 		"蛄": {
-			"simplified": "蛆",
-			"meaning": "grub",
+			"simplified": "蛄",
+			"meaning": "{bound} <animal>",
 			"level": "9"
 		},
 		"鴣": {
 			"simplified": "鸪",
-			"meaning": "pheasant (a bird)",
+			"meaning": "{bound} <bird> pheasant",
 			"level": "9"
 		}
 	},
@@ -14848,6 +14921,11 @@
 			"simplified": "堤",
 			"meaning": "dike, embankment",
 			"level": "6"
+		},
+		"的": {
+			"simplified": "的",
+			"meaning": "{bound} {transliteration}",
+			"level": "9"
 		},
 		"氐": {
 			"simplified": "氐",
@@ -14890,7 +14968,7 @@
 		},
 		"蜓": {
 			"simplified": "蜓",
-			"meaning": "fly (insect), a kind of wasp",
+			"meaning": "{bound} <animal> dragonfly",
 			"level": "9"
 		},
 		"霆": {
@@ -14985,7 +15063,7 @@
 		},
 		"娩": {
 			"simplified": "娩",
-			"meaning": "to deliver (a baby)",
+			"meaning": "to deliver (baby)",
 			"level": "9"
 		},
 		"緬": {
@@ -15066,7 +15144,7 @@
 		},
 		"氧": {
 			"simplified": "氧",
-			"meaning": "oxygen",
+			"meaning": "oxygen (element)",
 			"level": "6"
 		}
 	},
@@ -15090,7 +15168,7 @@
 		},
 		"曠": {
 			"simplified": "旷",
-			"meaning": "vast, deserted",
+			"meaning": "vast, spacious; to waste, to skip",
 			"level": "6"
 		},
 		"框": {
@@ -15127,7 +15205,7 @@
 		},
 		"梁": {
 			"simplified": "梁",
-			"meaning": "(name of an ancient state, also a family name)",
+			"meaning": "<ancient state> <surname>",
 			"level": "6"
 		},
 		"樑": {
@@ -15316,7 +15394,7 @@
 		},
 		"聖": {
 			"simplified": "圣",
-			"meaning": "sacred; holy",
+			"meaning": "sacred, holy",
 			"level": "6"
 		},
 		"盛": {
@@ -15333,7 +15411,7 @@
 		},
 		"芍": {
 			"simplified": "芍",
-			"meaning": "peony (name of a plant)",
+			"meaning": "<vegetable> peony",
 			"level": "9"
 		},
 		"韶": {
@@ -15380,7 +15458,7 @@
 		},
 		"蛆": {
 			"simplified": "蛆",
-			"meaning": "worm",
+			"meaning": "<animal> worm",
 			"level": "9"
 		},
 		"軀": {
@@ -15422,7 +15500,7 @@
 		},
 		"搏": {
 			"simplified": "搏",
-			"meaning": "fight, struggle",
+			"meaning": "to fight, to struggle",
 			"level": "6"
 		},
 		"泊": {
@@ -15484,7 +15562,7 @@
 		},
 		"褂": {
 			"simplified": "褂",
-			"meaning": "a kind of robe",
+			"meaning": "(a kind of robe)",
 			"level": "9"
 		}
 	},
@@ -15496,7 +15574,7 @@
 		},
 		"胤": {
 			"simplified": "胤",
-			"meaning": "(archaic) descendant; heir",
+			"meaning": "{archaic} descendant; heir",
 			"level": "9"
 		}
 	},
@@ -15545,7 +15623,7 @@
 		},
 		"雀": {
 			"simplified": "雀",
-			"meaning": "sparrow (a bird)",
+			"meaning": "sparrow <bird>",
 			"level": "6"
 		},
 		"榷": {
@@ -15555,12 +15633,12 @@
 		},
 		"闋": {
 			"simplified": "阕",
-			"meaning": "(archaic) tune; to end, to stop; (measure word for poems/songs)",
+			"meaning": "{archaic} tune; to end, to stop; [m.w. (for poems/songs)]",
 			"level": "9"
 		},
 		"鵲": {
 			"simplified": "鹊",
-			"meaning": "jay (a bird)",
+			"meaning": "<bird> jay",
 			"level": "9"
 		}
 	},
@@ -15577,7 +15655,7 @@
 		},
 		"鴨": {
 			"simplified": "鸭",
-			"meaning": "duck (a bird)",
+			"meaning": "<bird> duck",
 			"level": "4"
 		},
 		"押": {
@@ -15587,7 +15665,7 @@
 		},
 		"鴉": {
 			"simplified": "鸦",
-			"meaning": "crow (a bird)",
+			"meaning": "<bird> crow",
 			"level": "6"
 		},
 		"丫": {
@@ -15674,7 +15752,7 @@
 		},
 		"雁": {
 			"simplified": "雁",
-			"meaning": "wild goose (an animal)",
+			"meaning": "<animal> wild goose",
 			"level": "9"
 		},
 		"饜": {
@@ -15762,7 +15840,7 @@
 		},
 		"鴒": {
 			"simplified": "鸰",
-			"meaning": "flycatcher (a bird)",
+			"meaning": "<bird> flycatcher",
 			"level": "9"
 		}
 	},
@@ -15789,7 +15867,7 @@
 		},
 		"苔": {
 			"simplified": "苔",
-			"meaning": "moss",
+			"meaning": "<fungus> moss",
 			"level": "9"
 		},
 		"跆": {
@@ -15837,7 +15915,7 @@
 		},
 		"蚵": {
 			"simplified": "蚵",
-			"meaning": "oyster",
+			"meaning": "<animal> oyster",
 			"level": "9"
 		}
 	},
@@ -15864,7 +15942,7 @@
 		},
 		"嫌": {
 			"simplified": "嫌",
-			"meaning": "dislike, suspect",
+			"meaning": "to dislike, to suspect",
 			"level": "6"
 		},
 		"弦": {
@@ -15889,7 +15967,7 @@
 		},
 		"啣": {
 			"simplified": "啣",
-			"meaning": "(archaic) to bite",
+			"meaning": "{archaic} to bite",
 			"level": "9"
 		},
 		"嫻": {
@@ -16072,7 +16150,7 @@
 		},
 		"飧": {
 			"simplified": "飧",
-			"meaning": "(archaic) dinner",
+			"meaning": "{archaic} dinner",
 			"level": "9"
 		}
 	},
@@ -16148,7 +16226,7 @@
 		},
 		"搗": {
 			"simplified": "捣",
-			"meaning": "pound, strike",
+			"meaning": "to pound, to strike",
 			"level": "6"
 		},
 		"蹈": {
@@ -16207,12 +16285,12 @@
 		},
 		"姜": {
 			"simplified": "姜",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"薑": {
 			"simplified": "姜",
-			"meaning": "ginger",
+			"meaning": "<vegetable> ginger",
 			"level": "9"
 		},
 		"漿": {
@@ -16283,7 +16361,7 @@
 		},
 		"盞": {
 			"simplified": "盏",
-			"meaning": "lamp, light; (measure word for lamps)",
+			"meaning": "lamp, light; [m.w. for lamps]",
 			"level": "9"
 		},
 		"輾": {
@@ -16394,7 +16472,7 @@
 		},
 		"蓿": {
 			"simplified": "蓿",
-			"meaning": "a kind of plant",
+			"meaning": "{bound} <plant> clover",
 			"level": "9"
 		}
 	},
@@ -16453,12 +16531,12 @@
 		},
 		"渡": {
 			"simplified": "渡",
-			"meaning": "to cross, to渡",
+			"meaning": "to cross (water), to ferry",
 			"level": "6"
 		},
 		"蠹": {
 			"simplified": "蠹",
-			"meaning": "to corrupt, to decay",
+			"meaning": "<animal> insect that eats into books; worm-eaten",
 			"level": "9"
 		},
 		"鍍": {
@@ -16487,12 +16565,12 @@
 		},
 		"壇": {
 			"simplified": "坛",
-			"meaning": "altar, platform",
+			"meaning": "altar; platform",
 			"level": "6"
 		},
 		"罈": {
 			"simplified": "坛",
-			"meaning": "vat; jar",
+			"meaning": "<vessel> vat; jar",
 			"level": "6"
 		},
 		"檀": {
@@ -16517,19 +16595,14 @@
 		},
 		"譚": {
 			"simplified": "谭",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
 	"cǎi": {
 		"彩": {
 			"simplified": "彩",
-			"meaning": "color",
-			"level": "4"
-		},
-		"綵": {
-			"simplified": "彩",
-			"meaning": "colorful; bright",
+			"meaning": "(bright) color",
 			"level": "4"
 		},
 		"踩": {
@@ -16551,6 +16624,11 @@
 			"simplified": "睬",
 			"meaning": "to pay attention",
 			"level": "6"
+		},
+		"綵": {
+			"simplified": "䌽",
+			"meaning": "varicolored silk",
+			"level": "9"
 		}
 	},
 	"zhì": {
@@ -16676,19 +16754,19 @@
 		},
 		"蛭": {
 			"simplified": "蛭",
-			"meaning": "leech",
+			"meaning": "<animal> leech",
 			"level": "9"
 		},
 		"雉": {
 			"simplified": "雉",
-			"meaning": "pheasant (a bird)",
+			"meaning": "<animal> pheasant",
 			"level": "9"
 		}
 	},
 	"huái": {
 		"懷": {
 			"simplified": "怀",
-			"meaning": "hold,怀",
+			"meaning": "bosom, heart; to harbor in mind; to conceive (child)",
 			"level": "4"
 		},
 		"徊": {
@@ -16740,7 +16818,7 @@
 		},
 		"廉": {
 			"simplified": "廉",
-			"meaning": "honest,廉",
+			"meaning": "incorruptible, honest",
 			"level": "6"
 		},
 		"奩": {
@@ -16770,12 +16848,12 @@
 		},
 		"鐮": {
 			"simplified": "镰",
-			"meaning": "sickle (a tool)",
+			"meaning": "sickle <tool>",
 			"level": "9"
 		},
 		"鰱": {
 			"simplified": "鳑",
-			"meaning": "(a fish)",
+			"meaning": "<fish>",
 			"level": "9"
 		}
 	},
@@ -16869,6 +16947,38 @@
 			"level": "6"
 		}
 	},
+	"pī": {
+		"批": {
+			"simplified": "批",
+			"meaning": "to criticize; [m.w. (for batches)]",
+			"level": "4"
+		},
+		"披": {
+			"simplified": "披",
+			"meaning": "to drape over (one's shoulder); to open, to expose",
+			"level": "5"
+		},
+		"劈": {
+			"simplified": "劈",
+			"meaning": "split, chop",
+			"level": "6"
+		},
+		"丕": {
+			"simplified": "丕",
+			"meaning": "great, grand",
+			"level": "9"
+		},
+		"紕": {
+			"simplified": "纰",
+			"meaning": "error, mistake, carelessness",
+			"level": "9"
+		},
+		"霹": {
+			"simplified": "霹",
+			"meaning": "{bound} thunderclap",
+			"level": "9"
+		}
+	},
 	"zhé": {
 		"折": {
 			"simplified": "折",
@@ -16882,7 +16992,7 @@
 		},
 		"哲": {
 			"simplified": "哲",
-			"meaning": "philosophy",
+			"meaning": "wise; sage, wise man",
 			"level": "5"
 		},
 		"轍": {
@@ -16921,7 +17031,7 @@
 		},
 		"釗": {
 			"simplified": "钊",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -17016,7 +17126,7 @@
 		},
 		"徘": {
 			"simplified": "徘",
-			"meaning": "hesitate",
+			"meaning": "to hesitate",
 			"level": "6"
 		},
 		"俳": {
@@ -17045,7 +17155,7 @@
 		},
 		"撥": {
 			"simplified": "拨",
-			"meaning": "to拨, to flick",
+			"meaning": "to push aside; to flick; [m.w.] group, batch",
 			"level": "6"
 		},
 		"波": {
@@ -17072,14 +17182,14 @@
 	"cā": {
 		"擦": {
 			"simplified": "擦",
-			"meaning": "to wipe, to擦",
+			"meaning": "to wipe, to rub",
 			"level": "4"
 		}
 	},
 	"shōu": {
 		"收": {
 			"simplified": "收",
-			"meaning": "toreceive, collect",
+			"meaning": "to receive, to collect",
 			"level": "4"
 		}
 	},
@@ -17115,7 +17225,7 @@
 		},
 		"鍬": {
 			"simplified": "锹",
-			"meaning": "shovel (a tool)",
+			"meaning": "shovel <tool>",
 			"level": "9"
 		}
 	},
@@ -17144,7 +17254,7 @@
 		},
 		"吳": {
 			"simplified": "吴",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"吾": {
@@ -17154,7 +17264,7 @@
 		},
 		"唔": {
 			"simplified": "唔",
-			"meaning": "an onomatopoeic word",
+			"meaning": "[ono.]",
 			"level": "9"
 		},
 		"梧": {
@@ -17168,13 +17278,13 @@
 			"level": "9"
 		},
 		"蕪": {
-			"simplified": "蕪",
-			"meaning": "to weed",
+			"simplified": "芜",
+			"meaning": "overgrown with weeds",
 			"level": "9"
 		},
 		"蜈": {
 			"simplified": "蜈",
-			"meaning": "centipede",
+			"meaning": "<animal> centipede",
 			"level": "9"
 		}
 	},
@@ -17243,7 +17353,7 @@
 		},
 		"阱": {
 			"simplified": "阱",
-			"meaning": "(archaic) pitfall, trap",
+			"meaning": "{archaic} pitfall, trap",
 			"level": "6"
 		},
 		"頸": {
@@ -17279,7 +17389,7 @@
 	"sōng": {
 		"松": {
 			"simplified": "松",
-			"meaning": "pine tree",
+			"meaning": "pine tree (type of a tree)",
 			"level": "4"
 		},
 		"鬆": {
@@ -17333,7 +17443,7 @@
 		},
 		"蘗": {
 			"simplified": "蘗",
-			"meaning": "a type of plant",
+			"meaning": "(a type of plant)",
 			"level": "9"
 		},
 		"鏢": {
@@ -17348,7 +17458,7 @@
 		},
 		"驃": {
 			"simplified": "骠",
-			"meaning": "(archaic) white horse",
+			"meaning": "{archaic} white horse",
 			"level": "9"
 		}
 	},
@@ -17390,7 +17500,7 @@
 		},
 		"鬲": {
 			"simplified": "鬲",
-			"meaning": "(a type of ancient vessel)",
+			"meaning": "<ancient vessel>",
 			"level": "9"
 		}
 	},
@@ -17497,7 +17607,7 @@
 	"kuò": {
 		"棵": {
 			"simplified": "棵",
-			"meaning": "a measure word for plants",
+			"meaning": "[m.w. (for plants)]",
 			"level": "4"
 		},
 		"擴": {
@@ -17512,7 +17622,7 @@
 		},
 		"廓": {
 			"simplified": "廓",
-			"meaning": "broad, open space",
+			"meaning": "extensive, vast",
 			"level": "6"
 		},
 		"闊": {
@@ -17614,7 +17724,7 @@
 		},
 		"畝": {
 			"simplified": "亩",
-			"meaning": "(unit of area) acre",
+			"meaning": "<unit of area> acre",
 			"level": "9"
 		},
 		"拇": {
@@ -17690,7 +17800,7 @@
 		},
 		"嗚": {
 			"simplified": "呜",
-			"meaning": "(onomatopoeic) sobbing, honking",
+			"meaning": "[ono.] sobbing, honking",
 			"level": "9"
 		},
 		"圬": {
@@ -17717,7 +17827,7 @@
 		},
 		"鏜": {
 			"simplified": "镗",
-			"meaning": "(onomatopoeic) sound of drum",
+			"meaning": "[ono.] sound of drum",
 			"level": "9"
 		}
 	},
@@ -17754,7 +17864,7 @@
 		},
 		"鯊": {
 			"simplified": "鲨",
-			"meaning": "shark (a fish)",
+			"meaning": "<fish> shark",
 			"level": "9"
 		}
 	},
@@ -17866,7 +17976,7 @@
 		},
 		"塭": {
 			"simplified": "塭",
-			"meaning": "(used in place names, especially in Taiwan)",
+			"meaning": "<place>",
 			"level": "9"
 		},
 		"瘟": {
@@ -17903,7 +18013,7 @@
 		},
 		"焉": {
 			"simplified": "焉",
-			"meaning": "(archaic) how",
+			"meaning": "{archaic} how",
 			"level": "9"
 		},
 		"胭": {
@@ -18011,7 +18121,7 @@
 		},
 		"芹": {
 			"simplified": "芹",
-			"meaning": "celery",
+			"meaning": "<vegetable> celery",
 			"level": "9"
 		}
 	},
@@ -18038,7 +18148,7 @@
 		},
 		"蜃": {
 			"simplified": "蜃",
-			"meaning": "giant clam",
+			"meaning": "<animal> giant clam",
 			"level": "9"
 		}
 	},
@@ -18079,7 +18189,7 @@
 		},
 		"珀": {
 			"simplified": "珀",
-			"meaning": "amber",
+			"meaning": "<gemstone> amber",
 			"level": "9"
 		}
 	},
@@ -18153,7 +18263,7 @@
 		},
 		"麝": {
 			"simplified": "麝",
-			"meaning": "musk deer (an animal)",
+			"meaning": "<animal> musk deer",
 			"level": "9"
 		}
 	},
@@ -18197,7 +18307,7 @@
 		},
 		"顆": {
 			"simplified": "颗",
-			"meaning": "(measure word for small and round things)",
+			"meaning": "[m.w. (for small and round things)]",
 			"level": "5"
 		},
 		"磕": {
@@ -18232,19 +18342,19 @@
 		},
 		"蝌": {
 			"simplified": "蝌",
-			"meaning": "tadpole",
+			"meaning": "{bound} <animal> tadpole",
 			"level": "9"
 		},
 		"軻": {
 			"simplified": "轲",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
 	"miǎo": {
 		"秒": {
 			"simplified": "秒",
-			"meaning": "second (time)",
+			"meaning": "[unit of time] second",
 			"level": "4"
 		},
 		"渺": {
@@ -18271,7 +18381,7 @@
 		},
 		"啾": {
 			"simplified": "啾",
-			"meaning": "(onomatopoeic) chirping sound",
+			"meaning": "[ono.] chirping sound",
 			"level": "9"
 		},
 		"揪": {
@@ -18286,7 +18396,7 @@
 		},
 		"鳩": {
 			"simplified": "鸠",
-			"meaning": "pigeon (a bird)",
+			"meaning": "<bird> pigeon",
 			"level": "9"
 		}
 	},
@@ -18361,11 +18471,6 @@
 			"meaning": "sugar",
 			"level": "4"
 		},
-		"醣": {
-			"simplified": "糖",
-			"meaning": "sugar",
-			"level": "4"
-		},
 		"塘": {
 			"simplified": "塘",
 			"meaning": "pond, pool",
@@ -18373,7 +18478,7 @@
 		},
 		"唐": {
 			"simplified": "唐",
-			"meaning": "(name of a dynasty)",
+			"meaning": "<dynasty> Tang",
 			"level": "6"
 		},
 		"堂": {
@@ -18385,6 +18490,11 @@
 			"simplified": "膛",
 			"meaning": "cavity; chest",
 			"level": "6"
+		},
+		"醣": {
+			"simplified": "糖",
+			"meaning": "carbohydrate",
+			"level": "9"
 		},
 		"帑": {
 			"simplified": "帑",
@@ -18403,7 +18513,7 @@
 		},
 		"螳": {
 			"simplified": "螳",
-			"meaning": "mantis",
+			"meaning": "<animal> mantis",
 			"level": "9"
 		}
 	},
@@ -18415,7 +18525,7 @@
 		},
 		"曰": {
 			"simplified": "曰",
-			"meaning": "(archaic) to say",
+			"meaning": "{archaic} to say",
 			"level": "9"
 		}
 	},
@@ -18541,7 +18651,7 @@
 		},
 		"臧": {
 			"simplified": "臧",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"贓": {
@@ -18644,7 +18754,7 @@
 		},
 		"駱": {
 			"simplified": "骆",
-			"meaning": "camel (an animal)",
+			"meaning": "camel <animal>",
 			"level": "9"
 		}
 	},
@@ -18742,7 +18852,7 @@
 		},
 		"龜": {
 			"simplified": "龟",
-			"meaning": "turtle, tortoise (an animal)",
+			"meaning": "turtle, tortoise <animal>",
 			"level": "9"
 		}
 	},
@@ -18766,7 +18876,7 @@
 		},
 		"栩": {
 			"simplified": "栩",
-			"meaning": "(a type of tree)",
+			"meaning": "<tree>",
 			"level": "9"
 		}
 	},
@@ -18837,6 +18947,16 @@
 			"meaning": "to congratulate",
 			"level": "4"
 		},
+		"嚇": {
+			"simplified": "吓",
+			"meaning": "to intimidate, to threaten; [exc. (for anger)]",
+			"level": "9"
+		},
+		"喝": {
+			"simplified": "喝",
+			"meaning": "to shout",
+			"level": "9"
+		},
 		"壑": {
 			"simplified": "壑",
 			"meaning": "ravine, gorge",
@@ -18854,7 +18974,7 @@
 		},
 		"鶴": {
 			"simplified": "鹤",
-			"meaning": "crane (a bird)",
+			"meaning": "<bird> crane ",
 			"level": "9"
 		}
 	},
@@ -18886,7 +19006,7 @@
 		},
 		"茲": {
 			"simplified": "茲",
-			"meaning": "(archaic) this",
+			"meaning": "{archaic} this",
 			"level": "9"
 		},
 		"孜": {
@@ -19003,7 +19123,7 @@
 		},
 		"彌": {
 			"simplified": "弥",
-			"meaning": "to fill, complete",
+			"meaning": "to fill, to complete",
 			"level": "6"
 		},
 		"謎": {
@@ -19028,7 +19148,7 @@
 		},
 		"麋": {
 			"simplified": "麋",
-			"meaning": "elk (an animal)",
+			"meaning": "<animal> elk",
 			"level": "9"
 		}
 	},
@@ -19132,7 +19252,7 @@
 		},
 		"裴": {
 			"simplified": "裴",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -19161,7 +19281,7 @@
 		},
 		"舜": {
 			"simplified": "舜",
-			"meaning": "a legendary emperor",
+			"meaning": "<legendary figure>",
 			"level": "9"
 		}
 	},
@@ -19200,7 +19320,7 @@
 	"má": {
 		"麻": {
 			"simplified": "麻",
-			"meaning": "(fiber of) hemp, flax (name of a plant and its fiber); (material) coarse; numb",
+			"meaning": "<crop> hemp, flax (or their fiber); (material) coarse; numb",
 			"level": "4"
 		},
 		"痲": {
@@ -19210,7 +19330,7 @@
 		},
 		"蟆": {
 			"simplified": "蟆",
-			"meaning": "toad",
+			"meaning": "<animal> toad",
 			"level": "9"
 		}
 	},
@@ -19262,7 +19382,7 @@
 		},
 		"蠱": {
 			"simplified": "蛊",
-			"meaning": "poison, to charm",
+			"meaning": "to poison, to charm",
 			"level": "9"
 		},
 		"詁": {
@@ -19367,7 +19487,7 @@
 		},
 		"鏟": {
 			"simplified": "铲",
-			"meaning": "shovel (a tool)",
+			"meaning": "shovel <tool>",
 			"level": "9"
 		}
 	},
@@ -19461,7 +19581,7 @@
 		},
 		"鮪": {
 			"simplified": "鲔",
-			"meaning": "tuna (a fish)",
+			"meaning": "<fish> tuna",
 			"level": "9"
 		}
 	},
@@ -19585,12 +19705,12 @@
 		},
 		"摧": {
 			"simplified": "摧",
-			"meaning": "destroy, smash",
+			"meaning": "to destroy, to smash",
 			"level": "6"
 		},
 		"崔": {
 			"simplified": "崔",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -19629,7 +19749,7 @@
 		},
 		"匈": {
 			"simplified": "匈",
-			"meaning": "(archaic) chest; (short for) Hungary (transliteration)",
+			"meaning": "{archaic} chest; {transliteration} (short for) Hungary",
 			"level": "9"
 		}
 	},
@@ -19770,12 +19890,12 @@
 	"pǐ": {
 		"疋": {
 			"simplified": "匹",
-			"meaning": "(measure word for horses and clothes)",
+			"meaning": "[m.w. (for clothes)]",
 			"level": "5"
 		},
 		"匹": {
 			"simplified": "匹",
-			"meaning": "match; (measure word for horses); alone, single",
+			"meaning": "match; [m.w. (for horses and clothes)]; alone, single",
 			"level": "5"
 		},
 		"仳": {
@@ -19822,7 +19942,7 @@
 		},
 		"齷": {
 			"simplified": "龌",
-			"meaning": "(bound) small-minded; dirty",
+			"meaning": "{bound} small-minded; dirty",
 			"level": "9"
 		}
 	},
@@ -19853,7 +19973,7 @@
 	"dūn": {
 		"噸": {
 			"simplified": "吨",
-			"meaning": "ton (measure of weight)",
+			"meaning": "[unit of weight] ton",
 			"level": "5"
 		},
 		"蹲": {
@@ -19882,7 +20002,7 @@
 	"chuī": {
 		"吹": {
 			"simplified": "吹",
-			"meaning": "blow",
+			"meaning": "to blow",
 			"level": "5"
 		},
 		"炊": {
@@ -19894,7 +20014,7 @@
 	"wěn": {
 		"吻": {
 			"simplified": "吻",
-			"meaning": "kiss",
+			"meaning": "to kiss; kiss",
 			"level": "5"
 		},
 		"穩": {
@@ -19938,7 +20058,7 @@
 		},
 		"舀": {
 			"simplified": "舀",
-			"meaning": "scoop",
+			"meaning": "to scoop",
 			"level": "9"
 		}
 	},
@@ -19952,14 +20072,14 @@
 	"hā": {
 		"哈": {
 			"simplified": "哈",
-			"meaning": "(onomatopoeic) laugh sound",
+			"meaning": "[exc. (for laugh)] laugh sound",
 			"level": "5"
 		}
 	},
 	"āi": {
 		"哎": {
 			"simplified": "哎",
-			"meaning": "(exclamation - surprise)",
+			"meaning": "[exc. (for surprise)]",
 			"level": "5"
 		},
 		"哀": {
@@ -19981,7 +20101,7 @@
 		},
 		"扇": {
 			"simplified": "扇",
-			"meaning": "fan; (measure word for windows and doors)",
+			"meaning": "fan; [m.w. (for windows and doors)]",
 			"level": "5"
 		},
 		"擅": {
@@ -20026,14 +20146,14 @@
 		},
 		"鱔": {
 			"simplified": "鳝",
-			"meaning": "eel (a fish)",
+			"meaning": "<fish> eel",
 			"level": "9"
 		}
 	},
 	"hǎn": {
 		"喊": {
 			"simplified": "喊",
-			"meaning": "shout, yell",
+			"meaning": "to shout, to yell",
 			"level": "5"
 		},
 		"罕": {
@@ -20045,28 +20165,75 @@
 	"pēn": {
 		"噴": {
 			"simplified": "喷",
-			"meaning": "spout, spray",
+			"meaning": "to spout, to spray",
 			"level": "5"
 		}
 	},
 	"sǎng": {
 		"嗓": {
 			"simplified": "嗓",
-			"meaning": "throat, voice",
+			"meaning": "throat",
 			"level": "5"
 		}
 	},
-	"ńg": {
+	"ēn": {
 		"嗯": {
 			"simplified": "嗯",
-			"meaning": "(interjection) hmm, okay",
+			"meaning": "[exc.]",
+			"level": "5"
+		},
+		"恩": {
+			"simplified": "恩",
+			"meaning": "grace",
+			"level": "6"
+		}
+	},
+	"èn": {
+		"嗯": {
+			"simplified": "嗯",
+			"meaning": "[exc. (for acknowlegement)]",
+			"level": "5"
+		}
+	},
+	"en": {
+		"嗯": {
+			"simplified": "嗯",
+			"meaning": "[exc.]",
+			"level": "5"
+		}
+	},
+	"ēng": {
+		"嗯": {
+			"simplified": "嗯",
+			"meaning": "[exc.]",
+			"level": "5"
+		}
+	},
+	"èng": {
+		"嗯": {
+			"simplified": "嗯",
+			"meaning": "[exc. (for acknowlegement)]",
+			"level": "5"
+		}
+	},
+	"én": {
+		"嗯": {
+			"simplified": "嗯",
+			"meaning": "[exc. (for question)]",
+			"level": "5"
+		}
+	},
+	"éng": {
+		"嗯": {
+			"simplified": "嗯",
+			"meaning": "[exc. (for question)]",
 			"level": "5"
 		}
 	},
 	"tì": {
 		"嚏": {
 			"simplified": "嚏",
-			"meaning": "sneeze",
+			"meaning": "to sneeze",
 			"level": "5"
 		},
 		"屜": {
@@ -20113,7 +20280,7 @@
 	"tuán": {
 		"團": {
 			"simplified": "团",
-			"meaning": "group, round",
+			"meaning": "round; group",
 			"level": "5"
 		}
 	},
@@ -20183,7 +20350,7 @@
 		},
 		"胡": {
 			"simplified": "胡",
-			"meaning": "barbarian from north; (a surname)",
+			"meaning": "barbarian from north; <surname>",
 			"level": "5"
 		},
 		"鬍": {
@@ -20223,7 +20390,7 @@
 		},
 		"鵠": {
 			"simplified": "鹱",
-			"meaning": "heron (a bird)",
+			"meaning": "<bird> heron",
 			"level": "9"
 		}
 	},
@@ -20243,7 +20410,7 @@
 		"夾": {
 			"simplified": "夹",
 			"meaning": "double-layered",
-			"level": "5"
+			"level": "9"
 		},
 		"戛": {
 			"simplified": "戛",
@@ -20402,12 +20569,12 @@
 		},
 		"循": {
 			"simplified": "循",
-			"meaning": "follow, circulate",
+			"meaning": "to follow, to circulate",
 			"level": "6"
 		},
 		"荀": {
 			"simplified": "荀",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -20444,7 +20611,7 @@
 		},
 		"陳": {
 			"simplified": "陈",
-			"meaning": "to lay out, to display; to state, to explain; (a surname)",
+			"meaning": "to lay out, to display; to state, to explain; <surname>",
 			"level": "6"
 		},
 		"宸": {
@@ -20493,7 +20660,7 @@
 	"qìng": {
 		"慶": {
 			"simplified": "庆",
-			"meaning": "celebrate",
+			"meaning": "to celebrate",
 			"level": "5"
 		},
 		"磬": {
@@ -20540,7 +20707,7 @@
 		},
 		"甫": {
 			"simplified": "甫",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"脯": {
@@ -20623,7 +20790,7 @@
 		},
 		"撤": {
 			"simplified": "撤",
-			"meaning": "withdraw, retreat",
+			"meaning": "to withdraw, to retreat",
 			"level": "6"
 		},
 		"澈": {
@@ -20714,7 +20881,7 @@
 		},
 		"麾": {
 			"simplified": "麾",
-			"meaning": "(archaic) signal flag (of a commander); to command",
+			"meaning": "{archaic} signal flag (of a commander); to command",
 			"level": "9"
 		}
 	},
@@ -20745,7 +20912,7 @@
 		},
 		"蠶": {
 			"simplified": "蚕",
-			"meaning": "silkworm",
+			"meaning": "<animal> silkworm",
 			"level": "9"
 		}
 	},
@@ -20814,7 +20981,7 @@
 		},
 		"餽": {
 			"simplified": "馈",
-			"meaning": "(archaic) to make an offering",
+			"meaning": "{archaic} to make an offering",
 			"level": "6"
 		},
 		"饋": {
@@ -20880,7 +21047,7 @@
 		},
 		"蚪": {
 			"simplified": "蚪",
-			"meaning": "tadpole",
+			"meaning": "{bound} <animal> tadpole",
 			"level": "9"
 		}
 	},
@@ -20936,7 +21103,7 @@
 		},
 		"邕": {
 			"simplified": "邕",
-			"meaning": "(name of a place)",
+			"meaning": "<place>",
 			"level": "9"
 		},
 		"雍": {
@@ -21019,7 +21186,7 @@
 		},
 		"鴆": {
 			"simplified": "鸩",
-			"meaning": "(name of a mythical bird); poisonous; to poison",
+			"meaning": "<legendary beast>; poisonous; to poison",
 			"level": "9"
 		}
 	},
@@ -21041,7 +21208,7 @@
 		},
 		"鵑": {
 			"simplified": "鹃",
-			"meaning": "cuckoo (a bird)",
+			"meaning": "<bird> cuckoo",
 			"level": "9"
 		}
 	},
@@ -21092,7 +21259,7 @@
 		},
 		"颼": {
 			"simplified": "飕",
-			"meaning": "(onomatopoeic) sound of wind; (wind) to blow",
+			"meaning": "[ono.] sound of wind; (wind) to blow",
 			"level": "9"
 		},
 		"餿": {
@@ -21141,12 +21308,12 @@
 		},
 		"姚": {
 			"simplified": "姚",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"堯": {
 			"simplified": "尧",
-			"meaning": "(a surname); high, lofty",
+			"meaning": "<surname>; high, lofty",
 			"level": "9"
 		},
 		"爻": {
@@ -21264,6 +21431,11 @@
 			"meaning": "strong, robust",
 			"level": "6"
 		},
+		"幢": {
+			"simplified": "幢",
+			"meaning": "[m.w. (for buildings)]",
+			"level": "6"
+		},
 		"僮": {
 			"simplified": "僮",
 			"meaning": "(ethnic group in China)",
@@ -21280,53 +21452,6 @@
 			"simplified": "糙",
 			"meaning": "rough",
 			"level": "5"
-		}
-	},
-	"dí": {
-		"敵": {
-			"simplified": "敌",
-			"meaning": "to oppose, to resist",
-			"level": "5"
-		},
-		"嘀": {
-			"simplified": "嘀",
-			"meaning": "whisper, murmur",
-			"level": "9"
-		},
-		"嫡": {
-			"simplified": "嫡",
-			"meaning": "legitimate, direct (descendant)",
-			"level": "9"
-		},
-		"滌": {
-			"simplified": "涤",
-			"meaning": "to wash, to clean",
-			"level": "9"
-		},
-		"狄": {
-			"simplified": "狄",
-			"meaning": "barbarian (from north); (a surname)",
-			"level": "9"
-		},
-		"笛": {
-			"simplified": "笛",
-			"meaning": "flute",
-			"level": "9"
-		},
-		"荻": {
-			"simplified": "荻",
-			"meaning": "reed",
-			"level": "9"
-		},
-		"迪": {
-			"simplified": "迪",
-			"meaning": "to enlighten",
-			"level": "9"
-		},
-		"鏑": {
-			"simplified": "镝",
-			"meaning": "(archaic) arrow (with iron tip) (weapon)",
-			"level": "9"
 		}
 	},
 	"mǐn": {
@@ -21352,12 +21477,12 @@
 		},
 		"閔": {
 			"simplified": "闵",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"閩": {
 			"simplified": "闽",
-			"meaning": "(name of a place)",
+			"meaning": "<place>",
 			"level": "9"
 		}
 	},
@@ -21396,7 +21521,7 @@
 		},
 		"崑": {
 			"simplified": "昆",
-			"meaning": "(name of a mountain)",
+			"meaning": "<mount>",
 			"level": "5"
 		},
 		"坤": {
@@ -21488,12 +21613,12 @@
 		},
 		"羌": {
 			"simplified": "羌",
-			"meaning": "a minority group; a surname",
+			"meaning": "<ethnicity>; <surname>",
 			"level": "9"
 		},
 		"鏘": {
 			"simplified": "锵",
-			"meaning": "(onomatopoeic) sound of metal, clang",
+			"meaning": "[ono.] sound of metal, clang",
 			"level": "9"
 		}
 	},
@@ -21512,7 +21637,7 @@
 		},
 		"揉": {
 			"simplified": "揉",
-			"meaning": "rub, knead",
+			"meaning": "to rub, to knead",
 			"level": "6"
 		},
 		"蹂": {
@@ -21551,12 +21676,12 @@
 		},
 		"甌": {
 			"simplified": "瓯",
-			"meaning": "(name of a drinking vessel) bowl; (name of a place)",
+			"meaning": "(name of a drinking vessel) bowl; <place>",
 			"level": "9"
 		},
 		"鷗": {
 			"simplified": "鸥",
-			"meaning": "gallet (a bird)",
+			"meaning": "<bird> gallet",
 			"level": "9"
 		}
 	},
@@ -21577,6 +21702,11 @@
 			"simplified": "豪",
 			"meaning": "heroic",
 			"level": "5"
+		},
+		"號": {
+			"simplified": "号",
+			"meaning": "to howl, to wail",
+			"level": "7"
 		},
 		"嗥": {
 			"simplified": "嗥",
@@ -21600,7 +21730,7 @@
 		},
 		"蠔": {
 			"simplified": "蠔",
-			"meaning": "oyster",
+			"meaning": "<animal> oyster",
 			"level": "9"
 		}
 	},
@@ -21682,7 +21812,7 @@
 		},
 		"袞": {
 			"simplified": "袞",
-			"meaning": "a kind of ancient robe",
+			"meaning": "(a kind of ancient robe)",
 			"level": "9"
 		}
 	},
@@ -21792,20 +21922,20 @@
 			"meaning": "to explode",
 			"level": "5"
 		},
-		"搾": {
-			"simplified": "榨",
-			"meaning": "extract, squeeze",
-			"level": "6"
-		},
 		"榨": {
 			"simplified": "榨",
-			"meaning": "to extract, to squeeze",
+			"meaning": "to extract (juice), to squeeze",
 			"level": "6"
 		},
 		"詐": {
 			"simplified": "诈",
 			"meaning": "to cheat",
 			"level": "6"
+		},
+		"搾": {
+			"simplified": "榨",
+			"meaning": "to press, to squeeze",
+			"level": "9"
 		},
 		"乍": {
 			"simplified": "乍",
@@ -21824,7 +21954,7 @@
 		},
 		"蚱": {
 			"simplified": "蚱",
-			"meaning": "locust",
+			"meaning": "<animal> locust",
 			"level": "9"
 		}
 	},
@@ -21853,12 +21983,12 @@
 		},
 		"嗷": {
 			"simplified": "嗷",
-			"meaning": "(onomatopoeic) wailing, crying",
+			"meaning": "[ono.] wailing, crying",
 			"level": "9"
 		},
 		"敖": {
 			"simplified": "敖",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"翱": {
@@ -21868,7 +21998,7 @@
 		},
 		"聱": {
 			"simplified": "聱",
-			"meaning": "a kind of bird",
+			"meaning": "bent and twisted, complicated",
 			"level": "9"
 		},
 		"遨": {
@@ -21883,7 +22013,7 @@
 		},
 		"鼇": {
 			"simplified": "鳌",
-			"meaning": "giant sea turtle (name of a mythical animal)",
+			"meaning": "<legendary beast> giant sea turtle",
 			"level": "9"
 		}
 	},
@@ -21934,7 +22064,7 @@
 		},
 		"株": {
 			"simplified": "株",
-			"meaning": "tree trunk; (measure word for trees)",
+			"meaning": "tree trunk; [m.w. (for trees)]",
 			"level": "6"
 		},
 		"珠": {
@@ -21969,7 +22099,7 @@
 		},
 		"蛛": {
 			"simplified": "蛛",
-			"meaning": "spider",
+			"meaning": "{bound} <animal> spider",
 			"level": "9"
 		},
 		"誅": {
@@ -22013,7 +22143,7 @@
 		},
 		"蟀": {
 			"simplified": "蟀",
-			"meaning": "(bound) cricket (an animal)",
+			"meaning": "{bound} <animal> cricket",
 			"level": "9"
 		}
 	},
@@ -22032,7 +22162,7 @@
 	"shuǎi": {
 		"甩": {
 			"simplified": "甩",
-			"meaning": "tothrow, swing",
+			"meaning": "to throw, to swing",
 			"level": "5"
 		}
 	},
@@ -22075,7 +22205,7 @@
 		},
 		"頓": {
 			"simplified": "顿",
-			"meaning": "to stop; to stamp (foot); (measure word for meals)",
+			"meaning": "to stop; to stamp (foot); [m.w. (for meals)]",
 			"level": "5"
 		},
 		"鈍": {
@@ -22129,7 +22259,7 @@
 		},
 		"蝦": {
 			"simplified": "虾",
-			"meaning": "shrimp (an animal)",
+			"meaning": "<animal> shrimp",
 			"level": "9"
 		}
 	},
@@ -22175,7 +22305,7 @@
 		},
 		"撐": {
 			"simplified": "撑",
-			"meaning": "support, hold up",
+			"meaning": "to support, to hold up",
 			"level": "6"
 		}
 	},
@@ -22236,7 +22366,7 @@
 		},
 		"詹": {
 			"simplified": "詹",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -22275,7 +22405,7 @@
 		},
 		"鶉": {
 			"simplified": "鹑",
-			"meaning": "quail (a bird)",
+			"meaning": "<bird> quail",
 			"level": "9"
 		}
 	},
@@ -22333,7 +22463,7 @@
 		},
 		"棕": {
 			"simplified": "棕",
-			"meaning": "(a type of tree) palm; brown",
+			"meaning": "<tree> palm; <color> brown",
 			"level": "6"
 		},
 		"蹤": {
@@ -22424,7 +22554,7 @@
 		},
 		"飭": {
 			"simplified": "饬",
-			"meaning": "(archaic) to put in order; order; cautious and respectful",
+			"meaning": "{archaic} to put in order; order; cautious and respectful",
 			"level": "9"
 		}
 	},
@@ -22692,7 +22822,7 @@
 		},
 		"鳳": {
 			"simplified": "凤",
-			"meaning": "Chinese phoenix (name of a mythical animal)",
+			"meaning": "<legendary beast> Chinese phoenix",
 			"level": "9"
 		}
 	},
@@ -22767,7 +22897,7 @@
 		},
 		"崙": {
 			"simplified": "仑",
-			"meaning": "(name of a mountain)",
+			"meaning": "<mount>",
 			"level": "9"
 		},
 		"掄": {
@@ -22794,7 +22924,7 @@
 		},
 		"阮": {
 			"simplified": "阮",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -22847,7 +22977,7 @@
 		},
 		"玀": {
 			"simplified": "猡",
-			"meaning": "(bound) pig",
+			"meaning": "{bound} pig",
 			"level": "9"
 		},
 		"籮": {
@@ -22867,7 +22997,7 @@
 		},
 		"螺": {
 			"simplified": "螺",
-			"meaning": "snail, spiral",
+			"meaning": "<animal> marine snail, whelk",
 			"level": "9"
 		},
 		"鑼": {
@@ -22877,7 +23007,7 @@
 		},
 		"騾": {
 			"simplified": "骡",
-			"meaning": "mule (an animal)",
+			"meaning": "mule <animal>",
 			"level": "9"
 		}
 	},
@@ -22916,7 +23046,7 @@
 		},
 		"陝": {
 			"simplified": "陕",
-			"meaning": "(name of a place)",
+			"meaning": "<place>",
 			"level": "9"
 		}
 	},
@@ -22935,7 +23065,7 @@
 		},
 		"嫘": {
 			"simplified": "嫘",
-			"meaning": "(legendary figure); silkworm goddess",
+			"meaning": "<legendary figure> silkworm goddess",
 			"level": "9"
 		},
 		"縲": {
@@ -22945,7 +23075,7 @@
 		},
 		"羸": {
 			"simplified": "羸",
-			"meaning": "weak; emaciated",
+			"meaning": "weak, emaciated",
 			"level": "9"
 		},
 		"鐳": {
@@ -22984,7 +23114,7 @@
 		},
 		"鼎": {
 			"simplified": "鼎",
-			"meaning": "(name of an ancient cooking vessel)",
+			"meaning": "<ancient cooking vessel>",
 			"level": "9"
 		}
 	},
@@ -23025,7 +23155,7 @@
 	"mán": {
 		"饅": {
 			"simplified": "馒",
-			"meaning": "steamed bun (a food)",
+			"meaning": "steamed bun <food>",
 			"level": "5"
 		},
 		"瞞": {
@@ -23045,7 +23175,7 @@
 		},
 		"鰻": {
 			"simplified": "鳗",
-			"meaning": "eel (a fish)",
+			"meaning": "<fish> eel ",
 			"level": "9"
 		}
 	},
@@ -23128,7 +23258,7 @@
 		},
 		"嚨": {
 			"simplified": "咙",
-			"meaning": "(bound) throat",
+			"meaning": "{bound} throat",
 			"level": "6"
 		},
 		"籠": {
@@ -23216,7 +23346,7 @@
 		},
 		"汝": {
 			"simplified": "汝",
-			"meaning": "(archaic) thou, you",
+			"meaning": "{archaic} thou, you",
 			"level": "9"
 		},
 		"蠕": {
@@ -23388,12 +23518,12 @@
 		},
 		"鴛": {
 			"simplified": "鸳",
-			"meaning": "mandarin duck (a bird)",
+			"meaning": "{bound} <bird> mandarin duck",
 			"level": "9"
 		},
 		"鳶": {
 			"simplified": "鹞",
-			"meaning": "kite (a bird)",
+			"meaning": "<bird> kite",
 			"level": "9"
 		}
 	},
@@ -23424,7 +23554,7 @@
 		},
 		"堪": {
 			"simplified": "堪",
-			"meaning": "endure, bear",
+			"meaning": "to endure, to bear",
 			"level": "6"
 		},
 		"戡": {
@@ -23458,7 +23588,7 @@
 		},
 		"薛": {
 			"simplified": "薛",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"靴": {
@@ -23566,7 +23696,7 @@
 		},
 		"雕": {
 			"simplified": "雕",
-			"meaning": "eagle (a bird); to carve, to engrave",
+			"meaning": "eagle <bird>; to carve, to engrave",
 			"level": "6"
 		},
 		"凋": {
@@ -23613,7 +23743,7 @@
 		},
 		"藺": {
 			"simplified": "蔺",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"躪": {
@@ -23665,7 +23795,7 @@
 	"hōng": {
 		"哄": {
 			"simplified": "哄",
-			"meaning": "(onomatopoeic) roar of laughter",
+			"meaning": "[ono.] roar of laughter",
 			"level": "6"
 		},
 		"烘": {
@@ -23697,7 +23827,7 @@
 		},
 		"蛙": {
 			"simplified": "蛙",
-			"meaning": "frog",
+			"meaning": "<animal> frog",
 			"level": "9"
 		}
 	},
@@ -23730,7 +23860,7 @@
 	"hēng": {
 		"哼": {
 			"simplified": "哼",
-			"meaning": "(onomatopoeic) hum",
+			"meaning": "[ono.] hum",
 			"level": "6"
 		},
 		"亨": {
@@ -23775,7 +23905,7 @@
 	"lǎ": {
 		"喇": {
 			"simplified": "喇",
-			"meaning": "(used in transliterations); trumpet",
+			"meaning": "{transliteration}; trumpet",
 			"level": "6"
 		}
 	},
@@ -23823,7 +23953,7 @@
 	"rǎng": {
 		"嚷": {
 			"simplified": "嚷",
-			"meaning": "shout, yell",
+			"meaning": "to shout, to yell",
 			"level": "6"
 		},
 		"壤": {
@@ -23840,7 +23970,7 @@
 	"jiáo": {
 		"嚼": {
 			"simplified": "嚼",
-			"meaning": "chew, masticate",
+			"meaning": "to chew, to masticate",
 			"level": "6"
 		}
 	},
@@ -23852,7 +23982,7 @@
 		},
 		"鏗": {
 			"simplified": "铿",
-			"meaning": "(onomatopoeic) sound of metal, clang",
+			"meaning": "[ono.] sound of metal, clang",
 			"level": "9"
 		}
 	},
@@ -23876,7 +24006,7 @@
 	"zhuì": {
 		"墜": {
 			"simplified": "坠",
-			"meaning": "fall, drop",
+			"meaning": "to fall, to drop",
 			"level": "6"
 		},
 		"綴": {
@@ -23893,7 +24023,7 @@
 	"chuí": {
 		"垂": {
 			"simplified": "垂",
-			"meaning": "hang, droop",
+			"meaning": "to hang, to droop",
 			"level": "6"
 		},
 		"錘": {
@@ -23913,7 +24043,7 @@
 		},
 		"陲": {
 			"simplified": "陲",
-			"meaning": "(archaic) border",
+			"meaning": "{archaic} border",
 			"level": "9"
 		}
 	},
@@ -23949,7 +24079,7 @@
 	"duò": {
 		"墮": {
 			"simplified": "堕",
-			"meaning": "fall, sink",
+			"meaning": "to fall, to sink",
 			"level": "6"
 		},
 		"惰": {
@@ -23973,23 +24103,6 @@
 			"level": "9"
 		}
 	},
-	"pù": {
-		"堡": {
-			"simplified": "堡",
-			"meaning": "(loanword) port",
-			"level": "6"
-		},
-		"曝": {
-			"simplified": "曝",
-			"meaning": "to dry, to expose",
-			"level": "6"
-		},
-		"瀑": {
-			"simplified": "瀑",
-			"meaning": "waterfall",
-			"level": "6"
-		}
-	},
 	"tǎ": {
 		"塔": {
 			"simplified": "塔",
@@ -23998,14 +24111,14 @@
 		},
 		"獺": {
 			"simplified": "獭",
-			"meaning": "otter (animal)",
+			"meaning": "<animal> otter",
 			"level": "9"
 		}
 	},
 	"sāi": {
 		"塞": {
 			"simplified": "塞",
-			"meaning": "plug, fill",
+			"meaning": "to plug, to fill",
 			"level": "6"
 		},
 		"腮": {
@@ -24047,19 +24160,19 @@
 		},
 		"鞅": {
 			"simplified": "鞅",
-			"meaning": "(archaic) yoke (for draft ox)",
+			"meaning": "{archaic} yoke (for draft ox)",
 			"level": "9"
 		},
 		"鴦": {
 			"simplified": "鸯",
-			"meaning": "mandarin duck (a bird)",
+			"meaning": "{bound} <bird> mandarin duck",
 			"level": "9"
 		}
 	},
 	"duó": {
 		"奪": {
 			"simplified": "夺",
-			"meaning": "seize, snatch",
+			"meaning": "to seize, to snatch",
 			"level": "6"
 		},
 		"踱": {
@@ -24069,7 +24182,7 @@
 		},
 		"鐸": {
 			"simplified": "铎",
-			"meaning": "(archaic) large bell (a musical instrument)",
+			"meaning": "{archaic} large bell (a musical instrument)",
 			"level": "9"
 		}
 	},
@@ -24143,14 +24256,14 @@
 		},
 		"翟": {
 			"simplified": "翟",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
 	"shěn": {
 		"審": {
 			"simplified": "审",
-			"meaning": "examine, judge",
+			"meaning": "to examine, to judge",
 			"level": "6"
 		},
 		"哂": {
@@ -24165,7 +24278,7 @@
 		},
 		"瀋": {
 			"simplified": "沈",
-			"meaning": "(a surname)",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -24303,7 +24416,7 @@
 		},
 		"螂": {
 			"simplified": "螂",
-			"meaning": "mantis (an animal)",
+			"meaning": "<animal> mantis",
 			"level": "9"
 		}
 	},
@@ -24336,13 +24449,6 @@
 			"level": "9"
 		}
 	},
-	"ēn": {
-		"恩": {
-			"simplified": "恩",
-			"meaning": "grace",
-			"level": "6"
-		}
-	},
 	"qià": {
 		"恰": {
 			"simplified": "恰",
@@ -24351,14 +24457,14 @@
 		},
 		"洽": {
 			"simplified": "洽",
-			"meaning": "satisfy",
+			"meaning": "extensive; in harmony; to consult with",
 			"level": "6"
 		}
 	},
 	"xuán": {
 		"懸": {
 			"simplified": "悬",
-			"meaning": "suspend, hang",
+			"meaning": "to suspend, to hang",
 			"level": "6"
 		},
 		"旋": {
@@ -24387,7 +24493,7 @@
 	"rě": {
 		"惹": {
 			"simplified": "惹",
-			"meaning": "provoke, cause",
+			"meaning": "to provoke, to cause",
 			"level": "6"
 		}
 	},
@@ -24433,7 +24539,7 @@
 		},
 		"鱉": {
 			"simplified": "鳖",
-			"meaning": "softshell turtle (an animal)",
+			"meaning": "<animal> softshell turtle",
 			"level": "9"
 		}
 	},
@@ -24457,7 +24563,7 @@
 	"zā": {
 		"紮": {
 			"simplified": "扎",
-			"meaning": "to bind, to tie; (measure word) bundle",
+			"meaning": "to bind, to tie; [m.w.] bundle",
 			"level": "6"
 		},
 		"匝": {
@@ -24479,7 +24585,7 @@
 		},
 		"喳": {
 			"simplified": "喳",
-			"meaning": "(onomatopoeic) chirping, chattering",
+			"meaning": "[ono.] chirping, chattering",
 			"level": "9"
 		}
 	},
@@ -24496,7 +24602,7 @@
 		},
 		"噗": {
 			"simplified": "噗",
-			"meaning": "(onomatopoeic) puff, pop",
+			"meaning": "[ono.] puff, pop",
 			"level": "9"
 		}
 	},
@@ -24532,7 +24638,7 @@
 	"niǔ": {
 		"扭": {
 			"simplified": "扭",
-			"meaning": "twist",
+			"meaning": "to twist",
 			"level": "6"
 		},
 		"紐": {
@@ -24556,7 +24662,7 @@
 	"kàng": {
 		"抗": {
 			"simplified": "抗",
-			"meaning": "resist, oppose",
+			"meaning": "to resist, to oppose",
 			"level": "6"
 		},
 		"伉": {
@@ -24613,7 +24719,7 @@
 	"kuà": {
 		"挎": {
 			"simplified": "挎",
-			"meaning": "tp carry (on arm/over shoulder)",
+			"meaning": "to carry (on arm/over shoulder)",
 			"level": "6"
 		},
 		"跨": {
@@ -24625,7 +24731,7 @@
 	"náo": {
 		"撓": {
 			"simplified": "挠",
-			"meaning": "scratch, twist",
+			"meaning": "to scratch, to twist",
 			"level": "6"
 		},
 		"呶": {
@@ -24635,7 +24741,7 @@
 		},
 		"鐃": {
 			"simplified": "铙",
-			"meaning": "(archaic) large cymbal (a musical instrument)",
+			"meaning": "{archaic} large cymbal (a musical instrument)",
 			"level": "9"
 		}
 	},
@@ -24669,7 +24775,7 @@
 		},
 		"娜": {
 			"simplified": "娜",
-			"meaning": "(woman's bearing) lithe and graceful",
+			"meaning": "{bound} (woman's bearing) lithe and graceful",
 			"level": "9"
 		}
 	},
@@ -24681,7 +24787,7 @@
 		},
 		"梱": {
 			"simplified": "梱",
-			"meaning": "(archaic) door sill",
+			"meaning": "{archaic} door sill",
 			"level": "9"
 		}
 	},
@@ -24730,14 +24836,14 @@
 	"lǒu": {
 		"摟": {
 			"simplified": "搂",
-			"meaning": "hug, embrace",
+			"meaning": "to hug, to embrace",
 			"level": "6"
 		}
 	},
 	"cuō": {
 		"搓": {
 			"simplified": "搓",
-			"meaning": "rub, knead",
+			"meaning": "to rub, to knead",
 			"level": "6"
 		},
 		"磋": {
@@ -24759,26 +24865,26 @@
 	"dā": {
 		"搭": {
 			"simplified": "搭",
-			"meaning": "build, assemble",
+			"meaning": "to build, to assemble",
 			"level": "6"
 		}
 	},
 	"piě": {
 		"撇": {
 			"simplified": "撇",
-			"meaning": "sweep, slant",
+			"meaning": "to sweep, to slant",
 			"level": "6"
 		}
 	},
 	"sā": {
 		"撒": {
 			"simplified": "撒",
-			"meaning": "scatter, sprinkle",
+			"meaning": "to scatter, to sprinkle",
 			"level": "6"
 		},
 		"裟": {
 			"simplified": "裟",
-			"meaning": "a kind of robe",
+			"meaning": "(a kind of robe)",
 			"level": "9"
 		}
 	},
@@ -24816,7 +24922,7 @@
 		},
 		"倀": {
 			"simplified": "伥",
-			"meaning": "(name of a ghost)",
+			"meaning": "<ghost>",
 			"level": "9"
 		},
 		"娼": {
@@ -24836,7 +24942,7 @@
 		},
 		"鯧": {
 			"simplified": "鲳",
-			"meaning": "scad (a fish)",
+			"meaning": "<fish> scad",
 			"level": "9"
 		}
 	},
@@ -24849,6 +24955,18 @@
 		"㨪": {
 			"simplified": "晃",
 			"meaning": "to shake",
+			"level": "6"
+		}
+	},
+	"pù": {
+		"曝": {
+			"simplified": "曝",
+			"meaning": "to dry, to expose",
+			"level": "6"
+		},
+		"瀑": {
+			"simplified": "瀑",
+			"meaning": "waterfall",
 			"level": "6"
 		}
 	},
@@ -24869,7 +24987,7 @@
 	"sāng": {
 		"桑": {
 			"simplified": "桑",
-			"meaning": "mulberry (a type of tree)",
+			"meaning": "<tree> mulberry",
 			"level": "6"
 		}
 	},
@@ -24895,7 +25013,7 @@
 		},
 		"倪": {
 			"simplified": "倪",
-			"meaning": "(a surname）",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"尼": {
@@ -24915,6 +25033,11 @@
 			"meaning": "muddy, turbid",
 			"level": "6"
 		},
+		"混": {
+			"simplified": "混",
+			"meaning": "muddy",
+			"level": "6"
+		},
 		"魂": {
 			"simplified": "魂",
 			"meaning": "soul; spirit",
@@ -24922,14 +25045,14 @@
 		},
 		"餛": {
 			"simplified": "馄",
-			"meaning": "dumpling, wonton (a food)",
+			"meaning": "dumpling, wonton <food>",
 			"level": "9"
 		}
 	},
 	"shuàn": {
 		"涮": {
 			"simplified": "涮",
-			"meaning": "rinse",
+			"meaning": "to rinse",
 			"level": "6"
 		}
 	},
@@ -24943,7 +25066,7 @@
 	"hùn": {
 		"混": {
 			"simplified": "混",
-			"meaning": "mix",
+			"meaning": "to mix",
 			"level": "6"
 		},
 		"琿": {
@@ -24970,12 +25093,12 @@
 		},
 		"瞿": {
 			"simplified": "瞿",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"衢": {
 			"simplified": "衢",
-			"meaning": "crossroads",
+			"meaning": "thoroughfare, street",
 			"level": "9"
 		}
 	},
@@ -25035,7 +25158,7 @@
 		},
 		"盧": {
 			"simplified": "卢",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"廬": {
@@ -25044,13 +25167,13 @@
 			"level": "9"
 		},
 		"臚": {
-			"simplified": "臚",
-			"meaning": "a kind of utensil",
+			"simplified": "胪",
+			"meaning": "belly, skin; to state",
 			"level": "9"
 		},
 		"蘆": {
 			"simplified": "芦",
-			"meaning": "reed",
+			"meaning": "<plant> reed",
 			"level": "9"
 		},
 		"顱": {
@@ -25060,7 +25183,7 @@
 		},
 		"鱸": {
 			"simplified": "鲈",
-			"meaning": "bass (a fish)",
+			"meaning": "<fish> bass",
 			"level": "9"
 		}
 	},
@@ -25099,7 +25222,7 @@
 		},
 		"砰": {
 			"simplified": "砰",
-			"meaning": "(onomatopoeic) bang",
+			"meaning": "[ono.] bang",
 			"level": "9"
 		}
 	},
@@ -25205,7 +25328,7 @@
 		},
 		"矇": {
 			"simplified": "矇",
-			"meaning": "(bound) faint, fuzzy, blurred",
+			"meaning": "{bound} faint, fuzzy, blurred",
 			"level": "9"
 		}
 	},
@@ -25224,7 +25347,7 @@
 		},
 		"嘟": {
 			"simplified": "嘟",
-			"meaning": "(onomatopoeic) toot, honk",
+			"meaning": "[ono.] toot, honk",
 			"level": "9"
 		},
 		"櫝": {
@@ -25255,13 +25378,13 @@
 			"level": "9"
 		},
 		"嶝": {
-			"simplified": "邓",
+			"simplified": "嶝",
 			"meaning": "ridge, hill",
 			"level": "9"
 		},
 		"鄧": {
 			"simplified": "邓",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -25285,7 +25408,7 @@
 		},
 		"喔": {
 			"simplified": "喔",
-			"meaning": "(onomatopoeic) crowing of a cock",
+			"meaning": "[ono.] crowing of a cock",
 			"level": "9"
 		},
 		"渦": {
@@ -25295,7 +25418,7 @@
 		},
 		"蝸": {
 			"simplified": "蜗",
-			"meaning": "snail (an animal)",
+			"meaning": "<animal> snail",
 			"level": "9"
 		}
 	},
@@ -25399,7 +25522,7 @@
 		},
 		"蟬": {
 			"simplified": "蝉",
-			"meaning": "cicada",
+			"meaning": "<animal> cicada",
 			"level": "9"
 		},
 		"讒": {
@@ -25437,6 +25560,11 @@
 			"simplified": "胎",
 			"meaning": "fetus",
 			"level": "6"
+		},
+		"苔": {
+			"simplified": "苔",
+			"meaning": "{bound} coating (on tongue)",
+			"level": "9"
 		}
 	},
 	"nì": {
@@ -25486,7 +25614,7 @@
 	"sāo": {
 		"艘": {
 			"simplified": "艘",
-			"meaning": "measure word for ships",
+			"meaning": "[m.w. (for ships)]",
 			"level": "6"
 		},
 		"騷": {
@@ -25540,7 +25668,7 @@
 		},
 		"魯": {
 			"simplified": "鲁",
-			"meaning": "(name of an ancient state); imprudent; dullwitted",
+			"meaning": "<ancient state>; imprudent; dullwitted",
 			"level": "6"
 		},
 		"擄": {
@@ -25707,7 +25835,7 @@
 		},
 		"啪": {
 			"simplified": "啪",
-			"meaning": "(onomatopoeic) sound of slap",
+			"meaning": "[ono.] sound of slap",
 			"level": "9"
 		},
 		"葩": {
@@ -25770,7 +25898,7 @@
 		},
 		"馮": {
 			"simplified": "冯",
-			"meaning": "to cross (river) on foot; (a surname)",
+			"meaning": "to cross (river) on foot; <surname>",
 			"level": "9"
 		}
 	},
@@ -25790,6 +25918,11 @@
 		"蜇": {
 			"simplified": "蜇",
 			"meaning": "to sting",
+			"level": "9"
+		},
+		"螫": {
+			"simplified": "螫",
+			"meaning": "(bee/spider) to sting, to bite",
 			"level": "9"
 		}
 	},
@@ -25839,7 +25972,7 @@
 	"lōng": {
 		"隆": {
 			"simplified": "隆",
-			"meaning": "(onomatopoeic) sound of drum",
+			"meaning": "[ono.] sound of drum",
 			"level": "6"
 		}
 	},
@@ -25858,7 +25991,7 @@
 		},
 		"俄": {
 			"simplified": "俄",
-			"meaning": "instantly, suddenly; (short for) Russia (transliteration)",
+			"meaning": "instantly, suddenly; {transliteration} (short for) Russia",
 			"level": "9"
 		},
 		"娥": {
@@ -25873,7 +26006,7 @@
 		},
 		"蛾": {
 			"simplified": "蛾",
-			"meaning": "moth",
+			"meaning": "<animal> moth",
 			"level": "9"
 		},
 		"訛": {
@@ -25883,7 +26016,7 @@
 		},
 		"鵝": {
 			"simplified": "鹅",
-			"meaning": "goose (a bird)",
+			"meaning": "<bird> goose",
 			"level": "9"
 		}
 	},
@@ -25916,29 +26049,62 @@
 			"level": "6"
 		}
 	},
+	"shǎi": {
+		"色": {
+			"simplified": "色",
+			"meaning": "dice",
+			"level": "9"
+		}
+	},
+	"pēi": {
+		"坏": {
+			"simplified": "坏",
+			"meaning": "unfinished clay vessel",
+			"level": "9"
+		},
+		"呸": {
+			"simplified": "呸",
+			"meaning": "[ono.] spit (out of disgust)",
+			"level": "9"
+		},
+		"胚": {
+			"simplified": "胚",
+			"meaning": "embryo",
+			"level": "9"
+		}
+	},
+	"cēn": {
+		"參": {
+			"simplified": "参",
+			"meaning": "{bound} uneven, ragged",
+			"level": "9"
+		}
+	},
+	"zhuǎi": {
+		"跩": {
+			"simplified": "跩",
+			"meaning": "to waddle; cocky",
+			"level": "9"
+		}
+	},
 	"gèn": {
 		"亙": {
 			"simplified": "亘",
 			"meaning": "to extend across",
-			"level": "9"
-		},
-		"艮": {
-			"simplified": "艮",
-			"meaning": "tough",
 			"level": "9"
 		}
 	},
 	"zè": {
 		"仄": {
 			"simplified": "仄",
-			"meaning": "slanting",
+			"meaning": "slanting, inclined",
 			"level": "9"
 		}
 	},
 	"qié": {
 		"伽": {
 			"simplified": "伽",
-			"meaning": "yoga (loanword)",
+			"meaning": "{transliteration}",
 			"level": "9"
 		},
 		"茄": {
@@ -25965,7 +26131,7 @@
 		},
 		"陀": {
 			"simplified": "陀",
-			"meaning": "(archaic) slanted, skew",
+			"meaning": "{archaic} slanted, skew",
 			"level": "9"
 		},
 		"馱": {
@@ -25975,12 +26141,12 @@
 		},
 		"駝": {
 			"simplified": "驼",
-			"meaning": "camel (an animal)",
+			"meaning": "camel <animal>",
 			"level": "9"
 		},
 		"鴕": {
 			"simplified": "鸵",
-			"meaning": "ostrich (a bird)",
+			"meaning": "<bird> ostrich",
 			"level": "9"
 		}
 	},
@@ -26051,7 +26217,7 @@
 		},
 		"颯": {
 			"simplified": "飒",
-			"meaning": "(onomatopoeic) sound of wind; valiant",
+			"meaning": "[ono.] sound of wind; valiant",
 			"level": "9"
 		}
 	},
@@ -26105,18 +26271,6 @@
 			"level": "9"
 		}
 	},
-	"pēi": {
-		"呸": {
-			"simplified": "呸",
-			"meaning": "(onomatopoeic) spit (out of disgust)",
-			"level": "9"
-		},
-		"胚": {
-			"simplified": "胚",
-			"meaning": "embryo",
-			"level": "9"
-		}
-	},
 	"lie": {
 		"咧": {
 			"simplified": "咧",
@@ -26141,7 +26295,7 @@
 	"mī": {
 		"咪": {
 			"simplified": "咪",
-			"meaning": "(onomatopoeic) sound of cat, meow",
+			"meaning": "[ono.] sound of cat, meow",
 			"level": "9"
 		},
 		"瞇": {
@@ -26172,7 +26326,7 @@
 	"lī": {
 		"哩": {
 			"simplified": "哩",
-			"meaning": "(onomatopoeic) exclamation",
+			"meaning": "[ono.] exclamation",
 			"level": "9"
 		}
 	},
@@ -26194,7 +26348,7 @@
 		},
 		"齪": {
 			"simplified": "龊",
-			"meaning": "(bound) small-minded; dirty",
+			"meaning": "{bound} small-minded; dirty",
 			"level": "9"
 		}
 	},
@@ -26213,14 +26367,14 @@
 	"miāo": {
 		"喵": {
 			"simplified": "喵",
-			"meaning": "(onomatopoeic) sound of cat, meow",
+			"meaning": "[ono.] sound of cat, meow",
 			"level": "9"
 		}
 	},
 	"wēng": {
 		"嗡": {
 			"simplified": "嗡",
-			"meaning": "(onomatopoeic) buzzing sound",
+			"meaning": "[ono.] buzzing sound",
 			"level": "9"
 		},
 		"翁": {
@@ -26242,12 +26396,12 @@
 		},
 		"聶": {
 			"simplified": "聂",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"臬": {
 			"simplified": "臬",
-			"meaning": "(archaic) arrow target; standard, criterion; limit",
+			"meaning": "{archaic} arrow target; standard, criterion; limit",
 			"level": "9"
 		},
 		"躡": {
@@ -26315,7 +26469,7 @@
 		},
 		"飩": {
 			"simplified": "饨",
-			"meaning": "dumpling, wonton (a food)",
+			"meaning": "dumpling, wonton <food>",
 			"level": "9"
 		}
 	},
@@ -26339,14 +26493,14 @@
 		},
 		"耿": {
 			"simplified": "耿",
-			"meaning": "firm",
+			"meaning": "bright, briliant; honest, upright",
 			"level": "9"
 		}
 	},
 	"kuí": {
 		"夔": {
 			"simplified": "夔",
-			"meaning": "(legendary one-legged beast); solemn",
+			"meaning": "<legendary beast>; solemn",
 			"level": "9"
 		},
 		"奎": {
@@ -26409,7 +26563,7 @@
 	"ē": {
 		"婀": {
 			"simplified": "婀",
-			"meaning": "(woman's bearing) lithe and graceful",
+			"meaning": "{bound} (woman's bearing) lithe and graceful",
 			"level": "9"
 		}
 	},
@@ -26460,12 +26614,12 @@
 		},
 		"鑾": {
 			"simplified": "銮",
-			"meaning": "(archaic) small tinkling bell (on imperial carriage)",
+			"meaning": "{archaic} small tinkling bell (on imperial carriage)",
 			"level": "9"
 		},
 		"鸞": {
 			"simplified": "鸾",
-			"meaning": "(name of a mythical animal)",
+			"meaning": "<legendary beast>",
 			"level": "9"
 		}
 	},
@@ -26540,7 +26694,7 @@
 	"sào": {
 		"掃": {
 			"simplified": "扫",
-			"meaning": "broom (a tool)",
+			"meaning": "broom <tool>",
 			"level": "9"
 		}
 	},
@@ -26669,9 +26823,14 @@
 			"meaning": "to bury, to funeral",
 			"level": "9"
 		},
+		"髕": {
+			"simplified": "髌",
+			"meaning": "kneecap; <punishment> to cut the kneecap",
+			"level": "9"
+		},
 		"臏": {
-			"simplified": "臏",
-			"meaning": "a kind of tool",
+			"simplified": "膑",
+			"meaning": "kneecap; <punishment> to cut the kneecap",
 			"level": "9"
 		},
 		"鬢": {
@@ -26683,7 +26842,7 @@
 	"wāng": {
 		"汪": {
 			"simplified": "汪",
-			"meaning": "(water) deep and vast; a surname",
+			"meaning": "(water) deep and vast; <surname>",
 			"level": "9"
 		}
 	},
@@ -26836,6 +26995,13 @@
 			"level": "9"
 		}
 	},
+	"gěn": {
+		"艮": {
+			"simplified": "艮",
+			"meaning": "blunt, tough",
+			"level": "9"
+		}
+	},
 	"mǎng": {
 		"莽": {
 			"simplified": "莽",
@@ -26844,12 +27010,12 @@
 		},
 		"蜢": {
 			"simplified": "蜢",
-			"meaning": "grasshopper",
+			"meaning": "<animal> grasshopper",
 			"level": "9"
 		},
 		"蟒": {
 			"simplified": "蟒",
-			"meaning": "python",
+			"meaning": "<animal> python",
 			"level": "9"
 		}
 	},
@@ -26877,7 +27043,7 @@
 	"hān": {
 		"蚶": {
 			"simplified": "蚶",
-			"meaning": "clam",
+			"meaning": "<animal> clam",
 			"level": "9"
 		},
 		"酣": {
@@ -26894,7 +27060,7 @@
 	"há": {
 		"蛤": {
 			"simplified": "蛤",
-			"meaning": "mussel",
+			"meaning": "<animal> mussel",
 			"level": "9"
 		}
 	},
@@ -26941,12 +27107,12 @@
 	"zōu": {
 		"鄒": {
 			"simplified": "邹",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		},
 		"鄹": {
 			"simplified": "鄹",
-			"meaning": "a surname",
+			"meaning": "<surname>",
 			"level": "9"
 		}
 	},
@@ -26981,7 +27147,7 @@
 	"lǘ": {
 		"驢": {
 			"simplified": "驴",
-			"meaning": "donkey (an animal)",
+			"meaning": "donkey <animal>",
 			"level": "9"
 		}
 	},

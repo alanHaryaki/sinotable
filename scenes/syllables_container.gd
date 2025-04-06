@@ -68,7 +68,7 @@ func _draw() -> void:
 	for i in range(18):
 		points.append(Vector2(0, 40 * i))
 		points.append(Vector2(64 * 6, 40 * i))
-	draw_multiline(points, Color.BLACK, 0.5, true)
+	draw_multiline(points, Color.BLACK, 0.3, true)
 	var thick_points: PackedVector2Array = [
 		Vector2(0, 0), Vector2(64 * 6, 0),
 		Vector2(0, 40), Vector2(64 * 6, 40),
@@ -82,4 +82,4 @@ func _draw() -> void:
 		Vector2(64, 0), Vector2(64, 40 * 18),
 		Vector2(64 * 6, 0), Vector2(64 * 6, 40 * 18),
 	]
-	draw_multiline(thick_points, Color.BLACK, 1, true)
+	draw_multiline(thick_points, Color.BLACK, 2, true)

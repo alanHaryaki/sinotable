@@ -12,6 +12,9 @@ func _ready() -> void:
 	%SyllablesContainer.populate(self)
 	%OnsetsContainer.populate(self)
 	%TonesContainer.populate(self)
+	%SettingsContainer.populate(self)
+	%SettingsContainer.load_settings()
+	%MenuPanel.visible = false
 
 
 func load_dict() -> void:
@@ -52,3 +55,8 @@ func on_syllable_pressed(syllable: String) -> void:
 	if current_onset and current_tone:
 		%DisplayContainer.display(syllable)
 		%SyllableAudioPlayer.play_syllable_audio(syllable)
+
+
+func on_menu_button_pressed() -> void:
+	%InfoPanel.visible = not %InfoPanel.visible
+	%SettingsContainer.load_settings()

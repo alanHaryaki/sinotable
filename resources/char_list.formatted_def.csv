@@ -11,10 +11,10 @@
 麼,me,么,1,[suf. (for pronouns/adjectives)]
 九,jiǔ,九,1,[num.] nine
 習,xí,习,1,to practice; practice
-書,shū,书,1,book; to write
+書,shū,书,1,to write; book
 買,mǎi,买,1,to buy
 了,le,了,1,[perfective p.]
-瞭,liǎo,了,1,"to understand, to know clearly6"
+瞭,liǎo,了,1,"to understand, to know clearly"
 了,liǎo,了,1,to finish
 二,èr,二,1,[num.] two
 五,wǔ,五,1,[num.] five
@@ -43,11 +43,11 @@
 寫,xiě,写,1,to write
 冷,lěng,冷,1,cold
 几,jǐ,几,1,"[q.p.] how many; several, a few"
-幾,jī,几,1,small table
+幾,jī,几,9,small table
 幾,jī,几,1,almost
 出,chū,出,1,"to exit, to go out"
 齣,chū,出,1,to appear
-分,fēn,分,1,minute; to divide
+分,fēn,分,1,to divide; [unit of time] minute
 前,qián,前,1,"before, front"
 北,běi,北,1,north
 醫,yī,医,1,"medicine, heal, doctor"
@@ -193,7 +193,7 @@
 飯,fàn,饭,1,{archaic} cooked rice <food>; meal
 高,gāo,高,1,"tall, high"
 〇,zero,〇,1,<num.> zero
-丈,zhàng,丈,2,(unit of measure) ten feet; elder male
+丈,zhàng,丈,2,[unit of length] ten feet; elder male
 兩,liǎng,两,2,[num.] two; both
 爲,wéi,为,2,as
 爲,wèi,为,2,for
@@ -519,13 +519,13 @@
 放,fàng,放,3,to put; to release
 故,gù,故,3,"cause, reason"
 數,shù,数,3,number
-數,shǔ,数,3,"count, calculate"
+數,shǔ,数,3,"to count, tp calculate"
 文,wén,文,3,"writing, literature; culture"
 料,liào,料,3,"material; to expect, to anticipate"
-斤,jīn,斤,3,catty (weight unit)
+斤,jīn,斤,3,[unit of weight] catty
 方,fāng,方,3,square; direction
 舊,jiù,旧,3,old (used)
-易,yì,易,3,easy; exchange
+易,yì,易,3,"easy; to change, to exchange"
 春,chūn,春,3,spring (season)
 更,gèng,更,3,more
 更,gēng,更,3,to change; experience
@@ -535,13 +535,13 @@
 束,shù,束,3,"bundle, bind"
 板,bǎn,板,3,"board, plank"
 闆,bǎn,板,3,{bound} boss
-極,jí,极,3,extreme
+極,jí,极,3,utmost point; to reach the limit; extreme
 查,chá,查,3,to check
 樹,shù,树,3,tree
-根,gēn,根,3,root
+根,gēn,根,3,root (of tree)
 梯,tī,梯,3,ladder
 檢,jiǎn,检,3,"to inspect, to check"
-楚,chǔ,楚,3,state of Chu
+楚,chǔ,楚,3,<ancient state>
 樓,lóu,楼,3,"building, floor"
 段,duàn,段,3,section
 求,qiú,求,3,to request
@@ -558,16 +558,15 @@
 鍊,liàn,炼,3,to refine
 燒,shāo,烧,3,"to burn, to roast"
 照,zhào,照,3,"to shine, to illuminate"
-熊,xióng,熊,3,bear
+熊,xióng,熊,3,<animal> bear
 爬,pá,爬,3,"to crawl, to climb"
-爷,yé,爷,3,grandfather (paternal)
-爺,yé,爷,3,"grandfather, old man"
-片,piàn,片,3,"slice, piece"
+爺,yé,爷,3,"grandfather (paternal), old man"
+片,piàn,片,3,"[m.w. (for flake-shaped objects/area)] slice, piece"
 牙,yá,牙,3,tooth
 物,wù,物,3,"thing, object"
 特,tè,特,3,special
-環,huán,环,3,"ring, loop"
-理,lǐ,理,3,reason
+環,huán,环,3,"ring, loop; to surround, to encircle"
+理,lǐ,理,3,"texture; reason, truth; to manage, to put in order"
 瓶,píng,瓶,3,bottle
 甜,tián,甜,3,sweet
 用,yòng,用,3,use; to use
@@ -576,9 +575,9 @@
 留,liú,留,3,to stay
 疼,téng,疼,3,"to ache, to hurt; to love, to dote on"
 瘦,shòu,瘦,3,"to lose weight, to slim"
-皮,pí,皮,3,skin
+皮,pí,皮,3,"skin, leather"
 盤,pán,盘,3,"plate, tray"
-目,mù,目,3,eye
+目,mù,目,3,<classical> eye
 直,zhí,直,3,straight
 相,xiàng,相,3,"appearance, took; to observe, to appraise; phase"
 相,xiāng,相,3,mutually; toward; to evaluate (by seeing for oneself)
@@ -630,8 +629,8 @@
 行,xíng,行,3,"to wark; okay, alright"
 街,jiē,街,3,street
 衫,shān,衫,3,shirt
-襯,chèn,衬,3,to line (a garment)
-被,bèi,被,3,"to cover, quilt"
+襯,chèn,衬,3,"(garment) against the skin, to line; to contrast with"
+被,bèi,被,3,to cover; quilt
 裙,qún,裙,3,skirt
 褲,kù,裤,3,pants
 角,jiǎo,角,3,horn; angle
@@ -729,14 +728,14 @@
 供,gòng,供,4,offerings; to confess
 供,gōng,供,4,"to provide, to offer"
 保,bǎo,保,4,to protect
-倆,liǎ,俩,4,two
+倆,liǎ,俩,4,"[suf. (for plurality, two)] two"
 修,xiū,修,4,to decorate; to repair; to study; long
 倍,bèi,倍,4,times (multiplier)
 倒,dào,倒,4,to pour; reverse
 值,zhí,值,4,to be worth; value
 停,tíng,停,4,to stop
-偶,ǒu,偶,4,occasionally
-傅,fù,傅,4,tutor; to transmit
+偶,ǒu,偶,4,"idol, image; even (number); mate, pair; by chance, accidentally"
+傅,fù,傅,4,"tutor, instructor"
 傲,ào,傲,4,"proud, arrogant"
 允,yǔn,允,4,to permit
 光,guāng,光,4,light
@@ -745,7 +744,7 @@
 免,miǎn,免,4,"to exempt, to avoid"
 入,rù,入,4,to enter
 全,quán,全,4,"whole, entire; complete"
-具,jù,具,4,tool
+具,jù,具,4,"to possess, to have; tool, device"
 養,yǎng,养,4,raise (animals/children)
 內,nèi,内,4,inside
 況,kuàng,况,4,"situation, condition"
@@ -753,16 +752,16 @@
 減,jiǎn,减,4,to reduce
 刀,dāo,刀,4,knife
 切,qiè,切,4,"must; close to; urgent, eager"
-切,qiē,切,4,cut
+切,qiē,切,4,to cut
 划,huá,划,4,to row
-劃,huá,划,4,"row, paddle"
-劃,huà,划,4,"plan, mark"
+劃,huá,划,4,"to row, to paddle"
+劃,huà,划,4,to plan; to mark
 列,liè,列,4,"row, rank; to list"
 則,zé,则,4,"rule, law; then; while (contrast)"
 判,pàn,判,4,"to judge, to decide"
 利,lì,利,4,"benefit, profit; to benefit"
 劇,jù,剧,4,"drama, play"
-剩,shèng,剩,4,"remain, surplus"
+剩,shèng,剩,4,"to remain, to be left"
 功,gōng,功,4,achievement
 勵,lì,励,4,"encourage, urge"
 勇,yǒng,勇,4,brave
@@ -780,19 +779,19 @@
 卻,què,却,4,"however, but; to go back; to decline"
 廳,tīng,厅,4,"hall, office"
 厲,lì,厉,4,"strict, severe"
-壓,yā,压,4,"press, oppress"
-厭,yàn,厌,4,"dislike, detest"
+壓,yā,压,4,"to press, to oppress"
+厭,yàn,厌,4,"to dislike, to detest"
 廁,cè,厕,4,toilet
 厚,hòu,厚,4,thick; generous
 原,yuán,原,4,"origin, raw; former; open country, plain"
 廚,chú,厨,4,kitchen
 及,jí,及,4,and; reach
 反,fǎn,反,4,opposite
-取,qǔ,取,4,"take, obtain"
-受,shòu,受,4,receive
+取,qǔ,取,4,"to take, to obtain"
+受,shòu,受,4,to receive
 另,lìng,另,4,"other, another"
 臺,tái,台,4,"platform, stage"
-颱,tái,台,4,typhoon
+颱,tái,台,9,<bound> typhoon
 葉,yè,叶,4,leaf
 各,gè,各,4,"each, every"
 合,hé,合,4,to combine; to fit
@@ -800,14 +799,14 @@
 否,fǒu,否,4,no; to deny
 吸,xī,吸,4,to inhale
 呀,yā,呀,4,(exclamation) ah
-味,wèi,味,4,taste
+味,wèi,味,4,"taste, smell"
 呼,hū,呼,4,to call; to exhale
 命,mìng,命,4,"fate; life; to order, to command"
 咱,zán,咱,4,we
 咳,ké,咳,4,cough
 鹹,xián,咸,4,salty
-咸,xián,咸,4,all
-售,shòu,售,4,sell
+咸,xián,咸,9,<archaic> all
+售,shòu,售,4,to sell
 嗽,sòu,嗽,4,cough
 困,kùn,困,4,"to trap, to surround"
 睏,kùn,困,4,"sleepy, tired"
@@ -824,8 +823,8 @@
 士,shì,士,4,scholar; soldier
 處,chù,处,4,to handle; to manage
 夠,gòu,够,4,enough
-失,shī,失,4,"lose, miss"
-奮,fèn,奋,4,"strive, exert"
+失,shī,失,4,"to lose, to miss"
+奮,fèn,奋,4,"to strive, to exert"
 獎,jiǎng,奖,4,"to reward, to prize"
 存,cún,存,4,"to exist, to deposit"
 孫,sūn,孙,4,"grandson, descendant"
@@ -833,8 +832,8 @@
 密,mì,密,4,secret
 富,fù,富,4,"rich, wealthy"
 寒,hán,寒,4,"cold, poor"
-察,chá,察,4,"observe, inspect"
-導,dǎo,导,4,"guide, lead"
+察,chá,察,4,"to observe, to inspect"
+導,dǎo,导,4,"to guide, to lead"
 封,fēng,封,4,seal; to seal
 將,jiàng,将,4,"general, high ranking officer"
 將,jiāng,将,4,"will, be about to; with; to use, to get"
@@ -862,13 +861,14 @@
 度,dù,度,4,"degree, extent"
 座,zuò,座,4,seat
 建,jiàn,建,4,to build
-棄,qì,弃,4,abandon
+棄,qì,弃,4,to abandon
 弄,nòng,弄,4,to do; to play with
 式,shì,式,4,style; formula
 引,yǐn,引,4,"to lead, to guide"
-彈,tán,弹,4,"string instrument, shoot"
+彈,dàn,弹,9,"bullet, ball"
+彈,tán,弹,4,"to pluck (string), to play (string instrument); to spring"
 彩,cǎi,彩,4,(bright) color
-律,lǜ,律,4,law
+律,lǜ,律,4,"law, pattern"
 微,wēi,微,4,"small, tiny"
 憶,yì,忆,4,"remember, recall"
 志,zhì,志,4,"will, ambition"
@@ -896,9 +896,11 @@
 擾,ráo,扰,4,"to disturb, to interfere"
 批,pī,批,4,to criticize; [m.w. (for batches)]
 技,jì,技,4,"skill, technique"
+折,shé,折,9,to break; to lose money
 折,zhé,折,4,"to break, to fold"
-摺,zhé,折,4,"fold, bend"
-擡,tái,抬,4,"to lift, to carry"
+摺,zhé,折,4,"to fold, to bend"
+抬,tái,抬,4,"to lift, to carry"
+擡,tái,抬,9,"to lift, to carry"
 抱,bào,抱,4,"to embrace, to hug"
 抽,chōu,抽,4,"to pull, to draw out"
 拉,lā,拉,4,to pull
@@ -910,7 +912,7 @@
 指,zhǐ,指,4,finger; to point to
 按,àn,按,4,to press
 挺,tǐng,挺,4,to straighten
-授,shòu,授,4,grant
+授,shòu,授,4,to grant
 掉,diào,掉,4,"to fall, to drop"
 排,pái,排,4,to arrange
 推,tuī,推,4,to push
@@ -936,11 +938,11 @@
 術,shù,术,4,"art, technique"
 雜,zá,杂,4,"mixed, miscellaneous; to mix"
 材,cái,材,4,timber; material
-松,sōng,松,4,pine tree (type of a tree)
+松,sōng,松,4,<tree> pine tree
 鬆,sōng,松,4,"loose; to loosen, to relax"
 林,lín,林,4,forest
-染,rǎn,染,4,dye
-柿,shì,柿,4,persimmon <tree>
+染,rǎn,染,4,to dye; to catch (disease)
+柿,shì,柿,4,<tree> <fruit> persimmon
 標,biāo,标,4,"standard, sign"
 格,gé,格,4,standard
 案,àn,案,4,"wooden tray, desk; case; record; plan"
@@ -952,11 +954,11 @@
 棵,kuò,棵,4,[m.w. (for plants)]
 植,zhí,植,4,"to plant, to grow"
 概,gài,概,4,"general, overall"
-橡,xiàng,橡,4,oak
-款,kuǎn,款,4,"amount, style"
+橡,xiàng,橡,4,<tree> oak
+款,kuǎn,款,4,sincere; section; sum of money; [m.w. (for versions/models)] style
 歉,qiàn,歉,4,"sorry, regretful"
 止,zhǐ,止,4,stop; to stop
-此,cǐ,此,4,this
+此,cǐ,此,4,<classical> this
 死,sǐ,死,4,death
 母,mǔ,母,4,mother
 畢,bì,毕,4,to finish
@@ -967,10 +969,10 @@
 汗,hàn,汗,4,sweat
 江,jiāng,江,4,river
 汙,wū,污,4,"to pollute, to contaminate"
-湯,tāng,汤,4,"soup, broth"
+湯,tāng,汤,4,"hot water; soup, broth"
 沙,shā,沙,4,sand
 油,yóu,油,4,oil
-泉,quán,泉,4,spring
+泉,quán,泉,4,spring (water)
 潑,pō,泼,4,"to splash, to spill"
 洋,yáng,洋,4,ocean
 洲,zhōu,洲,4,islet in a river; continent
@@ -981,19 +983,19 @@
 海,hǎi,海,4,sea
 消,xiāo,消,4,to vanish; to eliminate
 深,shēn,深,4,deep
-溫,wēn,温,4,warm
+溫,wēn,温,4,"warm, lukewarm"
 演,yǎn,演,4,"to perform, to act"
 漫,màn,漫,4,"to overflow, to roam"
 激,jī,激,4,"to excite, to provoke"
 煙,yān,烟,4,"smoke, tobacco"
 菸,yān,烟,4,tobacco
-烤,kǎo,烤,4,roast
+烤,kǎo,烤,4,to roast
 煩,fán,烦,4,"to trouble, to annoy"
-熟,shú,熟,4,"cooked,熟"
+熟,shú,熟,4,"ripe, mature; cooked; familiar; experienced, skilled"
 父,fù,父,4,father
 牌,pái,牌,4,"sign, plate"
 猜,cāi,猜,4,to guess
-琴,qín,琴,4,"zither, stringed instrument"
+琴,qín,琴,4,"<musical instrument> zither, stringed instrument"
 甚,shèn,甚,4,very
 由,yóu,由,4,from; reason
 申,shēn,申,4,to extend; to state; ninth (of earthly branch)
@@ -1021,17 +1023,17 @@
 積,jī,积,4,to accumulate
 程,chéng,程,4,"process, course"
 稍,shāo,稍,4,"a little, slightly"
-究,jiū,究,4,to investigate
+究,jiū,究,4,"to investigate, to probe, to study intensively"
 窮,qióng,穷,4,poor
 窗,chuāng,窗,4,window
-競,jìng,竞,4,compete
+競,jìng,竞,4,to compete
 竟,jìng,竟,4,"to end, to finish"
-章,zhāng,章,4,chapter
+章,zhāng,章,4,"badge; seal; regulation, order; chapter, section"
 童,tóng,童,4,"child, juvenile"
 符,fú,符,4,symbol
 笨,bèn,笨,4,"stupid, clumsy"
 簽,qiān,签,4,to sign
-籤,qiān,签,4,to sign
+籤,qiān,签,4,"inscribed bamboo stick (used in divination); label, tag"
 管,guǎn,管,4,"tube, pipe"
 篇,piān,篇,4,"piece, chapter"
 籍,jí,籍,4,family register
@@ -1062,7 +1064,7 @@
 肥,féi,肥,4,fat; plump
 肯,kěn,肯,4,to consent; to agree
 胳,gē,胳,4,arm
-臟,zàng,脏,4,internal organs; dirty
+臟,zàng,脏,4,internal organs
 髒,zāng,脏,4,dirty
 脫,tuō,脱,4,"to take off (clothes), to shed"
 脾,pí,脾,4,spleen
@@ -1074,19 +1076,20 @@
 苦,kǔ,苦,4,bitter
 獲,huò,获,4,"to gain, to obtain"
 穫,huò,获,4,to harvest
-萄,táo,萄,4,grape
+萄,táo,萄,4,{bound} <fruit> grape
 落,luò,落,4,to fall
 著,zhù,著,4,to write; to make known; outstanding
-葡,pú,葡,4,grape
-虎,hǔ,虎,4,tiger
-慮,lǜ,虑,4,"consider, worry"
-袋,dài,袋,4,bag
+葡,pú,葡,4,{bound} <fruit> grape
+虎,hǔ,虎,4,<animal> tiger
+慮,lǜ,虑,4,"to consider, to worry"
+袋,dài,袋,4,bag; pocket
 襪,wà,袜,4,sock
+觀,guàn,观,9,"tall building, platform; (Taoist) monastery"
 觀,guān,观,4,"to observe, to view"
 規,guī,规,4,"rule, regulation"
 言,yán,言,4,"words, speech"
 警,jǐng,警,4,to warn
-計,jì,计,4,plan; calculate
+計,jì,计,4,plan; to calculate
 討,tǎo,讨,4,to ask for; to send armed forces to suppress; to denounce; to incur
 許,xǔ,许,4,to allow
 論,lùn,论,4,to discuss
@@ -1964,7 +1967,7 @@
 嚥,yàn,咽,6,swallow
 哀,āi,哀,6,sorrow
 鬨,hòng,哄,6,"tumult, disturbance"
-哄,hǒng,哄,6,"to amuse (a child); to deceive, to coax"
+哄,hǒng,哄,6,"to amuse (child); to deceive, to coax"
 哄,hōng,哄,6,"coax, stirup"
 哄,hōng,哄,6,[ono.] roar of laughter
 哆,duō,哆,6,{bound} to tremble
@@ -1980,18 +1983,18 @@
 唆,suō,唆,6,incite
 脣,chún,唇,6,lips (of mouth)
 唐,táng,唐,6,<dynasty> Tang
-嘮,láo,唠,6,"chatter, nag"
-喚,huàn,唤,6,"call, summon"
+嘮,láo,唠,6,"to chatter, to nag"
+喚,huàn,唤,6,"to call, to summon"
 唾,tuò,唾,6,"spit, saliva"
-啃,kěn,啃,6,gnaw
+啃,kěn,啃,6,to gnaw
 啥,shá,啥,6,what
 啦,la,啦,6,particle
 嗇,sè,啬,6,"stingy, miserly"
-囉,luō,啰,6,"chatter, nag"
+囉,luō,啰,6,"to chatter, to nag"
 嘯,xiào,啸,6,"roar, whistle"
 喇,lǎ,喇,6,{transliteration}; trumpet
 喉,hóu,喉,6,"throat, larynx"
-喘,chuǎn,喘,6,"pant, gasp"
+喘,chuǎn,喘,6,"to pant, to gasp"
 喧,xuān,喧,6,"noisy, clamorous"
 喻,yù,喻,6,"metaphor, analogy"
 嗅,xiù,嗅,6,"smell, sniff"
@@ -2001,7 +2004,7 @@
 嘛,ma,嘛,6,(particle for emphasis)
 囑,zhǔ,嘱,6,"urge, exhort"
 嘲,cháo,嘲,6,"ridicule, mock"
-嘿,hēi,嘿,6,<exc. (for surprise or attention)> hey
+嘿,hēi,嘿,6,[exc. (for surprise or attention)] hey
 噪,zào,噪,6,"noisy, clamorous"
 嚷,rǎng,嚷,6,"to shout, to yell"
 嚼,jiáo,嚼,6,"to chew, to masticate"
@@ -2566,7 +2569,7 @@
 紳,shēn,绅,6,"gentleman, gentry"
 繹,yì,绎,6,to explain; to unravel
 綁,bǎng,绑,6,"to tie, to bind"
-綑,kuǎn,绑,6,to bind; to bundle
+綑,kǔn,捆,9,to bind; to bundle
 絨,róng,绒,6,fluff
 繪,huì,绘,6,to draw; to paint
 繡,xiù,绣,6,embroidery
@@ -3201,8 +3204,8 @@
 垠,yín,垠,9,boundary
 垢,gòu,垢,9,"dirt, filth"
 垣,yuán,垣,9,{archaic} wall
-墾,kěn,垦,9,"reclaim, cultivate"
-垮,kuǎ,垮,9,collapse
+墾,kěn,垦,9,"to reclaim, to cultivate"
+垮,kuǎ,垮,9,to collapse
 埂,gěng,埂,9,embankment
 埃,āi,埃,9,dust
 埔,pǔ,埔,9,field
@@ -3245,7 +3248,7 @@
 妤,yú,妤,9,"elegant, fair"
 嫵,wǔ,妩,9,"charming, graceful"
 妮,nī,妮,9,girl
-妯,zhóu,妯,9,wive of brother
+妯,zhóu,妯,9,<archaic> wive of brother
 妾,qiè,妾,9,concubine
 姊,zǐ,姊,9,elder sister
 姍,shān,姍,9,lithe (of a woman's walk)

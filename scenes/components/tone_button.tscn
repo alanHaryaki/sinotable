@@ -3,6 +3,7 @@
 [ext_resource type="Script" uid="uid://cns2ugj6qy6au" path="res://scenes/components/tone_button.gd" id="1_8jgqf"]
 
 [node name="ToneButton" type="Button"]
+show_behind_parent = true
 custom_minimum_size = Vector2(64, 40)
 offset_right = 8.0
 offset_bottom = 8.0

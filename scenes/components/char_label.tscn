@@ -4,7 +4,7 @@
 [ext_resource type="Script" uid="uid://v28dp066bk0p" path="res://scenes/components/char_label.gd" id="1_nrdal"]
 
 [node name="CharLabel" type="RichTextLabel"]
-custom_minimum_size = Vector2(320, 45)
+custom_minimum_size = Vector2(380, 45)
 offset_right = 40.0
 offset_bottom = 40.0
 size_flags_horizontal = 4

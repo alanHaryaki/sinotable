@@ -40,3 +40,8 @@ const VALID_RIMES: Array = [
 var dict: Dictionary
 
 var valid_neutral_syllables: Array
+
+var settings: Dictionary = {
+	"style": 1,
+	"range": 6,
+}

@@ -3,6 +3,7 @@
 [ext_resource type="Script" uid="uid://bju28uw7bgnwf" path="res://scenes/components/onset_button.gd" id="1_de6tv"]
 
 [node name="OnsetButton" type="Button"]
+show_behind_parent = true
 custom_minimum_size = Vector2(64, 40)
 offset_right = 8.0
 offset_bottom = 8.0

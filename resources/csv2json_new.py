@@ -26,6 +26,6 @@ def csv_to_json(csv_filename, json_filename):
         json.dump(data, json_file, ensure_ascii=False, indent=4)
 
 
-csv_filename = 'new_char_list.csv' 
+csv_filename = 'char_list.formatted_def.csv' 
 json_filename = 'dict.json'  
 csv_to_json(csv_filename, json_filename)

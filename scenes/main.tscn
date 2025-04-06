@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=3 uid="uid://gka2cm3or6bu"]
+[gd_scene load_steps=19 format=3 uid="uid://gka2cm3or6bu"]
 
 [ext_resource type="Theme" uid="uid://cksc3np537d7b" path="res://resources/theme.tres" id="1_0xm2m"]
 [ext_resource type="Script" uid="uid://doiqbbdc7bjvy" path="res://scenes/syllables_container.gd" id="1_ig7tw"]
@@ -9,10 +9,22 @@
 [ext_resource type="Script" uid="uid://by7qrve0c4h17" path="res://scenes/charlist.gd" id="6_tefeu"]
 [ext_resource type="FontFile" uid="uid://co7svwndxep88" path="res://assets/fonts/calibrib.ttf" id="7_tipki"]
 [ext_resource type="Script" uid="uid://c62m04215hlql" path="res://scenes/audio_stream_player.gd" id="9_85g3d"]
+[ext_resource type="Texture2D" uid="uid://cg172tqrubvvf" path="res://assets/sprites/logo.low_alpha.svg" id="10_eb6dy"]
+[ext_resource type="FontFile" uid="uid://2ewexih5ua3u" path="res://assets/fonts/calibrii.ttf" id="11_a8y0u"]
+[ext_resource type="Texture2D" uid="uid://ddf1jtudehlm1" path="res://assets/sprites/logo.gold.svg" id="11_trceg"]
+[ext_resource type="Texture2D" uid="uid://bc6jifurktokf" path="res://assets/sprites/logo.svg" id="12_a8y0u"]
+[ext_resource type="Script" uid="uid://blg464f78tfdy" path="res://scenes/settings_container.gd" id="12_jbj1t"]
+[ext_resource type="PackedScene" uid="uid://ctaev7r2lnpyg" path="res://scenes/components/char_label.tscn" id="13_jbj1t"]
+[ext_resource type="FontFile" uid="uid://c38ujopc5thqd" path="res://assets/fonts/calibri.ttf" id="13_trceg"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_tbgi4"]
 font = ExtResource("7_tipki")
 font_size = 100
+font_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_jkv2x"]
+line_spacing = 0.0
+font_size = 32
 font_color = Color(0, 0, 0, 1)
 
 [node name="Main" type="Control"]
@@ -49,24 +61,28 @@ script = ExtResource("3_h2yge")
 
 [node name="Row1" type="HBoxContainer" parent="OnsetsContainer"]
 unique_name_in_owner = true
+show_behind_parent = true
 layout_mode = 2
 size_flags_horizontal = 8
 size_flags_vertical = 8
 
 [node name="Row2" type="HBoxContainer" parent="OnsetsContainer"]
 unique_name_in_owner = true
+show_behind_parent = true
 layout_mode = 2
 size_flags_horizontal = 8
 size_flags_vertical = 8
 
 [node name="Row3" type="HBoxContainer" parent="OnsetsContainer"]
 unique_name_in_owner = true
+show_behind_parent = true
 layout_mode = 2
 size_flags_horizontal = 8
 size_flags_vertical = 8
 
 [node name="Row4" type="HBoxContainer" parent="OnsetsContainer"]
 unique_name_in_owner = true
+show_behind_parent = true
 layout_mode = 2
 size_flags_horizontal = 8
 size_flags_vertical = 8
@@ -83,7 +99,7 @@ script = ExtResource("5_lquwl")
 [node name="DisplayContainer" type="VBoxContainer" parent="."]
 unique_name_in_owner = true
 layout_mode = 0
-offset_left = 128.0
+offset_left = 64.0
 offset_top = 280.0
 offset_right = 512.0
 offset_bottom = 680.0
@@ -112,3 +128,203 @@ script = ExtResource("6_tefeu")
 [node name="SyllableAudioPlayer" type="AudioStreamPlayer" parent="."]
 unique_name_in_owner = true
 script = ExtResource("9_85g3d")
+
+[node name="InfoPanel" type="TabContainer" parent="."]
+unique_name_in_owner = true
+top_level = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+tab_alignment = 2
+current_tab = 2
+tab_focus_mode = 0
+
+[node name="ABOUT" type="CenterContainer" parent="InfoPanel"]
+visible = false
+layout_mode = 2
+metadata/_tab_index = 0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="InfoPanel/ABOUT"]
+custom_minimum_size = Vector2(1000, 560)
+layout_mode = 2
+theme_override_colors/default_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/normal_font_size = 42
+text = "    Sinotable is a dictionary built on a systematic Chinese syllable table, reflecting the syllabic nature of the Chinese language. It allows you to easily find all common characters associated with a given syllable and compare them through simple, clear explanations.
+
+    Please note that the provided explanations are mostly the basic ones, focusing on the primary meaning of each character, with less emphasis on secondary, especially figurative, meanings."
+fit_content = true
+scroll_active = false
+vertical_alignment = 1
+
+[node name="ANNOTATIONS" type="CenterContainer" parent="InfoPanel"]
+visible = false
+layout_mode = 2
+metadata/_tab_index = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="InfoPanel/ANNOTATIONS"]
+custom_minimum_size = Vector2(1000, 540)
+layout_mode = 2
+horizontal_scroll_mode = 0
+vertical_scroll_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="InfoPanel/ANNOTATIONS/ScrollContainer"]
+custom_minimum_size = Vector2(1000, 540)
+layout_mode = 2
+theme_override_constants/separation = 20
+
+[node name="RichTextLabel" type="RichTextLabel" parent="InfoPanel/ANNOTATIONS/ScrollContainer/HBoxContainer"]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+size_flags_horizontal = 0
+theme_override_colors/default_color = Color(0, 0, 0, 1)
+theme_override_fonts/normal_font = ExtResource("13_trceg")
+theme_override_fonts/italics_font = ExtResource("11_a8y0u")
+theme_override_fonts/bold_font = ExtResource("7_tipki")
+theme_override_font_sizes/italics_font_size = 32
+theme_override_font_sizes/normal_font_size = 32
+theme_override_font_sizes/bold_font_size = 32
+bbcode_enabled = true
+text = "num.
+m.w.
+suf.
+pref.
+exc.
+p.
+unit of ...
+[i]
+bound 
+classic 
+archaic 
+imperial 
+[/i][b]
+mount
+river
+place
+element
+color
+plant
+animal
+horse
+tree
+food
+surname
+[/b]"
+scroll_active = false
+autowrap_mode = 0
+horizontal_alignment = 2
+
+[node name="Label" type="Label" parent="InfoPanel/ANNOTATIONS/ScrollContainer/HBoxContainer"]
+custom_minimum_size = Vector2(490, 560)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "numeral
+measure word, classifier
+suffix
+prefix
+exclamation
+particle
+measure unit
+
+character rarely seen alone
+classical character still widely used today
+classical character rarely used today
+character reserved for imperial use
+
+name of a mountain
+name of a river
+name of a place
+name of an element
+name of a color
+a type of plant
+a type of animal
+a type of horse
+a type of tree
+a type of food
+a Chinese surname"
+label_settings = SubResource("LabelSettings_jkv2x")
+vertical_alignment = 1
+
+[node name="SETTINGS" type="CenterContainer" parent="InfoPanel"]
+layout_mode = 2
+metadata/_tab_index = 2
+
+[node name="RichTextLabel" type="RichTextLabel" parent="InfoPanel/SETTINGS"]
+visible = false
+custom_minimum_size = Vector2(1000, 560)
+layout_mode = 2
+theme_override_colors/default_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/normal_font_size = 42
+text = "ABOUT:
+    Sinotable is a dictionary built on a systematic Chinese syllable table, reflecting the syllabic nature of the Chinese language. It allows you to easily find all common characters associated with a given syllable and compare them with simple, clear explanations.
+    Please note that the provided explanations are mostly the basic ones, focusing on the primary meaning of each character, with less emphasis on secondary, especially figurative, meanings.
+ANNOTATIONS
+    "
+fit_content = true
+
+[node name="SettingsContainer" type="VBoxContainer" parent="InfoPanel/SETTINGS"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 10
+script = ExtResource("12_jbj1t")
+
+[node name="StyleOptionsContainer" type="HBoxContainer" parent="InfoPanel/SETTINGS/SettingsContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 2
+
+[node name="Label" type="Label" parent="InfoPanel/SETTINGS/SettingsContainer/StyleOptionsContainer"]
+custom_minimum_size = Vector2(120, 40)
+layout_mode = 2
+theme_type_variation = &"HeaderLabel"
+text = "Style"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ExampleLabel" parent="InfoPanel/SETTINGS/SettingsContainer" instance=ExtResource("13_jbj1t")]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="RangeOptionsContainer" type="HBoxContainer" parent="InfoPanel/SETTINGS/SettingsContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(600, 0)
+layout_mode = 2
+theme_override_constants/separation = 2
+
+[node name="Label" type="Label" parent="InfoPanel/SETTINGS/SettingsContainer/RangeOptionsContainer"]
+custom_minimum_size = Vector2(120, 40)
+layout_mode = 2
+theme_type_variation = &"HeaderLabel"
+text = "Range"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ApplyButton" type="Button" parent="InfoPanel/SETTINGS/SettingsContainer"]
+custom_minimum_size = Vector2(96, 60)
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 8
+focus_mode = 0
+theme_type_variation = &"ApplyButton"
+text = "Apply"
+
+[node name="InfoButton" type="TextureButton" parent="."]
+top_level = true
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 0.92
+anchor_right = 0.053
+anchor_bottom = 1.0
+offset_right = 64.4
+offset_bottom = 64.0
+grow_vertical = 0
+scale = Vector2(0.5, 0.5)
+focus_mode = 0
+texture_normal = ExtResource("10_eb6dy")
+texture_pressed = ExtResource("11_trceg")
+texture_hover = ExtResource("12_a8y0u")
+
+[connection signal="pressed" from="InfoPanel/SETTINGS/SettingsContainer/ApplyButton" to="InfoPanel/SETTINGS/SettingsContainer" method="on_apply_button_pressed"]
+[connection signal="pressed" from="InfoButton" to="." method="on_menu_button_pressed"]

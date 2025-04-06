@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bjko80y0w60xt"]
+
+[ext_resource type="Theme" uid="uid://cksc3np537d7b" path="res://resources/theme.tres" id="1_rqwqy"]
+[ext_resource type="Script" uid="uid://b3a4y57pctrtd" path="res://scenes/components/choice_button.gd" id="2_0q3t3"]
+
+[node name="ChoiceButton" type="Button"]
+custom_minimum_size = Vector2(64, 40)
+focus_mode = 0
+theme = ExtResource("1_rqwqy")
+theme_type_variation = &"ChoiceButton"
+toggle_mode = true
+text = "1"
+script = ExtResource("2_0q3t3")
