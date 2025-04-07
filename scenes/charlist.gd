@@ -11,10 +11,12 @@ func clear() -> void:
 func display(list: Dictionary) -> void:
 	clear()
 	for char: String in list.keys():
-		if Global.settings["range"] == "all":
+		if Global.settings["range"] == 0:
+			pass
+		elif int(list[char]["level"]) <= Global.settings["range"]:
 			pass
 		else:
-			if Global.settings["range"][-1]
+			continue
 		var char_label: CharLabel = CHAR_LABEL_SCENE.instantiate()
-		char_label.populate(char, list[char]["simplified"], list[char]["meaning"])
+		char_label.populate(char, list[char]["simplified"], list[char]["meaning"], Global.settings["style"])
 		add_child(char_label)

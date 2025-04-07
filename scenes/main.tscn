@@ -1,4 +1,4 @@
-[gd_scene load_steps=19 format=3 uid="uid://gka2cm3or6bu"]
+[gd_scene load_steps=20 format=3 uid="uid://gka2cm3or6bu"]
 
 [ext_resource type="Theme" uid="uid://cksc3np537d7b" path="res://resources/theme.tres" id="1_0xm2m"]
 [ext_resource type="Script" uid="uid://doiqbbdc7bjvy" path="res://scenes/syllables_container.gd" id="1_ig7tw"]
@@ -10,6 +10,7 @@
 [ext_resource type="FontFile" uid="uid://co7svwndxep88" path="res://assets/fonts/calibrib.ttf" id="7_tipki"]
 [ext_resource type="Script" uid="uid://c62m04215hlql" path="res://scenes/audio_stream_player.gd" id="9_85g3d"]
 [ext_resource type="Texture2D" uid="uid://cg172tqrubvvf" path="res://assets/sprites/logo.low_alpha.svg" id="10_eb6dy"]
+[ext_resource type="Script" uid="uid://dsncy4i3n8xg8" path="res://scenes/info_panel.gd" id="10_muem4"]
 [ext_resource type="FontFile" uid="uid://2ewexih5ua3u" path="res://assets/fonts/calibrii.ttf" id="11_a8y0u"]
 [ext_resource type="Texture2D" uid="uid://ddf1jtudehlm1" path="res://assets/sprites/logo.gold.svg" id="11_trceg"]
 [ext_resource type="Texture2D" uid="uid://bc6jifurktokf" path="res://assets/sprites/logo.svg" id="12_a8y0u"]
@@ -25,7 +26,7 @@ font_color = Color(0, 0, 0, 1)
 [sub_resource type="LabelSettings" id="LabelSettings_jkv2x"]
 line_spacing = 0.0
 font_size = 32
-font_color = Color(0, 0, 0, 1)
+font_color = Color(0.482353, 0.482353, 0.482353, 1)
 
 [node name="Main" type="Control"]
 layout_mode = 3
@@ -139,17 +140,19 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 tab_alignment = 2
-current_tab = 2
+current_tab = 0
 tab_focus_mode = 0
+script = ExtResource("10_muem4")
 
 [node name="ABOUT" type="CenterContainer" parent="InfoPanel"]
-visible = false
+unique_name_in_owner = true
 layout_mode = 2
 metadata/_tab_index = 0
 
 [node name="RichTextLabel" type="RichTextLabel" parent="InfoPanel/ABOUT"]
 custom_minimum_size = Vector2(1000, 560)
 layout_mode = 2
+mouse_filter = 2
 theme_override_colors/default_color = Color(0, 0, 0, 1)
 theme_override_font_sizes/normal_font_size = 42
 text = "    Sinotable is a dictionary built on a systematic Chinese syllable table, reflecting the syllabic nature of the Chinese language. It allows you to easily find all common characters associated with a given syllable and compare them through simple, clear explanations.
@@ -160,6 +163,7 @@ scroll_active = false
 vertical_alignment = 1
 
 [node name="ANNOTATIONS" type="CenterContainer" parent="InfoPanel"]
+unique_name_in_owner = true
 visible = false
 layout_mode = 2
 metadata/_tab_index = 1
@@ -179,6 +183,7 @@ theme_override_constants/separation = 20
 custom_minimum_size = Vector2(150, 0)
 layout_mode = 2
 size_flags_horizontal = 0
+mouse_filter = 1
 theme_override_colors/default_color = Color(0, 0, 0, 1)
 theme_override_fonts/normal_font = ExtResource("13_trceg")
 theme_override_fonts/italics_font = ExtResource("11_a8y0u")
@@ -220,6 +225,7 @@ horizontal_alignment = 2
 custom_minimum_size = Vector2(490, 560)
 layout_mode = 2
 size_flags_horizontal = 3
+mouse_filter = 1
 text = "numeral
 measure word, classifier
 suffix
@@ -248,21 +254,10 @@ label_settings = SubResource("LabelSettings_jkv2x")
 vertical_alignment = 1
 
 [node name="SETTINGS" type="CenterContainer" parent="InfoPanel"]
+unique_name_in_owner = true
+visible = false
 layout_mode = 2
 metadata/_tab_index = 2
-
-[node name="RichTextLabel" type="RichTextLabel" parent="InfoPanel/SETTINGS"]
-visible = false
-custom_minimum_size = Vector2(1000, 560)
-layout_mode = 2
-theme_override_colors/default_color = Color(0, 0, 0, 1)
-theme_override_font_sizes/normal_font_size = 42
-text = "ABOUT:
-    Sinotable is a dictionary built on a systematic Chinese syllable table, reflecting the syllabic nature of the Chinese language. It allows you to easily find all common characters associated with a given syllable and compare them with simple, clear explanations.
-    Please note that the provided explanations are mostly the basic ones, focusing on the primary meaning of each character, with less emphasis on secondary, especially figurative, meanings.
-ANNOTATIONS
-    "
-fit_content = true
 
 [node name="SettingsContainer" type="VBoxContainer" parent="InfoPanel/SETTINGS"]
 unique_name_in_owner = true
@@ -283,9 +278,15 @@ text = "Style"
 horizontal_alignment = 1
 vertical_alignment = 1
 
+[node name="StyleExplainingLabel" type="Label" parent="InfoPanel/SETTINGS/SettingsContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+text = "Style of character display. Example below:"
+
 [node name="ExampleLabel" parent="InfoPanel/SETTINGS/SettingsContainer" instance=ExtResource("13_jbj1t")]
 unique_name_in_owner = true
 layout_mode = 2
+size_flags_horizontal = 0
 
 [node name="RangeOptionsContainer" type="HBoxContainer" parent="InfoPanel/SETTINGS/SettingsContainer"]
 unique_name_in_owner = true
@@ -300,6 +301,12 @@ theme_type_variation = &"HeaderLabel"
 text = "Range"
 horizontal_alignment = 1
 vertical_alignment = 1
+
+[node name="RangeExplainingLabel" type="Label" parent="InfoPanel/SETTINGS/SettingsContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+text = "Range of characters to display. 
+Characters beyond HSK6 are not completely revised, hence HSK1-6 are recommended."
 
 [node name="ApplyButton" type="Button" parent="InfoPanel/SETTINGS/SettingsContainer"]
 custom_minimum_size = Vector2(96, 60)
@@ -327,4 +334,4 @@ texture_pressed = ExtResource("11_trceg")
 texture_hover = ExtResource("12_a8y0u")
 
 [connection signal="pressed" from="InfoPanel/SETTINGS/SettingsContainer/ApplyButton" to="InfoPanel/SETTINGS/SettingsContainer" method="on_apply_button_pressed"]
-[connection signal="pressed" from="InfoButton" to="." method="on_menu_button_pressed"]
+[connection signal="pressed" from="InfoButton" to="." method="on_info_button_pressed"]

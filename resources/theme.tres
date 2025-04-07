@@ -1,8 +1,9 @@
-[gd_resource type="Theme" load_steps=28 format=3 uid="uid://cksc3np537d7b"]
+[gd_resource type="Theme" load_steps=30 format=3 uid="uid://cksc3np537d7b"]
 
 [ext_resource type="FontFile" uid="uid://co7svwndxep88" path="res://assets/fonts/calibrib.ttf" id="1_cjfk0"]
 [ext_resource type="FontFile" uid="uid://c38ujopc5thqd" path="res://assets/fonts/calibri.ttf" id="1_e1x85"]
 [ext_resource type="FontFile" uid="uid://2ewexih5ua3u" path="res://assets/fonts/calibrii.ttf" id="2_886mr"]
+[ext_resource type="FontFile" uid="uid://dphb748kf85uy" path="res://assets/fonts/calibriz.ttf" id="2_b751m"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_vidcg"]
 bg_color = Color(0.572549, 0.815686, 0.313726, 1)
@@ -23,20 +24,21 @@ corner_radius_bottom_right = 15
 corner_radius_bottom_left = 15
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_iehnn"]
-content_margin_left = 4.0
-content_margin_top = 4.0
-content_margin_right = 4.0
-content_margin_bottom = 4.0
-bg_color = Color(1, 0.365, 0.365, 1)
-draw_center = false
-border_width_left = 2
-border_width_top = 2
-border_width_right = 2
-border_width_bottom = 2
-corner_detail = 1
+bg_color = Color(0.741176, 0.843137, 0.933333, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_t7onf"]
 bg_color = Color(0.929412, 0.929412, 0.929412, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ouajo"]
+bg_color = Color(0, 0.690196, 0.941176, 1)
 corner_radius_top_left = 15
 corner_radius_top_right = 15
 corner_radius_bottom_right = 15
@@ -167,10 +169,12 @@ ApplyButton/styles/pressed = SubResource("StyleBoxFlat_60yue")
 CharLabel/base_type = &"RichTextLabel"
 CharLabel/colors/default_color = Color(0, 0, 0, 1)
 CharLabel/font_sizes/bold_font_size = 24
+CharLabel/font_sizes/bold_italics_font_size = 24
 CharLabel/font_sizes/italics_font_size = 24
 CharLabel/font_sizes/mono_font_size = 16
 CharLabel/font_sizes/normal_font_size = 24
 CharLabel/fonts/bold_font = ExtResource("1_cjfk0")
+CharLabel/fonts/bold_italics_font = ExtResource("2_b751m")
 CharLabel/fonts/italics_font = ExtResource("2_886mr")
 CharLabel/fonts/mono_font = ExtResource("1_e1x85")
 ChoiceButton/base_type = &"Button"
@@ -192,11 +196,9 @@ ChoiceButton/constants/h_separation = 0
 ChoiceButton/constants/icon_max_width = 0
 ChoiceButton/constants/outline_size = 0
 ChoiceButton/font_sizes/font_size = 32
-ChoiceButton/styles/disabled = SubResource("StyleBoxFlat_iehnn")
-ChoiceButton/styles/focus = SubResource("StyleBoxFlat_iehnn")
 ChoiceButton/styles/hover = SubResource("StyleBoxFlat_iehnn")
 ChoiceButton/styles/normal = SubResource("StyleBoxFlat_t7onf")
-ChoiceButton/styles/pressed = SubResource("StyleBoxFlat_iehnn")
+ChoiceButton/styles/pressed = SubResource("StyleBoxFlat_ouajo")
 GridContainer/constants/h_separation = 0
 GridContainer/constants/v_separation = 0
 HBoxContainer/constants/separation = 0
@@ -217,7 +219,7 @@ OnsetButton/styles/pressed = SubResource("StyleBoxFlat_1rmny")
 Panel/styles/panel = SubResource("StyleBoxFlat_aaf3v")
 SyllableButton/base_type = &"Button"
 SyllableButton/colors/font_color = Color(0, 0, 0, 1)
-SyllableButton/colors/font_disabled_color = Color(0.642793, 0.630633, 0.63064, 1)
+SyllableButton/colors/font_disabled_color = Color(0, 0, 0, 0)
 SyllableButton/colors/font_hover_color = Color(0, 0, 0, 1)
 SyllableButton/colors/font_pressed_color = Color(0, 0, 0, 1)
 SyllableButton/font_sizes/font_size = 24

@@ -3,7 +3,7 @@
 三,sān,三,1,[num.] three
 上,shàng,上,1,up; on
 下,xià,下,1,"down, below"
-不,bù,不,1,[n.p.] not
+不,bù,不,1,[negative p.] not
 東,dōng,东,1,east
 個,gè,个,1,individual; [m.w. (for objects)]
 中,zhòng,中,1,to hit; to win (a prize)
@@ -22,7 +22,7 @@
 京,jīng,京,1,capital city
 亮,liàng,亮,1,bright
 人,rén,人,1,human; person
-什,shén,什,1,[bound] [q.p.] what
+什,shén,什,1,{bound} [q.p.] what
 今,jīn,今,1,"today, present"
 他,tā,他,1,"he, him"
 們,men,们,1,[suf. (for plurality)]
@@ -59,7 +59,7 @@
 號,hào,号,1,"to call; order; number, size"
 吃,chī,吃,1,to eat
 同,tóng,同,1,"same; with, together"
-名,míng,名,1,"name, fame"
+名,míng,名,1,name; fame
 後,hòu,后,1,"after, back"
 后,hòu,后,1,queen
 嗎,ma,吗,1,[exc. (for question)]
@@ -143,7 +143,7 @@
 貓,māo,猫,1,<animal> cat
 現,xiàn,现,1,"to appear, to show; present, current"
 生,shēng,生,1,to grow; life; student
-電,diàn,电,1,"lightning, electricity"
+電,diàn,电,1,lightning; electricity
 的,dí,的,1,really and truly
 的,de,的,1,[structural p.]
 看,kàn,看,1,"to look, to see"
@@ -227,7 +227,7 @@
 可,kě,可,2,"can, may"
 右,yòu,右,2,right (side)
 司,sī,司,2,"manage, department"
-吧,ba,吧,2,(exclamation - question/uncertainty)
+吧,ba,吧,2,[exc. (for question/uncertainty)]
 告,gào,告,2,"to tell, to announce"
 員,yuán,员,2,member; person holding a post
 咖,gā,咖,2,{bound} {transliteration} curry
@@ -443,9 +443,9 @@
 週,zhōu,周,3,week
 周,zhōu,周,3,"circle, cycle; to circle; thorough"
 響,xiǎng,响,3,"sound, echo; to make a sound; loud"
-哭,kū,哭,3,cry
-啊,a,啊,3,(exclamation - surprise) ah
-啤,pí,啤,3,beer
+哭,kū,哭,3,to cry
+啊,a,啊,3,[exc. (for surprise)] ah
+啤,pí,啤,3,{transliteration} beer
 嘴,zuǐ,嘴,3,"mouth, beak"
 園,yuán,园,3,"garden, park"
 圖,tú,图,3,"picture, chart; to scheme, to attempt, to pursue"
@@ -694,7 +694,7 @@
 豐,fēng,丰,4,abundant
 麗,lì,丽,4,beautiful
 舉,jǔ,举,4,to raise; to lift
-之,zhī,之,4,{archai} <structrual p.> of
+之,zhī,之,4,{archaic} <structrual p.> of
 乒,pīng,乒,4,[ono.] sound of clashing
 乓,pāng,乓,4,[ono.] sound of clashing
 乘,chéng,乘,4,to ride
@@ -739,7 +739,7 @@
 傲,ào,傲,4,"proud, arrogant"
 允,yǔn,允,4,to permit
 光,guāng,光,4,light
-克,kè,克,4,to be able to; (unit of weight)  gram
+克,kè,克,4,to be able to; [unit of weight]  gram
 剋,kè,克,4,to overcome; to subdue
 免,miǎn,免,4,"to exempt, to avoid"
 入,rù,入,4,to enter
@@ -791,14 +791,14 @@
 受,shòu,受,4,to receive
 另,lìng,另,4,"other, another"
 臺,tái,台,4,"platform, stage"
-颱,tái,台,9,<bound> typhoon
+颱,tái,台,9,{bound} typhoon
 葉,yè,叶,4,leaf
 各,gè,各,4,"each, every"
 合,hé,合,4,to combine; to fit
 閤,hé,合,4,"to close; to combine, to join"
 否,fǒu,否,4,no; to deny
 吸,xī,吸,4,to inhale
-呀,yā,呀,4,(exclamation) ah
+呀,yā,呀,4,[exc.] ah
 味,wèi,味,4,"taste, smell"
 呼,hū,呼,4,to call; to exhale
 命,mìng,命,4,"fate; life; to order, to command"
@@ -1198,7 +1198,7 @@
 佩,pèi,佩,5,to wear; to admire
 依,yī,依,5,to rely on
 促,cù,促,5,"to urge, to hasten"
-俊,jùn,俊,5,"""handsome"""
+俊,jùn,俊,5,handsome
 俗,sú,俗,5,custom; common
 俱,jù,俱,5,all
 倡,chàng,倡,5,to advocate
@@ -1215,41 +1215,43 @@
 兼,jiān,兼,5,concurrently; holding more than one job
 冊,cè,册,5,"book, volume"
 軍,jūn,军,5,army
-農,nóng,农,5,farmer
+農,nóng,农,5,farmer; agriculture
 冠,guàn,冠,5,to put on a hat; champion
 冠,guān,冠,5,"hat, crown"
 沖,chōng,冲,5,"to rush, to rinse"
 衝,chōng,冲,5,"to rush, to charge"
 凍,dòng,冻,5,to freeze
 凌,líng,凌,5,to ascend
-憑,píng,凭,5,"rely on, lean on"
+憑,píng,凭,5,"to rely on, to lean on"
 擊,jī,击,5,"to strike, to hit"
-創,chuàng,创,5,"create, establish"
+創,chuàng,创,5,"to create, to establish"
 創,chuāng,创,5,"wound, injury"
 初,chū,初,5,"beginning, first"
 刪,shān,删,5,to delete
 制,zhì,制,5,"to control, to restrict; system"
 製,zhì,制,5,"to make, to create"
 刺,cì,刺,5,to stab; thorn
-剪,jiǎn,剪,5,scissors; to cut (with scissors)
-勸,quàn,劝,5,"urge, persuade"
+剪,jiǎn,剪,5,<tool> scissors; to cut (with scissors)
+勸,quàn,劝,5,"to urge, to persuade"
 劣,liè,劣,5,"inferior, bad"
 勁,jìng,劲,5,"strength, energy"
 勞,láo,劳,5,"labor, toil"
 勢,shì,势,5,"power, momentum"
 勤,qín,勤,5,"diligent, industrious"
-勿,wù,勿,5,do not
+勿,wù,勿,5,[negative p.] do not
 勻,yún,匀,5,"even, uniform"
 匆,cōng,匆,5,hurried
 疋,pǐ,匹,5,[m.w. (for clothes)]
 匹,pǐ,匹,5,"match; [m.w. (for horses and clothes)]; alone, single"
-升,shēng,升,5,to rise
+升,shēng,升,5,"to rise, to ascend; [unit of volume]"
+昇,shēng,升,5,(sun) to rise
+陞,shēng,升,5,to climb; to promote; {surname}
 華,huá,华,5,"China; splendid, magnificent"
 臥,wò,卧,5,"to lie, to crouch"
 卷,juǎn,卷,5,"roll, volume"
-捲,juǎn,卷,5,roll
+捲,juǎn,卷,5,to roll
 廠,chǎng,厂,5,"factory, plant"
-釐,lí,厘,5,a unit of measurement
+釐,lí,厘,5,[unit of length]
 廂,xiāng,厢,5,compartment
 廈,xià,厦,5,"mansion, building"
 縣,xiàn,县,5,county; district
@@ -1305,7 +1307,7 @@
 墻,qiáng,墙,5,wall
 牆,qiáng,墙,5,wall
 壁,bì,壁,5,"wall, partition"
-壺,hú,壶,5,"pot, jug"
+壺,hú,壶,5,"<vessel> pot, jug"
 夕,xī,夕,5,evening
 夜,yè,夜,5,night
 夸,kuā,夸,5,to boast
@@ -1313,7 +1315,7 @@
 夾,jiá,夹,9,double-layered
 夾,jiā,夹,5,"to press (from both side), to hold between; to mix; clip"
 奈,nài,奈,5,to deal with
-套,tào,套,5,set
+套,tào,套,5,"to cover, to encase; cover, sheath; [m.w. (for sets)] set"
 婦,fù,妇,5,woman
 妙,miào,妙,5,wonderful
 妨,fáng,妨,5,"to hinder, to obstruct"
@@ -1325,7 +1327,7 @@
 威,wēi,威,5,power
 娘,niáng,娘,5,mother; young lady
 娛,yú,娱,5,to amuse
-娶,qǔ,娶,5,marry
+娶,qǔ,娶,5,(man) to marry
 婆,pó,婆,5,old woman
 媒,méi,媒,5,matchmaker; medium
 嫁,jià,嫁,5,(woman) to marry
@@ -1334,22 +1336,24 @@
 孝,xiào,孝,5,filial piety; mourning
 寧,níng,宁,5,"peaceful, rather"
 守,shǒu,守,5,"guard, defend"
-官,guān,官,5,official
+官,guān,官,5,government official
 寶,bǎo,宝,5,"treasure, precious"
 寵,chǒng,宠,5,"to love, to favor, to spoil"
-宣,xuān,宣,5,proclaim
+宣,xuān,宣,5,to proclaim
 宴,yàn,宴,5,feast
 寬,kuān,宽,5,"wide, lenient"
-宿,sù,宿,5,lodging
+宿,sù,宿,5,"lodge for night; old, former"
+宿,xiù,宿,9,constellation
+宿,xiǔ,宿,9,[m.w. (for nights)]
 寂,jì,寂,5,silent
-寓,yù,寓,5,"residence, metaphor"
+寓,yù,寓,5,"to reside, to inhabit; residence; metaphor"
 寞,mò,寞,5,"lonely, desolate"
 尋,xún,寻,5,"to search, to seek"
 壽,shòu,寿,5,"longevity, old age"
 射,shè,射,5,to shoot
 塵,chén,尘,5,"dust, dirt"
 尚,shàng,尚,5,"still, esteem"
-尺,chǐ,尺,5,ruler; foot (unit of length)
+尺,chǐ,尺,5,<tool> ruler; [unit of length] foot
 尾,wěi,尾,5,tail
 屈,qū,屈,5,"tobend, yield"
 屜,tì,屉,5,drawer
@@ -1359,13 +1363,12 @@
 嶼,yǔ,屿,5,island
 島,dǎo,岛,5,island
 岸,àn,岸,5,"shore, bank"
-鉅,jù,巨,5,huge
+鉅,jù,钜,9,heavy iron
 巨,jù,巨,5,huge
 巴,bā,巴,5,"to cling, to hope"
 幣,bì,币,5,coin
 布,bù,布,5,cloth; to spread
-帘,lián,帘,5,curtain
-簾,lián,帘,5,curtain
+簾,lián,帘,5,"hanging screen, curtain"
 席,xí,席,5,seat
 幅,fú,幅,5,width; [m.w. (for paintings)]
 幕,mù,幕,5,"curtain, screen"
@@ -1380,11 +1383,11 @@
 彎,wān,弯,5,curved
 弱,ruò,弱,5,weak
 強,qiáng,强,5,strong
-強,qiǎng,强,5,force
+強,qiǎng,强,5,to force
 歸,guī,归,5,"to return, to go back"
 錄,lù,录,5,"diary, record; to copy"
 形,xíng,形,5,"shape, form"
-徹,chè,彻,5,"penetrate, thorough"
+徹,chè,彻,5,to penetrate; thorough
 彼,bǐ,彼,5,that; he
 征,zhēng,征,5,"journey, campaign"
 徵,zhēng,征,5,"to recruit; to levy (taxes); phenomenon, symptom"
@@ -1396,7 +1399,7 @@
 忽,hū,忽,5,suddenly; to neglect
 怨,yuàn,怨,5,resentment
 戀,liàn,恋,5,"to feel attached to, to long for, to love"
-恢,huī,恢,5,restore
+恢,huī,恢,5,to restore
 恨,hèn,恨,5,to hate; hatred; regret
 恭,gōng,恭,5,respectful
 懇,kěn,恳,5,"earnest, sincere"
@@ -1408,7 +1411,7 @@
 悲,bēi,悲,5,"sad, sorrowful"
 惠,huì,惠,5,favor; kindness
 慚,cán,惭,5,"ashamed, remorseful"
-愁,chóu,愁,5,"worry, sorrow"
+愁,chóu,愁,5,to worry; sorrow
 愧,kuì,愧,5,"ashamed, guilty"
 慌,huāng,慌,5,anxious; hurried
 慎,shèn,慎,5,"careful, cautious"
@@ -1446,7 +1449,7 @@
 擠,jǐ,挤,5,"to squeeze, to crowd"
 揮,huī,挥,5,"to wave, to swing"
 振,zhèn,振,5,to shake
-捐,juān,捐,5,donate
+捐,juān,捐,5,to donate
 損,sǔn,损,5,"to damage, to harm"
 撿,jiǎn,捡,5,"to pick up, to gather"
 掌,zhǎng,掌,5,palm; to control
@@ -1468,15 +1471,15 @@
 撕,sī,撕,5,"to tear, to rip"
 撞,zhuàng,撞,5,"to bump, to collide"
 操,cāo,操,5,"to operate, to handle"
-政,zhèng,政,5,politics
+政,zhèng,政,5,political; politics; government
 敵,dí,敌,5,"to oppose, to resist"
 敏,mǐn,敏,5,"quick, agile, smart"
-救,jiù,救,5,"rescue, help"
-敬,jìng,敬,5,respect
+救,jiù,救,5,"to rescue, to help"
+敬,jìng,敬,5,to respect
 鬥,dòu,斗,5,to fight; fight
-斗,dǒu,斗,5,a measure unit
+斗,dǒu,斗,9,<ancient vessel>; [unit of volume]
 斜,xié,斜,5,slanted
-施,shī,施,5,apply
+施,shī,施,5,to apply
 旦,dàn,旦,5,"dawn, morning"
 旬,xún,旬,5,ten-day period
 昆,kūn,昆,5,elder brother
@@ -1547,23 +1550,24 @@
 漲,zhǎng,涨,5,"to rise, to increase"
 淘,táo,淘,5,to wash
 淡,dàn,淡,5,light (flavor)
+漸,jiān,渐,5,to imbue
 漸,jiàn,渐,5,to gradually change
-濕,shī,湿,5,wet
-溼,shī,湿,5,"wet, damp"
+濕,shī,湿,5,"wet, damp"
+溼,shī,湿,9,"wet, damp"
 源,yuán,源,5,"source, origin"
 滑,huá,滑,5,"to slip, to slide"
 滾,gǔn,滚,5,"to roll, to tumble"
 灘,tān,滩,5,"beach, sandbank"
 滴,dī,滴,5,"to drip, to drop"
 漏,lòu,漏,5,"to leak, to spill"
-漠,mò,漠,5,"desert, indifferent"
+漠,mò,漠,5,desert; indifferent
 潮,cháo,潮,5,"tide, current"
 灰,huī,灰,5,"ash, gray"
 靈,líng,灵,5,"spirit, soul"
 災,zāi,灾,5,disaster
 炒,chǎo,炒,5,"to fry, to stir-fry"
 炭,tàn,炭,5,charcoal
-炮,pào,炮,5,cannon (a weapon)
+炮,pào,炮,5,<weapon> cannon
 炸,zhà,炸,5,to explode
 爛,làn,烂,5,"to rot, to spoil"
 烈,liè,烈,5,intense
@@ -1579,17 +1583,17 @@
 狂,kuáng,狂,5,"mad, crazy"
 狡,jiǎo,狡,5,cunning
 獨,dú,独,5,"to be alone, to be solitary"
-獅,shī,狮,5,lion
-豬,zhū,猪,5,pig
-獻,xiàn,献,5,"to present, to offer"
-猴,hóu,猴,5,monkey
-猾,huá,猾,5,"crafty, sly"
-率,shuài,率,5,lead (an army)
+獅,shī,狮,5,<animal> lion
+豬,zhū,猪,5,<animal> pig
+獻,xiàn,献,5,"<animal> to present, to offer"
+猴,hóu,猴,5,<animal> monkey
+猾,huá,猾,5,"{bound} crafty, sly"
+率,shuài,率,5,to lead (army)
 玉,yù,玉,5,jade
 王,wáng,王,5,king
-玻,bō,玻,5,glass
+玻,bō,玻,5,{bound} glass
 珍,zhēn,珍,5,treasure
-璃,lí,璃,5,glass
+璃,lí,璃,5,{bound} glass
 甩,shuǎi,甩,5,"to throw, to swing"
 甲,jiǎ,甲,5,first (of heavenly stem); armor
 略,lüè,略,5,"strategy;  to capture (territory); to omit; a bit, somewhat"
@@ -1609,8 +1613,8 @@
 睜,zhēng,睁,5,to open eyes
 瞎,xiā,瞎,5,blind
 瞧,qiáo,瞧,5,"to look at, to watch"
-矛,máo,矛,5,spear
-矩,jǔ,矩,5,(carpenter's) square; rectangle; rules
+矛,máo,矛,5,<weapon> spear
+矩,jǔ,矩,5,<tool> (carpenter's) square; rectangle; rules
 石,shí,石,5,stone
 砍,kǎn,砍,5,to chop
 硬,yìng,硬,5,hard
@@ -1622,7 +1626,7 @@
 祕,mì,秘,5,secret
 秩,zhì,秩,5,order
 稱,chēng,称,5,"to call, to name"
-移,yí,移,5,move
+移,yí,移,5,to move
 稅,shuì,税,5,tax
 穩,wěn,稳,5,stable
 窄,zhǎi,窄,5,narrow
@@ -1632,12 +1636,12 @@
 類,lèi,类,5,"type, category; to resemble"
 粘,zhān,粘,5,"to glue, to paste"
 糧,liáng,粮,5,grain
-糊,hú,糊,5,paste
+糊,hú,糊,5,"<food> gruel, paste; muddled"
 糙,cāo,糙,5,rough
-糟,zāo,糟,5,spoiled
+糟,zāo,糟,5,"distillers' grains; rotten, ruined"
 素,sù,素,5,plain
-索,suǒ,索,5,search
-紫,zǐ,紫,5,purple
+索,suǒ,索,5,"to search, to demand; large rope"
+紫,zǐ,紫,5,<color> purple
 繁,fán,繁,5,complicated; abundant
 純,chún,纯,5,pure
 綱,gāng,纲,5,cord; main principle
@@ -1703,13 +1707,12 @@
 藏,cáng,藏,5,to store
 虛,xū,虚,5,empty; false
 蟲,chóng,虫,5,"insect, bug"
-虫,huǐ,虫,5,insect
 虹,hóng,虹,5,rainbow
-蛇,shé,蛇,5,snake
-蜂,fēng,蜂,5,"bee, wasp"
+蛇,shé,蛇,5,<animal> snake
+蜂,fēng,蜂,5,"<animal> bee, wasp"
 蜜,mì,蜜,5,honey
-蝴,hú,蝴,5,butterfly
-蝶,dié,蝶,5,butterfly
+蝴,hú,蝴,5,{bound} <animal> butterfly
+蝶,dié,蝶,5,<animal> butterfly
 血,xiě,血,5,blood
 血,xuè,血,5,blood
 衡,héng,衡,5,to balance
@@ -1731,17 +1734,17 @@
 謂,wèi,谓,5,to say
 謙,qiān,谦,5,humble
 謹,jǐn,谨,5,"careful, cautious"
-豆,dòu,豆,5,bean
+豆,dòu,豆,5,<ancient vessel>; <crop> bean
 豪,háo,豪,5,heroic
 豫,yù,豫,5,to anticipate
 貝,bèi,贝,5,shell; money
-貢,gòng,贡,5,tribute
+貢,gòng,贡,5,to tribute
 財,cái,财,5,wealth
-賬,zhàng,账,5,account
+賬,zhàng,账,5,"account, bill, debt"
 貼,tiē,贴,5,"to paste; to keep close to; allowance, subsidy"
-貸,dài,贷,5,loan
+貸,dài,贷,5,"to lend, to borrow; loan"
 貿,mào,贸,5,trade
-賞,shǎng,赏,5,reward
+賞,shǎng,赏,5,to reward; reward
 賠,péi,赔,5,to compensate
 讚,zàn,赞,5,to praise
 贊,zàn,赞,5,to support
@@ -1765,7 +1768,7 @@
 返,fǎn,返,5,to return
 違,wéi,违,5,to violate
 迫,pò,迫,5,to urge
-述,shù,述,5,narrate
+述,shù,述,5,to narrate
 跡,jī,迹,5,trace
 追,zhuī,追,5,"to chase, to pursue; to recall"
 退,tuì,退,5,"to retreat, to withdraw"
@@ -1782,20 +1785,20 @@
 避,bì,避,5,to avoid
 配,pèi,配,5,to match
 醬,jiàng,酱,5,sauce
-醉,zuì,醉,5,drunk
+醉,zuì,醉,5,"drunk, intoxicated"
 醋,cù,醋,5,vinegar
 採,cǎi,采,5,to pick
-采,cǎi,采,5,to pick
+采,cǎi,采,5,"color; complexion, looks"
 釣,diào,钓,5,to fish
-鈴,líng,铃,5,bell
+鈴,líng,铃,5,<musical instrument> bell
 鏈,liàn,链,5,chain
 銷,xiāo,销,5,to melt; to cancel; to sell
 鎖,suǒ,锁,5,lock; to lock
-鍋,guō,锅,5,"pot, pan (a cooking vessel)"
+鍋,guō,锅,5,"<cooking vessel> pot, pan"
 閃,shǎn,闪,5,to flash; lightning; to dodge; to appear suddenly
 閉,bì,闭,5,to close; to shut
 闖,chuǎng,闯,5,to rush in
-閑,xián,闲,5,"railing, balustrade; leisure"
+閑,xián,闲,9,"railing, balustrade; leisure"
 閒,xián,闲,5,leisure
 防,fáng,防,5,to defend; to prevent
 陣,zhèn,阵,5,formation
@@ -1813,8 +1816,8 @@
 震,zhèn,震,5,"to shake, to vibrate, to quake"
 霉,méi,霉,5,mold
 霉,méi,霉,5,to go moldy
-黴,méi,霉,5,mold (a fungus)
-青,qīng,青,5,"blue, green"
+黴,méi,霉,5,<fungus> mold
+青,qīng,青,5,"<color> blue, green"
 靠,kào,靠,5,to rely on
 革,gé,革,5,leather
 鞭,biān,鞭,5,whip
@@ -1826,8 +1829,8 @@
 顆,kē,颗,5,[m.w. (for small and round things)]
 飄,piāo,飘,5,to float (in the air)
 食,shí,食,5,{archaic} to eat; food
-飾,shì,饰,5,decoration; to decorate; to hide; excuse; to play (a role)
-饅,mán,馒,5,steamed bun <food>
+飾,shì,饰,5,decoration; to decorate; to hide; excuse; to play (role)
+饅,mán,馒,5,<food> steamed bun
 駛,shǐ,驶,5,(horse/vehicle) to speed; to go
 駕,jià,驾,5,"carriage; to harness, to ride, to drive"
 罵,mà,骂,5,to scold; to curse
@@ -1835,26 +1838,26 @@
 骨,gǔ,骨,5,bone
 髦,máo,髦,5,fringe (of ancient children's hairstyle); fashionable
 鬼,guǐ,鬼,5,ghost
-魅,mèi,魅,5,demon; magic; to charm
+魅,mèi,魅,5,<ghost> demon; magic; to charm
 麥,mài,麦,5,<crop> wheat
 鼠,shǔ,鼠,5,"<animal> rat, mouse"
 齊,qí,齐,5,"to be equal; together; even, orderly"
 齒,chǐ,齿,5,tooth
-龍,lóng,龙,5,dragon
+龍,lóng,龙,5,<legendary beast> dragon
 丁,dīng,丁,6,fourth (of heavenly stem); male adult
 丐,gài,丐,6,beggar
 丘,qiū,丘,6,hill
 丙,bǐng,丙,6,third (of heavenly stem)
 叢,cóng,丛,6,"cluster, collection"
-喪,sàng,丧,6,"lose, mourning"
+喪,sàng,丧,6,to lose; mourning
 串,chuàn,串,6,"string, skewer; to skewer"
 丸,wán,丸,6,pill; small round object
-烏,wū,乌,6,crow; black
-乞,qǐ,乞,6,beg
+烏,wū,乌,6,<bird> crow; <color> black
+乞,qǐ,乞,6,to beg
 乳,rǔ,乳,6,milk; breast
 予,yǔ,予,6,to give; to grant
 井,jǐng,井,6,water well
-亡,wáng,亡,6,"todie, disappear"
+亡,wáng,亡,6,"to die, to disappear"
 亦,yì,亦,6,"also, too"
 亭,tíng,亭,6,pavilion
 仁,rén,仁,6,"kindness, benevolence"
@@ -1870,10 +1873,10 @@
 倫,lún,伦,6,human relationship; order
 僞,wěi,伪,6,"false, fake"
 伯,bó,伯,6,elder brother; uncle
-伶,líng,伶,6,"clever, actor"
-伺,sì,伺,6,wait; spy
-佣,yōng,佣,6,servant; commission
-傭,yōng,佣,6,"hire, employ"
+伶,líng,伶,6,clever; actor
+伺,sì,伺,6,to wait; to spy
+佣,yòng,佣,6,commission (for middleman)
+傭,yōng,佣,6,"to hire, to employ; servant"
 佳,jiā,佳,6,"good, beautiful"
 侃,kǎn,侃,6,frank; talkative
 姪,zhí,侄,6,nephew
@@ -1883,9 +1886,9 @@
 僥,jiǎo,侥,6,"by chance, luckily"
 偵,zhēn,侦,6,to investigate
 側,cè,侧,6,side
-僑,qiáo,侨,6,overseas Chinese
+僑,qiáo,侨,6,emigrant; to reside abroad
 侮,wǔ,侮,6,to insult
-侵,qīn,侵,6,invade
+侵,qīn,侵,6,to invade
 俐,lì,俐,6,clever
 俘,fú,俘,6,to capture
 儉,jiǎn,俭,6,"frugal, thrifty"
@@ -1894,9 +1897,9 @@
 倘,tǎng,倘,6,if
 倦,juàn,倦,6,tired
 債,zhài,债,6,"debt, loan"
-傾,qīng,倾,6,"incline, lean"
-偏,piān,偏,6,biased
-儲,chǔ,储,6,"store, reserve"
+傾,qīng,倾,6,"to incline, to lean"
+偏,piān,偏,6,"to lean, to slant; to deviate, to stray"
+儲,chǔ,储,6,"to store, to reserve"
 僵,jiāng,僵,6,"stiff, rigid"
 僻,pì,僻,6,"remote, secluded"
 儒,rú,儒,6,Confucian scholar
@@ -1947,36 +1950,36 @@
 吁,xū,吁,6,to sigh; to call out
 吉,jí,吉,6,"lucky, auspicious"
 吊,diào,吊,6,to hang
-弔,diào,吊,6,"to condole, to mourn"
+弔,diào,吊,9,"to condole, to mourn"
 吊,diào,吊,6,"condolence, hang"
-君,jūn,君,6,"ruler, gentleman"
+君,jūn,君,6,ruler; gentleman
 吝,lìn,吝,6,stingy
 吞,tūn,吞,6,to swallow
 吟,yín,吟,6,to chant
 吩,fēn,吩,6,to instruct
 吼,hǒu,吼,6,to roar
 呈,chéng,呈,6,to present
-嘔,ǒu,呕,6,"vomit, retch"
+嘔,ǒu,呕,6,"to vomit, to retch"
 呵,hē,呵,6,to scold; to breathe
 呻,shēn,呻,6,to groan
-咀,jǔ,咀,6,chew
-咋,zǎ,咋,6,"why, how"
+咀,jǔ,咀,6,to chew
+咋,zǎ,咋,6,"[interrogative p.] why, how"
 咐,fù,咐,6,to instruct
 嚨,lóng,咙,6,{bound} throat
-咽,yàn,咽,6,swallow
-嚥,yàn,咽,6,swallow
+咽,yān,咽,6,"throat, pharynx"
+嚥,yàn,咽,6,to swallow
 哀,āi,哀,6,sorrow
-鬨,hòng,哄,6,"tumult, disturbance"
+鬨,hòng,哄,9,"tumult, disturbance"
 哄,hǒng,哄,6,"to amuse (child); to deceive, to coax"
-哄,hōng,哄,6,"coax, stirup"
-哄,hōng,哄,6,[ono.] roar of laughter
+哄,hōng,哄,9,"coax, stirup"
+哄,hōng,哄,9,[ono.] roar of laughter
 哆,duō,哆,6,{bound} to tremble
-哇,wā,哇,6,"exclamation (surprise), wow"
+哇,wā,哇,6,[exc. (for surprise)] wow
 啞,yǎ,哑,6,"mute, dumb"
 嘩,huá,哗,6,"uproar, clamor"
 譁,huā,哗,6,to make a noise
-哦,ó,哦,6,(exclamation - question) oh
-哦,ò,哦,6,(exclamation - realization) oh
+哦,ó,哦,6,[exc. (for question)] oh
+哦,ò,哦,6,[exc. (for realization)] oh
 哨,shào,哨,6,whistle
 哺,bǔ,哺,6,to feed
 哼,hēng,哼,6,[ono.] hum
@@ -2040,7 +2043,7 @@
 央,yāng,央,6,center; to beg
 奪,duó,夺,6,"to seize, to snatch"
 奉,fèng,奉,6,"to offer, to respect"
-奏,zòu,奏,6,to play (a musical instrument); to report (to emperor)
+奏,zòu,奏,6,to play <musical instrument>; to report (to emperor)
 奔,bēn,奔,6,"to run, to flee"
 奠,diàn,奠,6,"offer sacrifice, lay foundation"
 奢,shē,奢,6,luxury
@@ -2072,7 +2075,7 @@
 宰,zǎi,宰,6,"to govern, to rule; minister; to slaughter"
 宵,xiāo,宵,6,evening
 寢,qǐn,寝,6,"sleep, bedroom"
-寸,cùn,寸,6,inch (unit of length)
+寸,cùn,寸,6,inch [unit of length]
 寺,sì,寺,6,temple
 尖,jiān,尖,6,"sharp, pointed"
 尬,gà,尬,6,awkward
@@ -2342,7 +2345,7 @@
 毅,yì,毅,6,"firm, resolute"
 氏,shì,氏,6,"clan, familyname"
 氓,máng,氓,6,"common people, mob"
-氧,yǎng,氧,6,oxygen (element)
+氧,yǎng,氧,6,oxygen <element>
 汰,tài,汰,6,to eliminate
 洶,xiōng,汹,6,"torrential rush; tumultuous, turbulent"
 沃,wò,沃,6,fertile
@@ -2445,11 +2448,11 @@
 爽,shuǎng,爽,6,refreshing
 牢,láo,牢,6,"firm, prison"
 牧,mù,牧,6,"to shepherd, to graze"
-牲,shēng,牲,6,sacrifice
-牽,qiān,牵,6,"lead, pull"
+牲,shēng,牲,6,animal sacrifice; domestic animal
+牽,qiān,牵,6,"to lead, to pull"
 犧,xī,牺,6,"to sacrifice, to give up"
-犬,quǎn,犬,6,dog
-犯,fàn,犯,6,commit (crime)
+犬,quǎn,犬,6,{classical} <animal> dog
+犯,fàn,犯,6,to commit (crime)
 狽,bèi,狈,6,<legendary beast>
 狠,hěn,狠,6,ruthless; harsh
 狹,xiá,狭,6,narrow
@@ -3081,7 +3084,7 @@
 吮,shǔn,吮,9,to suck
 吱,zhī,吱,9,[ono.] sound of creaking or mouse sequeaking
 吳,wú,吴,9,<surname>
-吶,nà,吶,9,(onomatopoeic)
+吶,nà,吶,9,[ono.]
 吾,wú,吾,9,"I, me"
 呃,è,呃,9,"[ono.] hiccup, belch"
 呎,chǐ,呎,9,foot (measurement)
@@ -3093,7 +3096,7 @@
 呶,nǔ,呶,9,to pout
 呷,xiā,呷,9,"to sip, to slurp"
 呸,pēi,呸,9,[ono.] spit (out of disgust)
-咄,duō,咄,9,(exclamation)
+咄,duō,咄,9,[exc. (for disapproval)] tut
 咆,páo,咆,9,"to roar, to bellow"
 咎,jiù,咎,9,fault; to blame
 詠,yǒng,咏,9,to chant
@@ -3102,29 +3105,29 @@
 咚,dōng,咚,9,[ono.] knocking sound
 鼕,dōng,咚,9,[ono.] knocking sound
 嚀,níng,咛,9,"gently advise, urge"
-咦,yí,咦,9,(exclamation - surprise)
-咧,lie,咧,9,(exclamation)
+咦,yí,咦,9,[exc. (for surprise)]
+咧,lie,咧,9,[exc.]
 咧,liě,咧,9,to draw back one's lips
-咧,liē,咧,9,(onomatopoeic)
+咧,liē,咧,9,[ono.]
 咪,mī,咪,9,"[ono.] sound of cat, meow"
-咫,zhǐ,咫,9,(a unit of length)
+咫,zhǐ,咫,9,[unit of length]
 咯,gē,咯,9,[ono.] laugh sound
 咯,kǎ,咯,9,cough up
-咯,lo,咯,9,(exclamation)
+咯,lo,咯,9,[exc.]
 咻,xiū,咻,9,[ono.] whistling sound
 哂,shěn,哂,9,smile; to smile; to sneer
-哉,zāi,哉,9,exclamation (confirmation)
-噥,nóng,哝,9,"mutter, mumble"
-喲,yō,哟,9,"(exclamation) oh, hey"
-哩,lǐ,哩,9,mile (loanword)
+哉,zāi,哉,9,[exc. (for confirmation)]
+噥,nóng,哝,9,"to mutter, to mumble"
+喲,yō,哟,9,"[exc.] oh, hey"
+哩,lǐ,哩,9,[unit of length] mile
 哩,lī,哩,9,[ono.] exclamation
 哮,xiào,哮,9,to howl
 唁,yàn,唁,9,condolences
 唔,wú,唔,9,[ono.]
 唧,jī,唧,9,[ono.] sound of bird
 唬,hǔ,唬,9,"to bluff, to scare"
-唳,lì,唳,9,cry (of a crane or wild goose)
-唷,yō,唷,9,(exclamation - surprise)
+唳,lì,唳,9,cry (of crane/wild goose)
+唷,yō,唷,9,[exc. (for surprise)]
 啄,zhuó,啄,9,to peck
 啕,táo,啕,9,to cry
 啖,dàn,啖,9,{archaic} to eat
@@ -3135,28 +3138,28 @@
 啻,chì,啻,9,"only, merely"
 啼,tí,啼,9,"weep, cry"
 啾,jiū,啾,9,[ono.] chirping sound
-喀,kā,喀,9,"vomit, cough up"
-喃,nán,喃,9,"mutter, murmur"
-喋,dié,喋,9,"chatter, babble"
-喔,ō,喔,9,(exclamation - realization) oh
+喀,kā,喀,9,[ono.] sound of coughing or vomiting
+喃,nán,喃,9,"to mutter, to murmur"
+喋,dié,喋,9,"to chatter, to babble"
+喔,ō,喔,9,[exc. (for realization)] oh
 喔,wō,喔,9,[ono.] crowing of a cock
-喟,kuì,喟,9,"sigh, lament"
-喱,lí,喱,9,grain (loanword); curry powder (in Hong Kong usage)
+喟,kuì,喟,9,"{archaic} to sigh, to lament"
+喱,lí,喱,9,[unit of weight] grain
 喳,zhā,喳,9,"[ono.] chirping, chattering"
 喵,miāo,喵,9,"[ono.] sound of cat, meow"
-嘍,lóu,喽,9,"(exclamation) hey, look"
+嘍,lóu,喽,9,"[exc.] hey, look"
 嗑,kè,嗑,9,crack (seeds); chatter
 嗜,shì,嗜,9,"addicted to, fond of"
-嗟,jiē,嗟,9,"sigh, lament"
+嗟,jiē,嗟,9,"{archaic} to sigh, to lament"
 嗡,wēng,嗡,9,[ono.] buzzing sound
-嗣,sì,嗣,9,"inherit, continue"
-嗤,chī,嗤,9,"scoff, sneer"
+嗣,sì,嗣,9,succession; to inherit
+嗤,chī,嗤,9,"to scoff, to sneer"
 嗥,háo,嗥,9,"howl, wail"
-囁,niè,嗫,9,"whisper, murmur"
-噯,ài,嗳,9,sigh; belch
+囁,niè,嗫,9,"to whisper, to murmur"
+噯,ài,嗳,9,to sigh; belch
 嗷,áo,嗷,9,"[ono.] wailing, crying"
-嗾,sǒu,嗾,9,"incite, instigate"
-嘀,dí,嘀,9,"whisper, murmur"
+嗾,sǒu,嗾,9,"to incite, to instigate"
+嘀,dí,嘀,9,"to whisper, to murmur"
 嘎,gā,嘎,9,"[ono.] creaking, cracking"
 嘖,zé,嘖,9,[ono.] clicking tongue
 噓,xū,嘘,9,"sigh, hush"
@@ -3164,20 +3167,20 @@
 嚶,yīng,嘤,9,"chirping, twittering"
 嘶,sī,嘶,9,"hoarse, hiss"
 嘹,liáo,嘹,9,clear and melodious (sound)
-嘻,xī,嘻,9,"laugh, giggle"
-噎,yē,噎,9,"choke, gag"
-噗,pū,噗,9,"[ono.] puff, pop"
-噙,qín,噙,9,hold in the mouth
-嚕,lū,噜,9,"mumble, grumble"
-噢,ō,噢,9,(exclamation - realization) oh
-噤,jìn,噤,9,"silent, shut up"
+嘻,xī,嘻,9,"[exc.] laugh, giggle"
+噎,yē,噎,9,"to choke, to gag"
+噗,pū,噗,9,"[ono.] puff, pop; [exc.]"
+噙,qín,噙,9,to hold in the mouth
+嚕,lū,噜,9,"to mumble, to grumble"
+噢,ō,噢,9,[exc. (for realization)] oh
+噤,jìn,噤,9,silent; to shut up
 噩,è,噩,9,"terrible, ominous"
-噫,yī,噫,9,"belch, sigh"
-噬,shì,噬,9,"bite, devour"
+噫,yī,噫,9,"[exc.] belch, sigh"
+噬,shì,噬,9,"to bite, to devour"
 噱,jué,噱,9,"laughter, joke"
 噱,xué,噱,9,[ono.] guffaw
-嚅,rú,嚅,9,"mutter, murmur"
-嚎,háo,嚎,9,"howl, wail"
+嚅,rú,嚅,9,"to mutter, to murmur"
+嚎,háo,嚎,9,"to howl, to wail"
 囂,xiāo,嚣,9,"noisy, arrogant"
 囊,náng,囊,9,"sack, bag"
 囚,qiú,囚,9,prisoner
@@ -3342,7 +3345,7 @@
 岫,xiù,岫,9,"cave, peak"
 嶺,lǐng,岭,9,mountain range
 岱,dài,岱,9,<mount>
-岷,mín,岷,9,(name of a river)
+岷,mín,岷,9,<river>
 峙,zhì,峙,9,"(mountain) to stand firm, to tower aloft"
 峽,xiá,峡,9,gorge
 崢,zhēng,峥,9,steep
@@ -3385,12 +3388,12 @@
 弁,biàn,弁,9,{archaic}(a type of man's cap)
 弈,yì,弈,9,chess
 弒,shì,弑,9,murder (of a king or superior)
-弓,gōng,弓,9,bow (weapon)
+弓,gōng,弓,9,bow <weapon>
 弗,fú,弗,9,not
 弘,hóng,弘,9,"vast, expand"
 弛,chí,弛,9,"to relax, to loosen"
 弧,hú,弧,9,arc
-弩,nǔ,弩,9,crossbow (weapon)
+弩,nǔ,弩,9,crossbow <weapon>
 弭,mǐ,弭,9,"{archaic} to stop, to repress"
 弼,bì,弼,9,"assist, help"
 彗,huì,彗,9,comet
@@ -3700,7 +3703,7 @@
 毗,pí,毗,9,close
 斃,bì,毙,9,"to die, to kill"
 毽,jiàn,毽,9,shuttlecock
-氐,dī,氐,9,(name of an ancient ethnic)
+氐,dī,氐,9,{archaic} <ethnicity>
 氖,nǎi,氖,9,neon
 氟,fú,氟,9,fluorine
 氫,qīng,氢,9,hydrogen
@@ -3716,12 +3719,12 @@
 汕,shàn,汕,9,(fish) to swim
 汝,rǔ,汝,9,"{archaic} thou, you"
 汞,gǒng,汞,9,mercury
-汨,mì,汨,9,(name of a river)
+汨,mì,汨,9,<river>
 汪,wāng,汪,9,(water) deep and vast; <surname>
 汲,jí,汲,9,to draw (water)
-汾,fén,汾,9,(name of a river)
+汾,fén,汾,9,<river>
 沁,qìn,沁,9,"seep, soak"
-沅,yuán,沅,9,(name of a river)
+沅,yuán,沅,9,<river>
 瀋,shěn,沈,9,<surname>
 沌,dùn,沌,9,chaos
 淪,lún,沦,9,to sink
@@ -3732,18 +3735,18 @@
 泓,hóng,泓,9,"pond, pool"
 泗,sì,泗,9,a river in China
 泱,yāng,泱,9,"vast, great"
-涇,jīng,泾,9,(name of a river)
+涇,jīng,泾,9,<river>
 洌,liè,洌,9,clear
-洛,luò,洛,9,(name of a river)
+洛,luò,洛,9,<river>
 洱,ěr,洱,9,<lake>
 窪,wā,洼,9,"depression, basin"
 漿,jiāng,浆,9,"paste, starch"
-浙,zhè,浙,9,(name of a river)
-浚,jùn,浚,9,to dredge (a river)
-濬,jùn,浚,9,"to dredge, to deepen"
+浙,zhè,浙,9,<river>
+浚,jùn,浚,9,to dredge (river)
+濬,jùn,浚,9,to dredge
 浦,pǔ,浦,9,shore
-浩,hào,浩,9,vast
-浬,lǐ,浬,9,nautical mile
+浩,hào,浩,9,(water) vast
+浬,lǐ,浬,9,[unit of length] nautical mile
 涎,xián,涎,9,saliva
 涓,juān,涓,9,stream
 漣,lián,涟,9,"ripples, waves"
@@ -3752,16 +3755,16 @@
 澗,jiàn,涧,9,"stream, ravine"
 涯,yá,涯,9,shore
 涸,hé,涸,9,dried up
-淄,zī,淄,9,(name of a river)
+淄,zī,淄,9,<river>
 淅,xī,淅,9,drizzle
-淇,qí,淇,9,river name
+淇,qí,淇,9,<river>
 淌,tǎng,淌,9,to flow
 淑,shū,淑,9,virtuous
-淙,cóng,淙,9,gurgling (water)
+淙,cóng,淙,9,(water) gurgling
 淞,sōng,淞,9,frost
 淤,yū,淤,9,silt; to silt
 淫,yín,淫,9,"licentious, lustful"
-淮,huái,淮,9,(name of a river)
+淮,huái,淮,9,<river>
 淳,chún,淳,9,"pure, simple, honest"
 淵,yuān,渊,9,abyss
 渙,huàn,渙,9,"to disperse, to scatter"
@@ -3936,7 +3939,7 @@
 璦,ài,璦,9,precious jade
 璧,bì,璧,9,jade disc
 璩,qú,璩,9,precious jade
-瓠,hù,瓠,9,gourd (a type of plant)
+瓠,hù,瓠,9,gourd <plant>
 瓢,piáo,瓢,9,"gourd, ladle"
 甌,ōu,瓯,9,(name of a drinking vessel) bowl; <place>
 甄,zhēn,甄,9,"to choose, to judge"
@@ -4114,7 +4117,7 @@
 篤,dǔ,笃,9,"sincere, earnest"
 笆,bā,笆,9,fence
 筍,sǔn,笋,9,bamboo shoot
-笙,shēng,笙,9,(a musical instrument)
+笙,shēng,笙,9,<musical instrument>
 笛,dí,笛,9,flute
 笞,chī,笞,9,to flog
 笠,lì,笠,9,bamboo hat
@@ -4230,7 +4233,7 @@
 耘,yún,耘,9,to weed (in farmland)
 耙,bà,耙,9,<tool> harrow; to harrow
 耜,sì,耜,9,{archaic} <tool> plowshare
-耶,yé,耶,9,(exclamation - question)
+耶,yé,耶,9,[exc. (for question)]
 耿,gěng,耿,9,"bright, briliant; honest, upright"
 聶,niè,聂,9,<surname>
 聆,líng,聆,9,to listen
@@ -4334,7 +4337,7 @@
 荀,xún,荀,9,<surname>
 荊,jīng,荊,9,thorn
 荏,rěn,荏,9,soft
-荔,lì,荔,9,(a type of plant) lychee
+荔,lì,荔,9,<plant> lychee
 蔭,yīn,荫,9,shade
 荷,hé,荷,9,lotus
 荸,bí,荸,9,water chestnut (a type of fruit)
@@ -4348,7 +4351,7 @@
 莞,guǎn,莞,9,rush (plant)
 莠,yǒu,莠,9,weed
 莢,jiá,莢,9,pod
-莨,làng,莨,9,(a type of plant) creeping plant
+莨,làng,莨,9,<plant> creeping plant
 莩,fú,莩,9,husk
 萊,lái,莱,9,weed
 蓮,lián,莲,9,lotus
@@ -4362,7 +4365,7 @@
 菠,bō,菠,9,spinach (a type of vegetable)
 菩,pú,菩,9,bodhi
 菰,gū,菰,9,reed
-菱,líng,菱,9,(a type of plant) water chestnut
+菱,líng,菱,9,<plant> water chestnut
 菲,fēi,菲,9,luxuriant
 菴,ān,菴,9,a hermitage
 菽,shū,菽,9,beans
@@ -4392,7 +4395,7 @@
 蓀,sūn,蓀,9,a type of plant
 蓆,xí,蓆,9,mats
 蓉,róng,蓉,9,lotus
-蓓,bèi,蓓,9,a kind of flower
+蓓,bèi,蓓,9,{bound} flower bud
 驀,mò,蓦,9,"to leap over, to surpass; suddenly"
 蓿,xù,蓿,9,{bound} <plant> clover
 蔔,bó,蔔,9,rutabaga
@@ -4400,33 +4403,33 @@
 蔡,cài,蔡,9,<surname>
 薔,qiáng,蔷,9,rose
 藺,lìn,蔺,9,<surname>
-蕈,xùn,蕈,9,fungus
+蕈,xùn,蕈,9,"mold, mushroom"
 蕊,ruǐ,蕊,9,pistil
-蕙,huì,蕙,9,orchid
-蕨,jué,蕨,9,fern
+蕙,huì,蕙,9,<plant> orchid
+蕨,jué,蕨,9,<plant> fern
 蕪,wú,芜,9,overgrown with weeds
-薇,wēi,薇,9,a type of fern
+薇,wēi,薇,9,<plant>
 薛,xuē,薛,9,<surname>
-薜,bì,薜,9,a type of plant
-藪,sǒu,薮,9,marsh
-薯,shǔ,薯,9,potato
+薜,bì,薜,9,<plant>
+藪,sǒu,薮,9,marsh overgrown with wild plants
+薯,shǔ,薯,9,<vegetable> potato
 薰,xūn,薰,9,to smoke
 藉,jiè,藉,9,to borrow
-蘚,xiǎn,藓,9,moss
-藕,ǒu,藕,9,lotus root
+蘚,xiǎn,藓,9,<fungus> moss
+藕,ǒu,藕,9,root of lotus
 籐,téng,藤,9,vine
 藤,téng,藤,9,vine
 藩,fān,藩,9,territory
-藻,zǎo,藻,9,algae
-蘑,mó,蘑,9,mushroom
-蘗,biāo,蘗,9,(a type of plant)
+藻,zǎo,藻,9,<plant> algae
+蘑,mó,蘑,9,{bound} <fungus> mushroom
+蘗,biāo,蘗,9,<plant>
 蘸,zhàn,蘸,9,to dip
 虔,qián,虔,9,devout
 虞,yú,虞,9,anticipation; danger
 虱,shī,虱,9,<animal> lice
 蝦,xiā,虾,9,<animal> shrimp
 蚊,wén,蚊,9,<animal> mosquito
-蚌,bàng,蚌,9,clam
+蚌,bàng,蚌,9,<animal> clam
 蚓,yǐn,蚓,9,<animal> earthworm
 蠶,cán,蚕,9,<animal> silkworm
 蚣,gōng,蚣,9,{bound} <animal> millipede
@@ -4466,13 +4469,13 @@
 蠅,yíng,蝇,9,<animal> fly
 蟬,chán,蝉,9,<animal> cicada
 蝌,kē,蝌,9,{bound} <animal> tadpole
-蠍,xiē,蝎,9,scorpion
-蝗,huáng,蝗,9,locust
+蠍,xiē,蝎,9,<animal> scorpion
+蝗,huáng,蝗,9,<animal> locust
 蝙,biān,蝙,9,{bound} <animal> bat
 蝠,fú,蝠,9,{bound} <animal> bat
 蝨,shī,蝨,9,<animal> louse
 螂,láng,螂,9,<animal> mantis
-螃,páng,螃,9,<animal> crab
+螃,páng,螃,9,{bound} <animal> crab
 螟,míng,螟,9,<animal> pest
 螫,zhē,螫,9,"(bee/spider) to sting, to bite"
 螫,shì,螫,9,"{archaic} (bee/spider) to sting, to bite"
@@ -4481,14 +4484,15 @@
 螻,lóu,螻,9,<animal> cricket
 蟀,shuài,蟀,9,{bound} <animal> cricket
 蟆,má,蟆,9,<animal> toad
-蟈,guō,蟈,9,grasshopper
+蟈,guō,蟈,9,<animal> grasshopper
 蟋,xī,蟋,9,{bound} <animal> cricket
 蟑,zhāng,蟑,9,<animal> cockroach
 蟒,mǎng,蟒,9,<animal> python
 蟹,xiè,蟹,9,<animal> crab
 蠔,háo,蠔,9,<animal> oyster
-蠕,rǔ,蠕,9,to wriggle
-蠡,lí,蠡,9,small vessel
+蠕,rú,蠕,9,to wriggle
+蠡,lǐ,蠡,9,<animal> wood-boring insect; <place>
+蠡,lí,蠡,9,{archaic} ladle (made of sea shell)
 蠣,lè,蠣,9,<animal> clam
 蠹,dù,蠹,9,<animal> insect that eats into books; worm-eaten
 衙,yá,衙,9,"{archaic} government office, yamen"
@@ -4535,7 +4539,7 @@
 託,tuō,讬,9,to entrust
 訥,nè,讷,9,"slow to speak, dull"
 訛,é,讹,9,to mistake
-訣,jué,诀,9,"secret, method"
+訣,jué,诀,9,"to bid farewell; trick, method"
 詁,gǔ,诂,9,to explain (ancient text)
 詛,zǔ,诅,9,to curse
 詆,dǐ,诋,9,to slander
@@ -4556,7 +4560,7 @@
 諫,jiàn,谏,9,to remonstrate
 謁,yì,谒,9,to visit
 諭,yù,谕,9,to instruct
-讒,chán,谗,9,slander
+讒,chán,谗,9,to slander
 諺,yàn,谚,9,proverb
 諦,dì,谛,9,to understand
 謨,mó,谟,9,to plan
@@ -4565,16 +4569,16 @@
 譎,jué,谲,9,to deceive
 讖,chèn,谶,9,prophecy
 豁,huō,豁,9,to open up
-豉,chì,豉,9,fermented soybeans
-豌,wān,豌,9,pea
-豕,shǐ,豕,9,pig
-豚,tún,豚,9,pig
+豉,chǐ,豉,9,<food> fermented soybeans
+豌,wān,豌,9,<plant> pea
+豕,shǐ,豕,9,{archaic} <animal> pig
+豚,tún,豚,9,<animal> pig
 豢,huàn,豢,9,to raise (livestock)
-豹,bào,豹,9,leopard
-豺,chái,豺,9,jackal
-貂,diāo,貂,9,marten (a type of fur)
-貉,hé,貉,9,raccoon
-貊,mò,貊,9,ancient people of the north
+豹,bào,豹,9,<animal> leopard
+豺,chái,豺,9,<animal> jackal
+貂,diāo,貂,9,<animal> marten
+貉,hé,貉,9,<animal> raccoon
+貊,mò,貊,9,{archaic} <ethnicity>
 貞,zhēn,贞,9,chaste
 貯,zhù,贮,9,to store
 貳,èr,贰,9,two
@@ -4635,8 +4639,8 @@
 軋,jià,轧,9,to press; to squeeze
 軒,xuān,轩,9,pavilion
 軔,rèn,轫,9,carriage
-軛,è,轭,9,yoke (of a cart)
-轂,gǔ,轱,9,hub (of a wheel)
+軛,è,轭,9,yoke (of cart)
+轂,gǔ,轱,9,hub (of wheel)
 軻,kē,轲,9,<surname>
 軸,zhóu,轴,9,axis
 軼,yì,轶,9,anomalous; unusual
@@ -4649,19 +4653,19 @@
 轡,pèi,辔,9,horse reins
 輾,zhǎn,辗,9,to roll; to turn
 迂,yū,迂,9,roundabout
-迆,yǐ,迆,9,"winding, meandering"
+迆,yǐ,迆,9,"{bound} winding, meandering"
 迢,tiáo,迢,9,long distance
 迥,jiǒng,迥,9,different
-迦,jiā,迦,9,a Sanskrit honorific
+迦,jiā,迦,9,{transliteration}
 迪,dí,迪,9,to enlighten
 迭,dié,迭,9,to repeat
 逕,jìng,迳,9,path
-迺,nǎi,迺,9,(a character used in place names)
-逅,hòu,逅,9,meet
+迺,nǎi,迺,9,<place>
+逅,hòu,逅,9,{bound} to meet by chance
 逍,xiāo,逍,9,to wander; to roam
-逖,tì,逖,9,distant
-逞,chěng,逞,9,to indulge
-逵,kuí,逵,9,road
+逖,tì,逖,9,"{archaic} distant, remote"
+逞,chěng,逞,9,"to show off, to flaunt; to succeed; to indulge"
+逵,kuí,逵,9,"road, crossroad"
 逸,yì,逸,9,leisure; ease
 逾,yú,逾,9,to exceed
 遁,dùn,遁,9,to escape
@@ -4672,9 +4676,12 @@
 遨,áo,遨,9,to roam
 遴,lín,遴,9,to choose
 遽,jù,遽,9,sudden
-邂,xì,邂,9,to meet by chance
-邇,ěr,邇,9,near
-邐,lǐ,邐,9,name of a place
+邂,xì,邂,9,{bound} to meet by chance
+邇,ěr,迩,9,"{archaic} recent; near, close"
+逶,wēi,逶,9,{bound} long and winding
+迤,yí,迤,9,{bound} long and winding
+迤,yǐ,迤,9,{bound} winding
+邐,lǐ,逦,9,{bound} winding
 邑,yì,邑,9,"town, city"
 嶝,dèng,嶝,9,"ridge, hill"
 鄧,dèng,邓,9,<surname>
@@ -4688,79 +4695,80 @@
 鄒,zōu,邹,9,<surname>
 郡,jùn,郡,9,district
 郭,guō,郭,9,outer city wall
-鄂,è,鄂,9,a province in China
-鄱,pó,鄱,9,Poyang Lake
+鄂,è,鄂,9,<place>
+鄱,pó,鄱,9,<lake>
 鄹,zōu,鄹,9,<surname>
 酉,yǒu,酉,9,tenth (of earthly branch)
-酊,dǐng,酊,9,medicinal liquor
+酊,dīng,酊,9,{transliteration} tincture
+酊,dǐng,酊,9,{bound} blink drunk
 酋,qiú,酋,9,chieftain
 酣,hān,酣,9,drunken; intoxicated
-酥,sū,酥,9,flaky (like pastry)
-酩,mǐng,酩,9,drunken
-酪,lào,酪,9,cheese
-酵,jiào,酵,9,fermentation
-醇,chún,醇,9,pure
+酥,sū,酥,9,flaky pastry; crunchy
+酩,mǐng,酩,9,{bound} blink drunk
+酪,lào,酪,9,<food> cheese
+酵,jiào,酵,9,yeast; fermentation
+醇,chún,醇,9,"wine (with high alcohol content), good wine; rich, pure"
 醺,xūn,醺,9,to get drunk
-釉,yòu,釉,9,glaze
+釉,yòu,釉,9,glaze (of porcelain)
 釜,fǔ,釜,9,kettle
 鑾,luán,銮,9,{archaic} small tinkling bell (on imperial carriage)
 鏖,áo,鏖,9,to fight fiercely
-鈾,yóu,钇,9,a rare element
+鈾,yóu,钇,9,<element> 
 釗,zhāo,钊,9,<surname>
 釵,chāi,钗,9,hairpin
-鈉,nà,钠,9,sodium
-鈞,jūn,钧,9,a unit of weight
-鎢,wū,钨,9,tungsten (element)
+鈉,nà,钠,9,<element> sodium
+鈞,jūn,钧,9,{archaic} <unit of weight>
+鎢,wū,钨,9,<element> tungsten
 鈕,niǔ,钮,9,button
 釧,chuàn,钏,9,"armlet, bracelet"
 鈐,qián,钤,9,"latch (of door), seal"
-鉗,qián,钳,9,pliers
-鈷,gǔ,钴,9,cobalt
-鈸,pá,钸,9,gong
-鈽,bù,钹,9,cymbal
-鉀,jiǎ,钾,9,potassium
-鉑,bó,铂,9,platinum
+鉗,qián,钳,9,<tool> pliers
+鈷,gǔ,钴,9,<element> cobalt
+鈸,bó,钹,9,<musical instrument> gong
+鈽,bū,钸,9,metal plate
+鉀,jiǎ,钾,9,<element> potassium
+鉑,bó,铂,9,<element> platinum
 鑠,shuò,铄,9,"to melt, to fuse"
-鐸,duó,铎,9,{archaic} large bell (a musical instrument)
+鐸,duó,铎,9,{archaic} <musical instrument> large bell 
 銬,kào,铐,9,handcuffs
-鐃,náo,铙,9,{archaic} large cymbal (a musical instrument)
+鐃,náo,铙,9,{archaic} <musical instrument> large cymbal
 鐺,dāng,铛,9,"[ono.] sound of metal, clank"
-鋁,lǚ,铝,9,aluminum (element)
-銖,zhū,铢,9,(unit of weight)
+鋁,lǚ,铝,9,<element> aluminum
+銖,zhū,铢,9,[unit of weight]
 銓,quán,铨,9,to weigh
-鉻,gè,铬,9,chromium (element)
+鉻,gè,铬,9,<element> chromium
 錚,zhēng,铮,9,[ono.] clang of metals
 鉸,jiǎo,铰,9,hinge
 剷,chǎn,铲,9,"shovel, eradicate"
-鏟,chǎn,铲,9,shovel <tool>
+鏟,chǎn,铲,9,<tool> shovel
 鏗,kēng,铿,9,"[ono.] sound of metal, clang"
-鋤,chú,锄,9,hoe <tool>; to dig
-銼,cuò,锉,9,file <tool>; to file
-鋅,xīn,锌,9,zinc (element)
-銻,tī,锑,9,antimony (element)
-錨,máo,锚,9,anchor
-錫,xī,锡,9,tin (element)
-鑼,luó,锣,9,gong (a musical instrument)
+鋤,chú,锄,9,<tool> hoe; to dig
+銼,cuò,锉,9,<tool> file; to file
+鋅,xīn,锌,9,<element> zinc
+銻,tī,锑,9,<element> antimony
+錨,máo,锚,9,anchor (of ship)
+錫,xī,锡,9,<element> tin
+鑼,luó,锣,9,<musical instrument> gong
 錐,zhuī,锥,9,cone; awl
 錠,dìng,锭,9,ingot
 鋸,jù,锯,9,saw <tool>; to saw
-錳,měng,锰,9,manganese (element)
+錳,měng,锰,9,<element> manganese
 鏘,qiāng,锵,9,"[ono.] sound of metal, clang"
 鍬,qiāo,锹,9,shovel <tool>
-鍰,huán,锾,9,"{archaic} money, fine; (unit of weight)"
+鍰,huán,锾,9,"{archaic} money, fine; [unit of weight]"
 鍍,dù,镀,9,to plate
-鎂,měi,镁,9,magnesium (element)
+鎂,měi,镁,9,<element> magnesium
 鏤,lòu,镂,9,to carve
-鎳,niè,镍,9,nickel (element)
+鎳,niè,镍,9,<element> nickel
 鎔,róng,镕,9,to melt (metal)
-鏢,biāo,镖,9,dart (weapon)
+鏢,biāo,镖,9,dart <weapon>
 鏜,tāng,镗,9,[ono.] sound of drum
-鏝,màn,镘,9,{archaic} trowel <tool>
-鏑,dí,镝,9,{archaic} arrow (with iron tip) (weapon)
-鏃,zú,镞,9,arrowhead (weapon)
-鐳,léi,镭,9,radium (element)
+鏝,màn,镘,9,{archaic} <tool> trowel
+鏑,dí,镝,9,{archaic} <weapon> arrow (with iron tip)
+鏃,zú,镞,9,<weapon> arrowhead
+鐳,léi,镭,9,<element> radium
 鐲,zhuó,镯,9,bracelet
-鐮,lián,镰,9,sickle <tool>
+鐮,lián,镰,9,<tool> sickle
 鑣,biāo,镳,9,bit (of bridle)
 閂,shuān,闩,9,"bolt (on a door), latch; to bolt"
 閏,rùn,闰,9,intercalation
@@ -4783,7 +4791,7 @@
 阪,bǎn,阪,9,"slope, hillside"
 阮,ruǎn,阮,9,<surname>
 陀,tuó,陀,9,"{archaic} slanted, skew"
-隴,lǒng,陇,9,(name of place)
+隴,lǒng,陇,9,<place>
 陝,shǎn,陕,9,<place>
 陛,bì,陛,9,emperor's throne
 隕,yǔn,陨,9,to fall (from sky); to perish
@@ -4827,7 +4835,7 @@
 韋,wéi,韦,9,soft leather; <surname>
 韓,hán,韩,9,(name of an ancient state)
 韜,tāo,韬,9,"sheath, bow case; to hide"
-韭,jiǔ,韭,9,leek (a type of plant)
+韭,jiǔ,韭,9,leek <plant>
 韻,yùn,韵,9,rhyme; appeal
 韶,sháo,韶,9,"splendid, gloriouss"
 頃,qǐng,顷,9,a short while; <unit of area>
@@ -4863,7 +4871,7 @@
 馭,yù,驭,9,"to control, to drive"
 馱,tuó,驮,9,to carry
 馴,xùn,驯,9,to tame
-驢,lǘ,驴,9,donkey <animal>
+驢,lǘ,驴,9,<animal> donkey
 駟,sì,驷,9,{archaic} team of four horses; horse
 駙,fù,驸,9,prince consort
 駒,jū,驹,9,"colt, young horse"

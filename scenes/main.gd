@@ -14,7 +14,8 @@ func _ready() -> void:
 	%TonesContainer.populate(self)
 	%SettingsContainer.populate(self)
 	%SettingsContainer.load_settings()
-	%MenuPanel.visible = false
+	%SettingsContainer.settings_applied.connect(on_settings_applied)
+	%InfoPanel.visible = false
 
 
 func load_dict() -> void:
@@ -57,6 +58,12 @@ func on_syllable_pressed(syllable: String) -> void:
 		%SyllableAudioPlayer.play_syllable_audio(syllable)
 
 
-func on_menu_button_pressed() -> void:
+func on_settings_applied() -> void:
+	for child: Node in %Charlist.get_children():
+		if child is CharLabel:
+			(child as CharLabel).set_style(Global.settings["style"])
+
+
+func on_info_button_pressed() -> void:
 	%InfoPanel.visible = not %InfoPanel.visible
 	%SettingsContainer.load_settings()
