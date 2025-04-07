@@ -581,7 +581,7 @@
 級,jí,级,3,level
 終,zhōng,终,3,end; to end
 結,jié,结,3,"to tie, to knot"
-綠,lǜ,绿,3,green
+綠,lǜ,绿,3,<color> green
 網,wǎng,网,3,net; network
 練,liàn,练,3,to practice; to train
 總,zǒng,总,3,"overall, total; always"
@@ -684,7 +684,7 @@
 鬚,xū,须,3,"beard, mustache"
 鮮,xiān,鲜,3,fresh; delicious
 鳥,niǎo,鸟,3,bird
-黃,huáng,黄,3,yellow
+黃,huáng,黄,3,<color> yellow
 鼻,bí,鼻,3,nose
 丟,diū,丢,4,"to lose, to throw away"
 並,bìng,并,4,and
@@ -1564,7 +1564,7 @@
 瘋,fēng,疯,5,"to be crazy, to go mad"
 療,liáo,疗,5,"to treat, to cure"
 癢,yǎng,痒,5,itchy
-皂,zào,皂,5,soap; black
+皂,zào,皂,5,soap; <color> black
 盆,pén,盆,5,basin
 益,yì,益,5,benefit; to benefit
 盼,pàn,盼,5,to hope
@@ -1962,18 +1962,18 @@
 喧,xuān,喧,6,"noisy, clamorous"
 喪,sàng,丧,6,to lose; mourning
 喻,yù,喻,6,"metaphor, analogy"
-嗅,xiù,嗅,6,"smell, sniff"
+嗅,xiù,嗅,6,"to smell, to sniff"
 嗇,sè,啬,6,"stingy, miserly"
-嗦,suō,嗦,6,"suck, slurp"
+嗦,suō,嗦,6,"to suck, to slurp"
 嗨,hāi,嗨,6,"hi, hey (greeting)"
-嘆,tàn,叹,6,"sigh, exclaim"
+嘆,tàn,叹,6,"to sigh, to exclaim"
 嘈,cáo,嘈,6,"noisy, clamorous"
 嘔,ǒu,呕,6,"to vomit, to retch"
-嘛,ma,嘛,6,(particle for emphasis)
+嘛,ma,嘛,6,[exc.]
 嘩,huá,哗,6,"uproar, clamor"
 嘮,láo,唠,6,"to chatter, to nag"
-嘯,xiào,啸,6,"roar, whistle"
-嘲,cháo,嘲,6,"ridicule, mock"
+嘯,xiào,啸,6,"to roar, to whistle"
+嘲,cháo,嘲,6,"to ridicule, to mock"
 嘿,hēi,嘿,6,[exc. (for surprise or attention)] hey
 噪,zào,噪,6,"noisy, clamorous"
 嚥,yàn,咽,6,to swallow
@@ -1981,7 +1981,7 @@
 嚷,rǎng,嚷,6,"to shout, to yell"
 嚼,jiáo,嚼,6,"to chew, to masticate"
 囉,luō,啰,6,"to chatter, to nag"
-囌,sū,苏,6,"revive, wake up"
+囌,sū,苏,6,{bound}
 囑,zhǔ,嘱,6,"urge, exhort"
 坑,kēng,坑,6,"pit, hole"
 坡,pō,坡,6,slope
@@ -2505,7 +2505,7 @@
 稿,gǎo,稿,6,"draft, manuscript"
 穀,gǔ,谷,6,grain
 穀,gǔ,谷,6,"grain, rice"
-穌,sū,苏,6,to revive
+穌,sū,苏,9,{archaic} to revive
 穎,yǐng,颖,6,talented
 穴,xué,穴,6,cave
 窩,wō,窝,6,"nest, den"
@@ -2635,19 +2635,19 @@
 薪,xīn,薪,6,firewood
 藐,miǎo,藐,6,to despise
 藹,ǎi,蔼,6,friendly
-蘇,sū,苏,6,to revive
+蘇,sū,苏,6,to wake up; to revive
 蘊,yùn,蕴,6,to accumulate
-虐,nüè,虐,6,to abuse
+虐,nüè,虐,6,"brutal, oppressive"
 虜,lǔ,虏,6,to capture
 蝕,shí,蚀,6,"to nibble; to erode, to corrode"
 融,róng,融,6,"to melt, to blend"
-螞,mǎ,蚂,6,ant
-蟻,yǐ,蚁,6,ant
+螞,mǎ,蚂,6,{archaic} <animal> ant
+蟻,yǐ,蚁,6,{archaic} <animal> ant
 蠟,là,蜡,6,wax
 蠢,chǔn,蠢,6,"stupid, foolish"
 蠻,mán,蛮,6,"barbarian (from south); rough, reckless"
 衍,yǎn,衍,6,to multiply; to be superfluous
-衰,shuāi,衰,6,decline
+衰,shuāi,衰,6,to decline
 衷,zhōng,衷,6,"middle; inner feelings, soul, heart"
 袍,páo,袍,6,robe
 袖,xiù,袖,6,sleeve
@@ -2659,7 +2659,7 @@
 覆,fù,覆,6,"to cover, to overturn"
 覓,mì,觅,6,to seek
 訊,xùn,讯,6,"news, message"
-訝,yà,讶,6,surprised
+訝,yà,讶,6,"surprised, astounded"
 訟,sòng,讼,6,lawsuit
 詐,zhà,诈,6,to cheat
 詫,chà,诧,6,to be astonished
@@ -2670,25 +2670,25 @@
 誣,wū,诬,6,to accuse falsely
 誦,sòng,诵,6,to recite
 誹,fěi,诽,6,to slander
-諜,dié,谍,6,spy
+諜,dié,谍,6,to spy
 諧,xié,谐,6,to harmonize
 諱,huì,讳,6,taboo; to avoid mentioning
 諸,zhū,诸,6,"all, various"
 諾,nuò,诺,6,to promise
-謀,móu,谋,6,to plan
-謊,huǎng,谎,6,lie
+謀,móu,谋,6,to plan; to seek
+謊,huǎng,谎,6,to lie; lies
 謎,mí,谜,6,riddle
 謗,bàng,谤,6,to slander
 謠,yáo,谣,6,song
 謬,miù,谬,6,to be wrong
 譁,huā,哗,6,to make a noise
 譏,jī,讥,6,to ridicule
-譜,pǔ,谱,6,a musical score
+譜,pǔ,谱,6,"chart, list; to set to music"
 譬,pì,譬,6,to compare
 譴,qiǎn,谴,6,to condemn
 譽,yù,誉,6,to praise
 谷,gǔ,谷,6,valley
-谿,xī,溪,6,brook
+谿,xī,溪,9,"brook, stream"
 豈,qǐ,岂,6,[qoestion p.] how
 豎,shù,竖,6,to stand upright
 貧,pín,贫,6,poor
@@ -2698,14 +2698,14 @@
 貶,biǎn,贬,6,to devalue
 賂,lù,赂,6,bribe
 賃,lìn,赁,6,to rent
-賄,huǐ,贿,6,bribe
-賊,zéi,贼,6,thief
+賄,huǐ,贿,6,to bribe
+賊,zéi,贼,6,thief; traitor
 賢,xián,贤,6,virtuous
 賦,fù,赋,6,to assign
 賭,dǔ,赌,6,to gamble
 賴,lài,赖,6,to rely
 贈,zèng,赠,6,to give as a gift
-赤,chì,赤,6,red; bare
+赤,chì,赤,6,<color> red; bare
 赴,fù,赴,6,to attend
 趴,pā,趴,6,to lie down
 跌,diē,跌,6,to fall
@@ -4026,15 +4026,15 @@
 砭,biān,砭,9,to grind
 砰,pēng,砰,9,[ono.] bang
 砷,shēn,砷,9,arsenic
-硃,zhū,硃,9,vermilion (a color); cinnabar (source of vermilion)
+硃,zhū,硃,9,<color> vermilion; cinnabar (source of vermilion)
 硝,xiāo,硝,9,nitrate
-硫,liú,硫,9,sulfur
+硫,liú,硫,9,<element> sulfur
 硯,yàn,砚,9,inkstone
 硼,péng,硼,9,boron
 碉,diāo,碉,9,fortified structure
-碘,diǎn,碘,9,iodine
+碘,diǎn,碘,9,<element> iodine
 碟,dié,碟,9,"plate, disk"
-碧,bì,碧,9,jade-green
+碧,bì,碧,9,green jade; <color> bluish green
 碾,niǎn,碾,9,to grind
 磊,lěi,磊,9,"pile, to pile"
 磐,pán,磐,9,"rock, stone"
@@ -4050,8 +4050,8 @@
 祀,sì,祀,9,to worship
 祁,qí,祁,9,<surname>
 祆,xiān,祆,9,Zoroastrianism
-祇,qí,祇,9,only
-祈,qí,祈,9,pray
+祇,qí,祇,9,god (of earth)
+祈,qí,祈,9,to pray
 祉,zhǐ,祉,9,blessing
 祐,yòu,祐,9,to bless
 祗,zhī,祗,9,reverence
@@ -4167,7 +4167,7 @@
 綽,chuò,绰,9,to hold; to grasp
 綾,líng,绫,9,a kind of fine silk
 綿,mián,绵,9,cotton; soft
-緇,zī,纃,9,black; dark
+緇,zī,缁,9,black silk; dark
 緘,jiān,缄,9,to seal; to close
 緞,duàn,缎,9,satin; damask
 緬,miǎn,缅,9,to recall; to mourn
@@ -4208,7 +4208,7 @@
 翎,líng,翎,9,feather
 翕,xī,翕,9,to close; to shut
 翟,zhái,翟,9,<surname>
-翠,cuì,翠,9,emerald green; jade
+翠,cuì,翠,9,green jade; <color> emerald green
 翡,fěi,翡,9,feather; greenish-blue
 翩,piān,翩,9,lightly; gracefully
 翰,hàn,翰,9,prominent; scholarly
